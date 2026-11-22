@@ -1,5 +1,5 @@
-import { CorporatePortal } from "@/components/corporate-portal"
+import { PortalShell } from "@/components/portal-shell"
 
 export default function Page() {
-  return <CorporatePortal />
+  return <PortalShell />
 }

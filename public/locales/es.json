@@ -1,0 +1,673 @@
+{
+  "switcher": {
+    "buttonLabel": "Idioma",
+    "modalTitle": "Preferencia de idioma",
+    "modalSubtitle": "Traduzca el portal corporativo y el catálogo de minerales a 25 idiomas nigerianos e internacionales.",
+    "searchPlaceholder": "Buscar idioma (p. ej., chino, turco, árabe, hausa, yoruba, igbo, kanuri, fulfulde...)",
+    "noMatches": "No se encontró ningún idioma coincidente.",
+    "groupNigerian": "Idiomas nigerianos",
+    "groupGlobal": "Comercio global y exportación",
+    "groupMore": "Más idiomas del mundo",
+    "instantBadge": "Instantáneo",
+    "aiBadge": "IA en vivo",
+    "rtlBadge": "RTL",
+    "translatingStatus": "Traduciendo el contenido del portal...",
+    "errorFallback": "La traducción en vivo no está disponible temporalmente. Mostrando versión en inglés.",
+    "legalNotice": "Los detalles oficiales de registro en la CAC, las fórmulas químicas y los códigos de referencia permanecen textualmente en inglés."
+  },
+  "nav": {
+    "topLocation": "Lokogoma District, F.C.T., Abuja · Suministro pan-nigeriano y de exportación",
+    "home": "Inicio",
+    "about": "Nosotros y Cumplimiento",
+    "catalog": "Recursos Minerales",
+    "engineering": "Ingeniería",
+    "projects": "Proyectos",
+    "contact": "Contacto",
+    "orderRfq": "Pedido / Cotización (RFQ)",
+    "requestBulkQuote": "Solicitar cotización a granel",
+    "openRfqList": "Lista de pedidos / RFQ abierta",
+    "callPrefix": "Llamar"
+  },
+  "hero": {
+    "eyebrow": "Minerales Sólidos · Ingeniería Pesada · Infraestructura",
+    "headlinePart1": "Extracción de precisión de minerales sólidos e ",
+    "headlineAccent": "infraestructura de ingeniería pesada",
+    "headlinePart2": " en toda Nigeria.",
+    "subheadlinePrefix": "Desde el abastecimiento certificado de minerales crudos hasta la construcción civil a gran escala, ",
+    "subheadlineSuffix": " ofrece materiales conformes de alta ley e ingeniería integral llave en mano desde F.C.T. Abuja hacia los mercados globales.",
+    "ctaExplore": "Explorar recursos minerales",
+    "ctaContact": "Contactar con la Mesa de Compras",
+    "ctaOpenRfq": "Abrir RFQ a granel",
+    "deskEyebrow": "MESA EJECUTIVA",
+    "deskTitle": "Mando directo de materias primas y obras civiles",
+    "statStatus": "Estado corporativo",
+    "statPortfolio": "Portafolio mineral",
+    "statPortfolioValue": "8 recursos certificados",
+    "statHeadOffice": "Sede central",
+    "statHeadOfficeValue": "Lokogoma, F.C.T. Abuja",
+    "statChannels": "Canales de suministro",
+    "statChannelsValue": "Camiones de volteo · FCL de 20 pies · Puertos FOB",
+    "ctaBuildRfq": "Crear RFQ a granel",
+    "trustCacTitle": "Registro CAC verificado",
+    "trustAbujaTitle": "Operaciones Lokogoma-Abuja",
+    "trustAbujaSub": "Sede central y despacho en F.C.T.",
+    "trustAssayTitle": "Leyes minerales certificadas por ensayo",
+    "trustAssaySub": "Verificación de laboratorio independiente",
+    "trustLogisticsTitle": "Logística directa mina a obra",
+    "trustLogisticsSub": "Flota de volquetes y terminales de exportación",
+    "coreVerticalsLabel": "Líneas de negocio principales",
+    "verticals": [
+      "Minería y procesamiento de minerales sólidos",
+      "Ingeniería civil y pesada",
+      "Construcción de infraestructura",
+      "Suministro de minerales a granel"
+    ]
+  },
+  "catalog": {
+    "eyebrow": "01 / Catálogo de Recursos de Minerales Sólidos y Canteras",
+    "headingPart1": "Recursos respaldados por ensayos para la ",
+    "headingAccent": "industria e infraestructura global.",
+    "intro": "Inspeccione especificaciones verificadas, revise las formas físicas disponibles y elabore consultas de adquisición a granel multimineral directamente para su despacho desde Abuja o exportación portuaria.",
+    "requestSchedule": "Solicitar cronograma de disponibilidad actual",
+    "categories": {
+      "all": "Todos los recursos",
+      "battery": "Baterías y minerales críticos",
+      "precious": "Metales preciosos",
+      "industrial": "Minerales industriales",
+      "construction": "Construcción y cantera"
+    },
+    "searchPlaceholder": "Buscar mineral, fórmula, uso...",
+    "rfqListLabel": "Lista RFQ",
+    "emptyTitle": "No se encontraron commodities minerales coincidentes",
+    "emptySubtitle": "Intente limpiar su filtro de búsqueda o ver los 8 minerales sólidos nigerianos certificados.",
+    "resetFilters": "Restablecer filtros del catálogo",
+    "gradeLabel": "Rango de ley / ensayo",
+    "formsLabel": "Presentaciones",
+    "moqLabel": "MOQ (Pedido mínimo)",
+    "originLabel": "Origen",
+    "termsLabel": "Términos",
+    "viewFullSpecs": "Ver especificaciones completas",
+    "orderQuote": "Pedir / Cotizar",
+    "inRfqOrder": "En RFQ · Pedido",
+    "footerNote": "Todas las especificaciones minerales dependen del lote y se verifican mediante ensayos en laboratorios acreditados independientes (opciones SGS / Intertek / Alfred H Knight disponibles) antes del despacho.",
+    "assembleMultiOrder": "Configurar pedido multimineral"
+  },
+  "minerals": {
+    "lithium": {
+      "name": "Mineral de litio",
+      "subtitle": "Espodumena y lepidolita",
+      "grade": "4.5% – 6.2% Li₂O",
+      "moq": "30 toneladas métricas / 1 camión de volteo",
+      "origin": "Cinturón de pegmatitas de Nasarawa, Kogi y Kwara, Nigeria",
+      "leadTime": "7 – 14 días hábiles a partir de la confirmación del lote",
+      "description": "Materia prima de litio de espodumena y lepidolita en roca dura obtenida en formaciones de pegmatita de Nigeria central, clasificada y preparada según los umbrales químicos y de granulometría del comprador para el refinado de carbonato e hidróxido de litio.",
+      "complianceNote": "Suministrado con trazabilidad de origen de mina, certificados de ensayo previos al envío independientes y documentación de exportación conforme a la NEPC.",
+      "forms": [
+        "Bloque/Roca bruta",
+        "Triturado (0–50mm)",
+        "Concentrado"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Entregado en obra",
+        "FOB Lagos"
+      ],
+      "packagingOptions": [
+        "Sacos Jumbo FIBC de alta resistencia de 1.000 kg",
+        "Sacos de exportación de PP con doble revestimiento de 50 kg",
+        "Despacho a granel en camión de volteo (entrega nacional)"
+      ],
+      "applications": [
+        "Precursor de cátodos para baterías de vehículos eléctricos y refinado químico de litio",
+        "Cerámica técnica y vidrio de borosilicato resistente al calor",
+        "Lubricantes industriales y fundentes metalúrgicos especializados"
+      ]
+    },
+    "gold": {
+      "name": "Mineral de oro y concentrados aluviales",
+      "subtitle": "Materia prima de metal precioso ensayada",
+      "grade": "Certificado por ensayo (Verificado en laboratorio)",
+      "moq": "1 tonelada métrica · Sujeto al ensayo del lote",
+      "origin": "Cinturón de esquistos del centro-norte y noroeste, Nigeria",
+      "leadTime": "Según asignación programada y segura de lotes",
+      "description": "Mineral primario de veta de cuarzo aurífero y materia prima aluvial concentrada por gravedad, gestionados bajo estrictos protocolos de cadena de custodia, con informes de recuperación por ensayo al fuego verificados antes de la liquidación comercial.",
+      "complianceNote": "Transaccionado estrictamente bajo títulos mineros nigerianos verificados, registros de cadena de custodia e informes certificados e independientes de ensayo al fuego.",
+      "forms": [
+        "Mineral de cuarzo bruto",
+        "Concentrado aluvial",
+        "Concentrado gravimétrico"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Escolta de seguridad / Recogida en bóveda"
+      ],
+      "packagingOptions": [
+        "Tambores de seguridad de acero sellados a prueba de manipulaciones",
+        "Bolsas de seguridad numeradas de alta resistencia",
+        "División de muestras verificada para ensayo al fuego independiente"
+      ],
+      "applications": [
+        "Refinado metalúrgico de oro autorizado y recuperación de lingotes",
+        "Plantas de procesamiento gravimétrico e hidrometalúrgico",
+        "Cadenas de suministro de reservas institucionales de metales preciosos"
+      ]
+    },
+    "tin": {
+      "name": "Mineral de estaño",
+      "subtitle": "Concentrado de casiterita (SnO₂)",
+      "grade": "65% – 72% Sn",
+      "moq": "30 toneladas métricas / 1 contenedor de 20 pies",
+      "origin": "Meseta de Jos y cinturón de estaño del centro-norte, Nigeria",
+      "leadTime": "7 – 12 días hábiles por lote de contenedor",
+      "description": "Concentrado de casiterita aluvial y de roca dura de alta densidad extraído del histórico cinturón mineral de la meseta de Jos en Nigeria, lavado y separado electromagnéticamente para cumplir con las tolerancias de pureza de las fundiciones internacionales.",
+      "complianceNote": "Entregado con ensayo de estaño por XRF/química húmeda y documentación de despacho radiológico para exportación al llenar el contenedor.",
+      "forms": [
+        "Concentrado aluvial",
+        "Roca dura triturada",
+        "Finos lavados"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Entregado en obra",
+        "FOB Lagos"
+      ],
+      "packagingOptions": [
+        "Sacos de polipropileno doble tejido de 50 kg (20 TM / FCL 20 pies)",
+        "Sacos Jumbo FIBC de exportación de 1.000 kg",
+        "Tambores de acero sellados (concentrado de alta ley)"
+      ],
+      "applications": [
+        "Fundición primaria de estaño y fabricación de soldaduras electrónicas sin plomo",
+        "Recubrimiento de acero de grado alimentario para hojalata y estabilizadores químicos",
+        "Bronce, cojinetes de metal antifricción (Babbitt) y aleaciones industriales especiales"
+      ]
+    },
+    "coltan": {
+      "name": "Columbita y Tantalita (Coltán)",
+      "subtitle": "Concentrados con alta relación Ta₂O₅ / Nb₂O₅",
+      "grade": "Ensayo con alta proporción de Ta₂O₅ / Nb₂O₅",
+      "moq": "1 contenedor de 20 pies (20 TM) / Lote aéreo sujeto a revisión",
+      "origin": "Cinturón de pegmatitas del centro-norte, Nigeria",
+      "leadTime": "10 – 18 días hábiles incluyendo despacho aduanero",
+      "description": "Concentrados de columbita-tantalita de alta densidad procesados para la fabricación de condensadores electrónicos, superaleaciones y metalurgia aeroespacial, acompañados de rigurosos controles radiológicos y ensayos elementales XRF/ICP.",
+      "complianceNote": "Cada cargamento se somete a una inspección radiológica obligatoria y verificación de laboratorio independiente para cumplir con las normas de los transportistas y compradores internacionales.",
+      "forms": [
+        "Concentrado",
+        "Mineral triturado",
+        "Bloque/Roca bruta"
+      ],
+      "terms": [
+        "Ex-Works",
+        "FOB Lagos",
+        "Consulta CIF"
+      ],
+      "packagingOptions": [
+        "Tambores de acero con revestimiento / Sacos dobles de PP de 50 kg",
+        "Sacos Jumbo FIBC paletizados de 1.000 kg",
+        "Contenedores de exportación sellados a prueba de manipulaciones"
+      ],
+      "applications": [
+        "Condensadores electrolíticos de tantalio para semiconductores y hardware 5G",
+        "Superaleaciones de níquel-niobio para turbinas de reacción y estructuras aeroespaciales",
+        "Producción de acero estructural microaleado de alta resistencia"
+      ]
+    },
+    "lead-zinc": {
+      "name": "Mineral de plomo y zinc",
+      "subtitle": "Concentrados de sulfuro de galena y esfalerita",
+      "grade": "55%+ Pb / 50%+ Zn",
+      "moq": "30 toneladas métricas / 1 camión de volteo",
+      "origin": "Corredor mineral de la fosa de Benue, Nigeria",
+      "leadTime": "7 – 14 días hábiles",
+      "description": "Minerales de galena (sulfuro de plomo) y esfalerita (sulfuro de zinc) de alta ley procedentes de la rica fosa de Benue en Nigeria, separados para fundiciones, plantas de galvanizado de acero y fabricación de baterías industriales.",
+      "complianceNote": "Clasificado por separado según la predominancia de plomo o zinc bajo solicitud, con certificados completos de báscula de puente e inspección previa al envío.",
+      "forms": [
+        "Concentrado",
+        "Mineral triturado",
+        "Bloque/Roca bruta"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Entregado en obra",
+        "FOB Lagos",
+        "FOB Port Harcourt"
+      ],
+      "packagingOptions": [
+        "Sacos Jumbo de exportación de 1.000 kg (FIBC)",
+        "Sacos de PP de alta resistencia de 50 kg",
+        "Transporte a granel en volquete de 30 TM (nacional)"
+      ],
+      "applications": [
+        "Baterías industriales de almacenamiento de plomo-ácido y blindaje contra radiación",
+        "Galvanizado de zinc en caliente para protección de acero estructural",
+        "Aleaciones para moldeo por inyección, metalurgia del latón y productos químicos de óxido de zinc"
+      ]
+    },
+    "iron": {
+      "name": "Mineral de hierro",
+      "subtitle": "Hematita y magnetita",
+      "grade": "60% – 65% Fe",
+      "moq": "30 toneladas métricas / 1 camión de volteo",
+      "origin": "Cinturón de mineral de hierro de Kogi y Níger, Nigeria",
+      "leadTime": "5 – 10 días hábiles",
+      "description": "Mineral de hierro denso de hematita y magnetita calibrado en grano para alto horno o finos para sinterización, que ofrece grados constantes de Fe y baja ganga perjudicial para fundiciones locales, hornos de cemento y siderurgia de exportación.",
+      "complianceNote": "Suministrado con tiques certificados de báscula de cantera y desglose elemental de laboratorio de Fe/ganga.",
+      "forms": [
+        "Grano triturado (10–50mm)",
+        "Finos (0–10mm)",
+        "Mineral bruto"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Entregado en obra",
+        "FOB Port Harcourt"
+      ],
+      "packagingOptions": [
+        "Camiones articulados de volteo a granel de 30 TM / 45 TM",
+        "Sacos Jumbo FIBC de exportación de 1.000 kg / 1.500 kg",
+        "Estaje portuario a granel en contenedores o carga suelta (breakbulk)"
+      ],
+      "applications": [
+        "Siderurgia integrada, reducción directa (DRI) y trenes de laminación",
+        "Aditivo corrector de hierro para clínker de cemento Portland",
+        "Balasto de agregados pesados y contrapeso para hormigón de alta densidad"
+      ]
+    },
+    "limestone": {
+      "name": "Agregados de caliza y mármol",
+      "subtitle": "Roca de carbonato de calcio de alta pureza",
+      "grade": "> 92% CaCO₃",
+      "moq": "30 toneladas métricas / 1 camión de volteo",
+      "origin": "Cinturón de caliza de F.C.T. / Kogi / Edo, Nigeria",
+      "leadTime": "3 – 7 días hábiles",
+      "description": "Caliza sedimentaria de alta pureza y bloques de mármol arquitectónico extraídos para la fabricación de clínker de cemento, producción de cal hidratada, desulfuración de gases de combustión y acabados comerciales de piedra de alto nivel.",
+      "complianceNote": "Programas a granel adaptados para el suministro continuo a plantas de cemento y contratistas de construcción comercial en Abuja y a nivel nacional.",
+      "forms": [
+        "Agregados triturados",
+        "Bloques dimensionados",
+        "Polvo molido (CaCO₃)"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Entregado en obra",
+        "FOB Lagos"
+      ],
+      "packagingOptions": [
+        "Entrega a granel en camión de volteo de 30 TM",
+        "Sacos Jumbo de 1.000 kg (polvo triturado / micronizado)",
+        "Bloques de mármol bruto de cantera (transporte en plataforma plana)"
+      ],
+      "applications": [
+        "Fabricación de clínker de cemento y hornos de cal viva / cal hidratada",
+        "Carga industrial de carbonato de calcio (pintura, PVC, papel, agricultura)",
+        "Revestimiento arquitectónico de mármol, pavimentos y piedra para infraestructura civil"
+      ]
+    },
+    "aggregates": {
+      "name": "Agregados de granito, laterita y arena gruesa",
+      "subtitle": "Suministro para obras civiles, canteras y movimiento de tierras",
+      "grade": "Especificación de cantera BS / NIS",
+      "moq": "1 camión de volteo (20 – 30 toneladas métricas)",
+      "origin": "Corredor de canteras de F.C.T. Abuja y Nasarawa",
+      "leadTime": "24 – 72 horas dentro de F.C.T. Abuja y alrededores",
+      "description": "Agregados de granito triturado ígneo clasificado, laterita compactable para carreteras y arena gruesa de río lavada, despachados directamente por la flota de transporte de Gargati a obras de ingeniería civil, puentes, urbanizaciones y carreteras.",
+      "complianceNote": "Respaldado por la flota activa de Gargati en Abuja para cronogramas ininterrumpidos en obra con múltiples camiones y cumplimiento de crédito/órdenes de compra de contratistas.",
+      "forms": [
+        "Granito de 1/2\"",
+        "Granito de 3/4\"",
+        "Polvo de piedra",
+        "Laterita para subbase de carretera",
+        "Arena gruesa lavada"
+      ],
+      "terms": [
+        "Entregado en obra",
+        "Ex-Works"
+      ],
+      "packagingOptions": [
+        "Camiones volquetes hidráulicos de 20 TM / 30 TM (descarga en obra)",
+        "Despacho diario programado para contratistas con múltiples camiones",
+        "Carga directa en cantera para transporte del cliente"
+      ],
+      "applications": [
+        "Dosificación de hormigón armado estructural (puentes, rascacielos, cimentaciones)",
+        "Capa de rodadura asfáltica, subbase de carreteras y estabilización de drenajes",
+        "Obras civiles en urbanizaciones residenciales e industriales en Abuja F.C.T."
+      ]
+    }
+  },
+  "specModal": {
+    "inspectTexture": "Inspeccionar textura bruta",
+    "purityLabel": "PUREZA / ENSAYO",
+    "originLabel": "CINTURÓN DE ORIGEN",
+    "tabCommercial": "Comercial y Logística",
+    "tabTechnical": "Físico y Químico",
+    "tabPackaging": "Embalaje y Exportación",
+    "moqLabel": "Pedido Mínimo (MOQ)",
+    "termsLabel": "Términos de Entrega",
+    "leadTimeLabel": "Tiempo de Despacho",
+    "applicationsHeading": "Principales Aplicaciones Industriales",
+    "physicalHeading": "Parámetros Físicos",
+    "chemicalHeading": "Rango Químico y de Ley",
+    "packagingHeading": "Formatos de Embalaje y Transporte Disponibles",
+    "packagingDisclaimer": "La supervisión del llenado de contenedores previa al envío, las boletas de pesaje serializadas y la toma de muestras con testigos de terceros se pueden coordinar a través de nuestra mesa de compras en Lokogoma-Abuja.",
+    "preferredFormHeading": "Seleccione la presentación preferida para cotización",
+    "addAndOpen": "Añadir y abrir panel de pedidos",
+    "updateAndOpen": "Actualizar presentación y abrir panel de pedidos",
+    "requestAssay": "Solicitar informe de ensayo",
+    "lightboxTitleSuffix": "Inspección de textura",
+    "resetZoom": "Reinicio 1.0×",
+    "macroZoom": "Zoom Macro 1.75×"
+  },
+  "drawer": {
+    "eyebrow": "Mesa de Compras B2B y RFQ",
+    "titleBuilder": "Lista de pedidos de compras",
+    "titleProforma": "Proforma oficial de pedido",
+    "readyBannerTitle": "RFQ Preparada — Referencia",
+    "readyBannerBody": "Envíe su proforma estructurada directamente a nuestra mesa de Lokogoma-Abuja vía WhatsApp, correo electrónico oficial o guárdela/imprímala como PDF oficial.",
+    "proformaTag": "RESUMEN DE PROFORMA RFQ",
+    "preparedFor": "PREPARADO PARA",
+    "attnLabel": "Atn:",
+    "deliverySchedule": "CRONOGRAMA DE ENTREGA",
+    "targetDateLabel": "Fecha objetivo:",
+    "toBeScheduled": "Por programar",
+    "validityNote": "Validez: 14 días · Sujeto al ensayo del lote",
+    "colCommodity": "Commodity / Mineral",
+    "colFormTerms": "Presentación / Términos",
+    "colQuantity": "Cantidad",
+    "buyerNotesLabel": "Notas del comprador:",
+    "btnWhatsApp": "Enviar por WhatsApp",
+    "btnEmail": "Correo electrónico",
+    "btnPrint": "Imprimir / Guardar PDF Proforma",
+    "btnCopy": "Copiar resumen de pedido",
+    "btnCopied": "Resumen RFQ copiado",
+    "btnEditOrder": "Editar cantidades o detalles",
+    "btnClearReset": "Vaciar y comenzar nueva consulta",
+    "quickAddLabel": "+ Añadir rápidamente mineral a este pedido",
+    "moreResources": "Más recursos...",
+    "emptyTitle": "Su lista de compras está vacía actualmente",
+    "emptySubtitle": "Seleccione cualquier mineral de arriba o explore el catálogo completo para configurar el tonelaje, la ley y los términos de entrega.",
+    "browseCatalog": "Explorar catálogo de minerales",
+    "qtyLabel": "Cantidad requerida *",
+    "unitLabel": "Unidad",
+    "preferredFormLabel": "Ley / Presentación preferida",
+    "preferredTermsLabel": "Términos de entrega preferidos",
+    "buyerSectionEyebrow": "Detalles del comprador y logística",
+    "buyerSectionTitle": "Generar proforma y despachar RFQ",
+    "fieldCompany": "Empresa / Organización *",
+    "placeholderCompany": "Entidad compradora registrada",
+    "fieldContact": "Persona de contacto *",
+    "placeholderContact": "Nombre completo y cargo",
+    "fieldPhone": "Teléfono / WhatsApp *",
+    "placeholderPhone": "+234 809 ...",
+    "fieldEmail": "Correo electrónico oficial *",
+    "placeholderEmail": "compras@empresa.com",
+    "fieldDestination": "Destino de entrega *",
+    "destinations": [
+      "Abuja F.C.T.",
+      "Lagos Port (Apapa / Tin Can)",
+      "Port Harcourt / Onne Port",
+      "Kano",
+      "Dirección de obra personalizada"
+    ],
+    "fieldTargetDate": "Fecha objetivo de entrega",
+    "fieldCustomAddress": "Dirección personalizada de obra o puerto *",
+    "placeholderCustomAddress": "Ingrese la ubicación exacta de la obra, patio industrial o puerto de exportación",
+    "fieldNotes": "Notas especiales sobre ensayo, embalaje o logística",
+    "placeholderNotes": "Especifique el ensayo previo al envío requerido por SGS/Intertek, sacos jumbo de 1 TM frente a volquete a granel, o cronograma de inspección...",
+    "btnSubmit": "Enviar RFQ y generar proforma oficial",
+    "btnSubmitting": "Generando proforma oficial...",
+    "btnQuickWhatsApp": "Despacho rápido por WhatsApp",
+    "btnDirectEmail": "Despacho directo por correo",
+    "privacyNote": "Gestión corporativa directa por",
+    "units": [
+      "Toneladas métricas (TM)",
+      "Camiones de volteo de 30 TM",
+      "Contenedores de 20 pies",
+      "Sacos Jumbo de 1 TM"
+    ]
+  },
+  "engineering": {
+    "eyebrow": "02 / Capacidades de Ingeniería y Construcción",
+    "headingPart1": "Ejecución de obras civiles pesadas e ",
+    "headingAccent": "ingeniería minera.",
+    "intro": "Más allá de la extracción de minerales brutos, nuestra división de ingeniería en Abuja ejecuta movimientos de tierras complejos, estructuras civiles de hormigón armado, flotas de transporte de cantera y exploración geológica bajo un mandato corporativo responsable.",
+    "bannerBadge": "MOVILIZACIÓN DE CAMPO LLAVE EN MANO",
+    "bannerTitle": "Responsabilidad de un solo socio desde la excavación en foso hasta la entrega civil.",
+    "bannerBody": "Al integrar nuestros áridos de cantera, equipos de movimiento de tierras e ingenieros civiles colegiados, los ministerios y promotores comerciales eliminan los retrasos de múltiples proveedores y los cuellos de botella en la calidad de los materiales.",
+    "btnSubmitBrief": "Enviar memoria de ingeniería",
+    "btnViewCorridors": "Ver corredores de suministro",
+    "pauseVideo": "Pausar video de obra",
+    "playVideo": "Reproducir video de obra",
+    "divisionLabel": "División",
+    "requestProposal": "Solicitar propuesta",
+    "capabilities": [
+      {
+        "id": "mine-development",
+        "title": "Desarrollo y excavación de yacimientos mineros",
+        "subtitle": "Movimiento de tierras en cielo abierto y operaciones de cantera",
+        "description": "Apertura integral del sitio, formación de caminos de acarreo, banco sistemático y desbroce controlado de estériles diseñados para una extracción segura y de alta recuperación de minerales sólidos.",
+        "deliverables": [
+          "Diseño de bancos a cielo abierto y desbroce de estéril",
+          "Nivelación de caminos de acceso para acarreo y drenaje de aguas pluviales",
+          "Clasificación primaria de mineral, plataformas de trituración y gestión de acopios",
+          "Rehabilitación progresiva de fosas y vallado de seguridad del sitio"
+        ],
+        "equipmentOrMethodology": "Excavadoras hidráulicas de 30 TM–45 TM · Bulldozers · Camiones articulados de volteo"
+      },
+      {
+        "id": "civil-construction",
+        "title": "Construcción civil y estructural",
+        "subtitle": "Obras de infraestructura, industriales y urbanizaciones",
+        "description": "Construcción de ingeniería civil llave en mano en toda Nigeria: entrega de estructuras de hormigón armado, redes de drenaje, naves industriales e infraestructura para urbanizaciones comerciales.",
+        "deliverables": [
+          "Puentes, obras de fábrica y muros de contención de hormigón armado",
+          "Naves industriales, cimentaciones para básculas puente y tinglados de procesamiento",
+          "Redes viarias y drenajes pluviales para urbanizaciones comerciales y residenciales",
+          "Ejecución de pavimentación con áridos, hormigón y asfalto probados en calidad"
+        ],
+        "equipmentOrMethodology": "Normas estructurales BS / NIS · Control de calidad QA/QC de materiales · Supervisión llave en mano"
+      },
+      {
+        "id": "equipment-haulage",
+        "title": "Alquiler de maquinaria pesada y transporte",
+        "subtitle": "Flota de movimiento de tierras y logística mineral a granel",
+        "description": "Despliegue confiable de maquinaria pesada con operador, líneas móviles de trituración y camiones de transporte de mineral a granel que conectan cinturones mineros remotos con obras y puertos marítimos de exportación.",
+        "deliverables": [
+          "Excavadoras de cadenas, bulldozers y cargadoras sobre ruedas bajo contrato",
+          "Camiones articulados de volteo y flotas de transporte con volquete de 30 TM–45 TM",
+          "Movilización de plantas móviles de trituración de mandíbulas/cono y cribado multideck",
+          "Corredores de transporte en camión para exportación a granel y en contenedores desde la mina al puerto"
+        ],
+        "equipmentOrMethodology": "Soporte de mantenimiento preventivo · Operadores capacitados · Seguimiento de cartas de porte por GPS"
+      },
+      {
+        "id": "geological-survey",
+        "title": "Estudio geológico y exploración mineral",
+        "subtitle": "Delineación de recursos, muestreo y cumplimiento normativo",
+        "description": "Evaluación técnica de campo, coordinación de perforación con testigo de diamante/RC, muestreo representativo de mineral y estudios ambientales de línea base que mitigan el riesgo en las inversiones mineras.",
+        "deliverables": [
+          "Cartografía geológica, zanjas y muestreo de canales en afloramientos",
+          "Supervisión de perforación de testigos y archivo de cajas de testigos registradas",
+          "Estimación preliminar de recursos y planificación del control de ley",
+          "Evaluaciones de impacto ambiental (EIA) e informes de cumplimiento normativo"
+        ],
+        "equipmentOrMethodology": "Testigo geológico · Cadena de custodia en laboratorio independiente · Soporte en tramitación regulatoria"
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "03 / Corredores Operativos y Flujo de Ejecución",
+    "headingPart1": "Logística de mina a obra y ",
+    "headingAccent": "corredores de suministro en Nigeria.",
+    "intro": "Extracción coordinada, control de báscula de puente, verificación de ensayos de laboratorio y transporte directo a través de los principales cinturones de minerales sólidos y centros urbanos de construcción en Nigeria.",
+    "inquireSchedule": "Consultar cronograma de lotes",
+    "stagingBadge": "CUSTODIA DE ENSAYOS Y CONSOLIDACIÓN DE EXPORTACIÓN",
+    "stagingCaption": "Archivado de muestras de testigo, embolsado jumbo FIBC de 1 TM y carga de contenedores serializados.",
+    "protocolEyebrow": "Protocolo de Ejecución de Compras",
+    "protocolTitle": "Flujo de verificación y entrega de lotes en cuatro etapas",
+    "btnStartOrder": "Iniciar pedido a granel",
+    "surveyorNotice": "Se da la bienvenida a inspectores nombrados por el comprador (SGS, Intertek, Alfred H Knight) para presenciar el muestreo en el acopio de la mina o en los patios de consolidación portuaria.",
+    "corridors": [
+      {
+        "id": "nasarawa-kogi-corridor",
+        "vertical": "Minerales Críticos e Industriales",
+        "title": "Cadena de suministro de pegmatita y mineral de hierro del centro-norte",
+        "corridor": "Nasarawa · Kogi · Plateau Belts",
+        "summary": "Abastecimiento coordinado, clasificación y consolidación en sacos jumbo de lotes de litio (espodumena/lepidolita), estaño de casiterita, coltán y mineral de hierro con 60–65% Fe destinados a fundiciones nacionales y terminales de exportación de Lagos/Port Harcourt.",
+        "scopeTags": [
+          "Ensayo previo al envío",
+          "Embolsado Jumbo de 1 TM",
+          "Transporte portuario"
+        ]
+      },
+      {
+        "id": "abuja-civil-supply",
+        "vertical": "Logística de Construcción y Canteras",
+        "title": "Flota de áridos de hormigón y subbase de carreteras en Abuja F.C.T.",
+        "corridor": "Lokogoma · Lugbe · Abuja Environs",
+        "summary": "Flota de volquetes de alta frecuencia que entrega granito de 1/2\" y 3/4\", polvo de piedra, arena gruesa lavada y laterita de calidad compactada directamente a contratistas de carreteras, plantas de hormigonado y promotores inmobiliarios.",
+        "scopeTags": [
+          "Despacho a obra en 24–72 h",
+          "Volquetes de 30 TM",
+          "Boletas de báscula puente"
+        ]
+      },
+      {
+        "id": "benue-sulfides",
+        "vertical": "Compra directa de metales base",
+        "title": "Consolidación de galena y esfalerita en la fosa de Benue",
+        "corridor": "Benue Trough → Onne / Apapa Ports",
+        "summary": "Consolidación a granel estructurada de concentrados de sulfuro de plomo (PbS) y sulfuro de zinc (ZnS) con segregación de lotes, control de humedad e inspección independiente por XRF antes del llenado del contenedor.",
+        "scopeTags": [
+          "55%+ Pb / 50%+ Zn",
+          "Llenado de contenedores",
+          "Listo para exportación NEPC"
+        ]
+      },
+      {
+        "id": "turnkey-civil",
+        "vertical": "Ingeniería y Movimiento de Tierras",
+        "title": "Preparación integral del sitio, drenaje y plataformas industriales",
+        "corridor": "F.C.T. Abuja & Pan-Nigeria Sites",
+        "summary": "Movimiento de tierras pesado combinado, compactación de subbase, obras de drenaje de hormigón armado y suministro de material directo de cantera ejecutados bajo un único mandato corporativo responsable.",
+        "scopeTags": [
+          "Excavación y nivelación",
+          "Obras de hormigón",
+          "Responsabilidad de punto único"
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "step": "01",
+        "title": "Alineación de especificaciones y alcance",
+        "detail": "Los compradores envían el tonelaje objetivo, los umbrales de ley química, el destino de entrega y los Incoterms a través de nuestra Mesa de Compras o memoria de ingeniería."
+      },
+      {
+        "step": "02",
+        "title": "Ensayo de laboratorio independiente y verificación de títulos",
+        "detail": "Se extraen muestras del lote para ensayo en laboratorio acreditado, verificación de humedad y documentación de origen mineral antes del compromiso formal."
+      },
+      {
+        "step": "03",
+        "title": "Procesamiento, calibración y embalaje",
+        "detail": "Los minerales se trituran, lavan o embolsan en sacos jumbo FIBC serializados de 1 TM, sacos de PP de 50 kg, tambores de seguridad o cargas de volquete calibradas."
+      },
+      {
+        "step": "04",
+        "title": "Despacho mina a obra y exportación portuaria",
+        "detail": "El transporte coordinado se entrega directamente en los sitios del proyecto en toda Nigeria o en terminales de exportación consolidadas en Lagos (Apapa/Tin Can) y Port Harcourt."
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "04 / Gobierno Corporativo y Cumplimiento Normativo",
+    "headingPart1": "Credibilidad regulatoria y ",
+    "headingAccent": "constitución verificada en Nigeria.",
+    "narrativeSuffix": " opera con estricto apego al gobierno corporativo nigeriano, la verificación de títulos minerales y la preparación para la exportación, ofreciendo a los compradores internacionales, contratistas civiles y ministerios gubernamentales una contraparte transparente y trazable.",
+    "pillars": [
+      {
+        "code": "CAC-REG",
+        "title": "Inscrita en la Corporate Affairs Commission",
+        "detail": "Registrada bajo la Ley de Compañías y Asuntos Conexos como RC No.: 9963225."
+      },
+      {
+        "code": "MMSD-STD",
+        "title": "Alineación con el Ministerio Federal de Minerales Sólidos",
+        "detail": "Abastecimiento alineado con los protocolos de documentación de canteras con licencia, arrendamiento y títulos mineros."
+      },
+      {
+        "code": "NEPC-EXP",
+        "title": "Preparación para exportación y custodia de ensayos independientes",
+        "detail": "Ensayo de laboratorio específico para cada lote, control radiológico cuando aplique y embalaje de exportación."
+      }
+    ],
+    "dossierBadge": "DOSSIER CORPORATIVO VERIFICADO",
+    "dossierSubtitle": "Empresa activa de minería, ingeniería e infraestructura en Nigeria",
+    "labelCac": "Registro CAC",
+    "labelAddress": "Dirección de la sede central",
+    "labelLines": "Líneas directas",
+    "labelEmail": "Correo electrónico oficial",
+    "labelVerticals": "Líneas principales",
+    "verticalsShort": "Minería · Ingeniería Civil · Infraestructura · Suministro a Granel",
+    "btnOpenRfq": "Abrir pedido a granel / RFQ",
+    "btnRequestPack": "Solicitar paquete de cumplimiento"
+  },
+  "contact": {
+    "eyebrow": "05 / Mesa de Compras, Ensayos e Ingeniería",
+    "headingPart1": "Conéctese directamente con nuestro ",
+    "headingAccent": "equipo de operaciones en Abuja.",
+    "intro": "Envíe una consulta corporativa para informes de ensayos de laboratorio, licitaciones de ingeniería civil, movilización de maquinaria pesada o cronogramas de compraventa.",
+    "successTitle": "Consulta registrada y formateada para despacho",
+    "successBody": "Envíe inmediatamente a nuestra mesa a través de WhatsApp o su cliente de correo oficial a continuación para su revisión prioritaria por parte de nuestro equipo de ingeniería y commodities en Abuja.",
+    "btnDispatchWhatsApp": "Despachar por WhatsApp",
+    "btnOpenEmail": "Abrir en el correo",
+    "btnSendAnother": "Enviar otra consulta corporativa",
+    "fieldCategory": "Departamento / Categoría de la consulta",
+    "inquiryTypes": [
+      "Compra a granel de minerales",
+      "Solicitud de informe de ensayo de laboratorio",
+      "Licitación de ingeniería y construcción",
+      "Alquiler de maquinaria pesada",
+      "Consulta corporativa general"
+    ],
+    "fieldCompany": "Nombre de la empresa / ministerio *",
+    "placeholderCompany": "Nombre de la organización",
+    "fieldContact": "Persona de contacto *",
+    "placeholderContact": "Nombre completo",
+    "fieldPhone": "Teléfono / WhatsApp *",
+    "placeholderPhone": "+234 809 ...",
+    "fieldEmail": "Correo electrónico oficial *",
+    "placeholderEmail": "nombre@organizacion.com",
+    "fieldSubject": "Asunto *",
+    "placeholderSubject": "p. ej., Solicitud de informe de ensayo para mineral de litio (espodumena)",
+    "fieldMessage": "Alcance técnico / Detalles de la consulta *",
+    "placeholderMessage": "Comparta el tonelaje requerido, la ubicación del sitio del proyecto, los objetivos de especificación o el alcance de la licitación de ingeniería...",
+    "btnSubmit": "Enviar consulta corporativa",
+    "btnSubmitting": "Preparando consulta corporativa...",
+    "headOfficeBadge": "SEDE CENTRAL CORPORATIVA",
+    "workingHours": "Lunes – Viernes · 08:00 – 17:00 WAT (Despacho a obra el sábado previa cita)",
+    "btnOpenMaps": "Abrir en Google Maps",
+    "channelsBadge": "CANALES EJECUTIVOS DIRECTOS",
+    "primaryLineLabel": "Mesa principal de compras",
+    "secondaryLineLabel": "Línea de ingeniería y logística",
+    "emailLabel": "Correo electrónico corporativo oficial"
+  },
+  "footer": {
+    "verifiedRegistration": "Registro corporativo verificado",
+    "mission": "Suministrando minerales sólidos nigerianos certificados por ensayo, áridos de cantera, transporte de maquinaria pesada e infraestructura de ingeniería civil desde F.C.T. Abuja a compradores industriales de todo el mundo.",
+    "colPortal": "Portal corporativo",
+    "colProcurement": "Mesa de compras",
+    "colHeadOffice": "Sede central y líneas directas",
+    "linkOpenRfq": "Abrir panel de pedidos a granel / RFQ",
+    "linkRequestAssay": "Solicitar informe de ensayo de laboratorio",
+    "linkSubmitTender": "Enviar licitación de ingeniería / obra civil",
+    "linkWhatsApp": "Mesa de WhatsApp",
+    "backToTop": "Volver arriba"
+  },
+  "toast": {
+    "addedSuffix": "añadido a la lista RFQ",
+    "readySubtitle": "Listo para toneladas y términos de entrega",
+    "openRfqLabel": "Abrir lista RFQ"
+  }
+}

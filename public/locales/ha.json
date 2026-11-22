@@ -1,0 +1,673 @@
+{
+  "switcher": {
+    "buttonLabel": "Yare",
+    "modalTitle": "Zabin Yare",
+    "modalSubtitle": "Fassara dandamali na kamfani da rajistan kayan ma'adanai zuwa harsuna 25 na Najeriya da na duniya.",
+    "searchPlaceholder": "Nemi yare (misali Sinanci, Harshen Turkiyya, Larabci, Hausa, Yarbanci, Inyamuranci, Kanuri, Fulfulde...)",
+    "noMatches": "Ba a sami yaren da ya dace ba.",
+    "groupNigerian": "Harsunan Najeriya",
+    "groupGlobal": "Kasuwancin Duniya da Fitarwa",
+    "groupMore": "Sauran Harsunan Duniya",
+    "instantBadge": "Nan take",
+    "aiBadge": "AI na Kai Tsaye",
+    "rtlBadge": "RTL",
+    "translatingStatus": "Ana fassara abubuwan da ke cikin dandamalin...",
+    "errorFallback": "Fassarar kai tsaye ba ta samuwa a halin yanzu. Ana nuna gabaɗaya ta Turanci.",
+    "legalNotice": "Cikakken bayanin rajistar CAC na hukuma, tsarin sinadarai, da lambobin lafazi sun kasance a Turanci."
+  },
+  "nav": {
+    "topLocation": "Lokogoma District, F.C.T., Abuja · Wadatar Dukkanin Najeriya da Fitarwa Kayan Waje",
+    "home": "Gida",
+    "about": "Game da Mu da Biye da Doka",
+    "catalog": "Kayan Ma'adanai",
+    "engineering": "Ayyukan Injinjiya",
+    "projects": "Ayyuka",
+    "contact": "Tuntuba",
+    "orderRfq": "Oda / Neman Farashi (RFQ)",
+    "requestBulkQuote": "Nemi Farashin Sayayya Mai Yawa",
+    "openRfqList": "Bude Jerin Odayin RFQ",
+    "callPrefix": "Kira"
+  },
+  "hero": {
+    "eyebrow": "Ma'adanai na Karkashin Kasa · Ayyukan Injinjiya Masu Nauyi · Babban Gini da Ababen Infrastructure",
+    "headlinePart1": "Hakar Ma'adanai na Karkashin Kasa da Injinjiya ta ",
+    "headlineAccent": "Ginin Ababen Hada-hada da Injinjiya Mai Nauyi",
+    "headlinePart2": " A Fadin Najeriya.",
+    "subheadlinePrefix": "Daga samun sahihan danyen ma'adanai zuwa manyan ayyukan ginin injinjiya, ",
+    "subheadlineSuffix": " yana samar da ingantattun kayan aiki masu inganci da cikkakken aikin injinjiya daga F.C.T. Abuja zuwa kasuwannin duniya.",
+    "ctaExplore": "Binciki Kayan Ma'adanai",
+    "ctaContact": "Tuntubi Sashen Sayayya",
+    "ctaOpenRfq": "Bude Neman Farashi Mai Yawa (RFQ)",
+    "deskEyebrow": "SASHEN GUDANARWA",
+    "deskTitle": "Saye da Sayar da Kayan Hakowa da Mandat na Gini",
+    "statStatus": "Matsayin Kamfani",
+    "statPortfolio": "Kayan Ma'adanai",
+    "statPortfolioValue": "Sahihiyar Ma'adanai 8",
+    "statHeadOffice": "Babban Offis",
+    "statHeadOfficeValue": "Lokogoma, F.C.T. Abuja",
+    "statChannels": "Hanyoyin Samar da Kaya",
+    "statChannelsValue": "Mota Tifa · Akwatin Kwantenoli 20ft · Tachoshi na FOB",
+    "ctaBuildRfq": "Tsara Neman Farashin Sayayya Mai Yawa",
+    "trustCacTitle": "Tabbatacciyar Rajistar CAC",
+    "trustAbujaTitle": "Ayyukan Lokogoma-Abuja",
+    "trustAbujaSub": "Babban Offis da Aika Kayan a F.C.T.",
+    "trustAssayTitle": "Ingancin Ma'adanai da aka Tabbatar da Gwaji",
+    "trustAssaySub": "Tabbatarwa daga Lab na Masu Zaman Kansu",
+    "trustLogisticsTitle": "Aikin Safara Kai Tsaye daga Ma'adana zuwa Wurinsu",
+    "trustLogisticsSub": "Rukunin Tifa da Wuraren Fitarwa Kasashen Waje",
+    "coreVerticalsLabel": "Manya-manyan Ayyuka",
+    "verticals": [
+      "Hakar Ma'adanai da Tattara Su",
+      "Ayyukan Injinjiya da Ginin Masana'antu",
+      "Ayyukan Ginin Ababen Infrastructure",
+      "Wadatar da Kayan Ma'adanai da Dawa"
+    ]
+  },
+  "catalog": {
+    "eyebrow": "01 / Rajistar Ma'adanai da Kayan Fasa Duwatsu",
+    "headingPart1": "Kayan Ma'adanai Masu Tabbacin Lab na ",
+    "headingAccent": "Masana'antun Duniya da Ayyukan Infrastructure.",
+    "intro": "Duba kaddarori da ingancin da aka tabbatar, ka duba siffofin da ake da su, kuma ka tsara tambayoyin sayayya mai yawa na ma'adanai daban-daban domin aikawa daga Abuja ko fitarwa ta tashoshin ruwa.",
+    "requestSchedule": "Nemi Jadawalin Abubuwan da ke Samuwa Yanzu",
+    "categories": {
+      "all": "Dukkan Kayan Ma'adanai",
+      "battery": "Mawuyacin Ma'adanai & Na Batir",
+      "precious": "Mawuyacin Karfe Masu Daraja",
+      "industrial": "Ma'adanai na Masana'antu",
+      "construction": "Gini da Fasa Duwatsu"
+    },
+    "searchPlaceholder": "Nemi ma'adana, tsari, amfani...",
+    "rfqListLabel": "Jerin Neman Farashi (RFQ)",
+    "emptyTitle": "Ba a sami ma'adanin da ya dace ba",
+    "emptySubtitle": "Gwada goge matatar bincikenka ko duba dukkan ma'adanai 8 na Najeriya da aka tabbatar.",
+    "resetFilters": "Sake Saita Matatar Rajista",
+    "gradeLabel": "Sahihiyar Inganci / Rukunin Gwaji",
+    "formsLabel": "Siffofi",
+    "moqLabel": "Mafi Kancin Oda (MOQ)",
+    "originLabel": "Wurin da aka Samo",
+    "termsLabel": "Sharudda",
+    "viewFullSpecs": "Duba Cikakken Bayani",
+    "orderQuote": "Oda / Farashi",
+    "inRfqOrder": "Yana Cikin RFQ · Oda",
+    "footerNote": "Dukkan kaddarorin ma'adanai sun danganta ne da rukuni kuma ana tabbatar da su ta hanyar gwajin dakin bincike mai zaman kansa (zaɓuɓɓuka SGS / Intertek / Alfred H Knight sun samawa) kafin fitarwa.",
+    "assembleMultiOrder": "Tsara Odayin Ma'adanai Daban-daban"
+  },
+  "minerals": {
+    "lithium": {
+      "name": "Lithium Ore",
+      "subtitle": "Spodumene & Lepidolite",
+      "grade": "4.5% – 6.2% Li₂O",
+      "moq": "Tani 30 na Awo / Mota Tifa 1",
+      "origin": "Yankin Pegmatite na Nasarawa, Kogi & Kwara, Najeriya",
+      "leadTime": "Kwanaki 7 – 14 na aiki daga tabbatar da rukuni",
+      "description": "Danyen ma'adanin lithium na spodumene da lepidolite daga karkashin duwatsu masu karfi a tsakiyar Najeriya, wanda aka tsara da tantancewa bisa girmansa da bukatun sinadaran mai saya domin tacewar lithium carbonate da hydroxide.",
+      "complianceNote": "Ana kawo shi tare da shaidar asalin ma'adana, takardun shaida na gwajin dakin gwaji mai zaman kansa kafin sufuri, da takardun fitarwa da suka dace da NEPC.",
+      "forms": [
+        "Danya ta Manya",
+        "Fasasshe (0–50mm)",
+        "Tattararre (Concentrate)"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Isasshe zuwa Wurin Gini",
+        "FOB Lagos"
+      ],
+      "packagingOptions": [
+        "Buhunan Jumbo Masu Nauyi na 1,000 kg (FIBC)",
+        "Buhunan Fitarwa na PP Layer Biyu na 50 kg",
+        "Aiko ta Mota Tifa Ba Tare da Buhu ba (Sufurin Cikin Gida)"
+      ],
+      "applications": [
+        "Precursor na cathode batirin EV & tacewar sinadaran lithium",
+        "Kayan tukwane da gilashin borosilicate mai jure zafi",
+        "Mai na masana'antu da abubuwan narkewar karfe na musamman"
+      ]
+    },
+    "gold": {
+      "name": "Danyen Zinare da Ma'adanin Rariya na Alluvial",
+      "subtitle": "Danyen Karfe Mai Daraja da aka Gwada Inganci",
+      "grade": "Tabbataccen Gwajin Lab (Lab Verified)",
+      "moq": "Tani 1 na Awo · Dangane da Gwajin Rukuni",
+      "origin": "Yankin Schist na Tsakiyar Arewa da Arewa maso Yamma, Najeriya",
+      "leadTime": "Bisa tsarin rarraba rukuni cikin tsaro",
+      "description": "Danyen zinare mai dauke da dutsen quartz da danyen ma'adanin rariya da aka tattara ta hanyar nauyi, wanda aka kula da shi a karkashin ka'idojin tsaro masu tsauri, tare da rahotannin gwajin wuta da aka tabbatar kafin sayarwa.",
+      "complianceNote": "An kulla hulda ne kawai a karkashin takardun ma'adana na Najeriya da aka tabbatar, littattafan bin diddigin tsaro, da rahotannin gwajin wuta masu zaman kansu.",
+      "forms": [
+        "Danyen Dutsen Quartz",
+        "Tattararren Ma'adanin Rariya",
+        "Tattararre ta Nauyi (Gravity)"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Rakiya ta Tsaro / Karba daga Dakin Tsaro"
+      ],
+      "packagingOptions": [
+        "Kangunan Karfe na Tsaro Masu Tabbacin Rufe",
+        "Jikunkuna na Tsaro Masu Lamba",
+        "Raba Samfuri domin Gwajin Wuta mai Zaman Kansa"
+      ],
+      "applications": [
+        "Rage zinari mai lasisi da ma'adanai a masana'anta",
+        "Masana'antun sarrafa karfe ta hanyar ruwa da nauyi",
+        "Hanyoyin samar da ajiyar karfe masu daraja ga cibiyoyi"
+      ]
+    },
+    "tin": {
+      "name": "Tin Ore",
+      "subtitle": "Cassiterite Concentrate (SnO₂)",
+      "grade": "65% – 72% Sn",
+      "moq": "Tani 30 na Awo / Akwatin Kwantenoli 1 × 20ft",
+      "origin": "Dutsen Jos Plateau & Yankin Kwalba/Tin na Tsakiyar Arewa, Najeriya",
+      "leadTime": "Kwanaki 7 – 12 na aiki ga kowace kwantenoli",
+      "description": "Tattararren ma'adanin cassiterite mai nauyi daga karkashin duwatsu da kogi na shahararren yankin Jos Plateau na Najeriya, wanda aka wanke aka rabas da karfen kwarjini don biyan bukatun tsarki na kasashen duniya.",
+      "complianceNote": "Ana kawo shi tare da takardun gwajin tin na XRF/wet-chemistry da takardun amincewa da rashin lalurar Hasken Kariya (radiation clearance) yayin cika kwantenoli.",
+      "forms": [
+        "Tattararren Ma'adanin Rariya",
+        "Fasasshen Dutse na Karkashin Kasa",
+        "Wankakkun Kura-kuran Ma'adana"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Isasshe zuwa Wurin Gini",
+        "FOB Lagos"
+      ],
+      "packagingOptions": [
+        "Buhunan Polypropylene na 50 kg Wando Biyu (20 MT / 20ft FCL)",
+        "Buhunan Jumbo na Fitarwa na 1,000 kg FIBC",
+        "Rufaffun Kangunan Karfe (Tattararre Mai Inganci)"
+      ],
+      "applications": [
+        "Narke kwan kifi (tin) da sarrafa abubuwan siyar da lantarki maras dalma",
+        "Rufe karfen abinci da sinadaran karfafa ma'adanai",
+        "Tagulla, bearing na babbitt, da gaurayen karfe na masana’antu"
+      ]
+    },
+    "coltan": {
+      "name": "Columbite & Tantalite (Coltan)",
+      "subtitle": "Tattararre Mai Yawan Rabon Ta₂O₅ / Nb₂O₅",
+      "grade": "Ingancin Gwaji Mai Yawa na Ta₂O₅ / Nb₂O₅",
+      "moq": "Kwantenoli 1 × 20ft (20 MT) / Aiko ta Jirgin Sama dangane da Dubawa",
+      "origin": "Yankin Pegmatite na Tsakiyar Arewa, Najeriya",
+      "leadTime": "Kwanaki 10 – 18 na aiki har da aikin fitarwa",
+      "description": "Tattararren ma'adanin columbite-tantalite mai yawa wanda aka sarrafa domin masana'antun kera capacitor na lantarki, karfe mai karfi sosai, da fasahar sararin samaniya, tare da binciken hasken kariya mai tsauri da gwajin XRF/ICP.",
+      "complianceNote": "Kowace kaya tana fuskantar gwajin radiation na tilas da tabbatarwa daga dakin bincike mai zaman kansa don biyan bukatun kamfanonin jiragen ruwa da masu saya na kasa da kasa.",
+      "forms": [
+        "Tattararre (Concentrate)",
+        "Fasasshen Ma'adana",
+        "Danya ta Manya"
+      ],
+      "terms": [
+        "Ex-Works",
+        "FOB Lagos",
+        "Neman Bayanin CIF"
+      ],
+      "packagingOptions": [
+        "Kangunan Karfe na 50 kg / Buhunan PP Biyu",
+        "Buhunan Jumbo na 1,000 kg FIBC akan Pallet",
+        "Akwatunan Kwantenoli na Fitarwa Masu Rufe na Tsaro"
+      ],
+      "applications": [
+        "Capacitors na tantalum don semiconductor da na'urorin 5G",
+        "Gaurayen nickel-niobium superalloys don injunan jirgin sama",
+        "Kera karfen gini mai karfin gaske"
+      ]
+    },
+    "lead-zinc": {
+      "name": "Ma'adanin Dalma da Zinc (Lead & Zinc Ore)",
+      "subtitle": "Tattararren Sulfide na Galena & Sphalerite",
+      "grade": "55%+ Pb / 50%+ Zn",
+      "moq": "Tani 30 na Awo / Mota Tifa 1",
+      "origin": "Ujin Ma'adanai na Benue Trough, Najeriya",
+      "leadTime": "Kwanaki 7 – 14 na aiki",
+      "description": "Ingantattun ma'adanai na galena (lead sulfide) da sphalerite (zinc sulfide) daga babban yankin Benue Trough na Najeriya, wanda aka raba don narke karfe, ba wa karfe kariya (galvanizing), da kera batirin masana'antu.",
+      "complianceNote": "An raba daban-daban ta hanyar ma'adanin da ya fi yawa (dalma ko zinc) idan aka buqata, tare da takardun awo na mizani da takardun gwaji kafin sufuri.",
+      "forms": [
+        "Tattararre (Concentrate)",
+        "Fasasshen Ma'adana",
+        "Danya ta Manya"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Isasshe zuwa Wurin Gini",
+        "FOB Lagos",
+        "FOB Port Harcourt"
+      ],
+      "packagingOptions": [
+        "Buhunan Jumbo na Fitarwa na 1,000 kg (FIBC)",
+        "Buhunan PP Masu Nauyi na 50 kg",
+        "Sufuri ta Mota Tifa Tani 30 (Sufurin Cikin Gida)"
+      ],
+      "applications": [
+        "Batirin masana'antu na lead-acid da kariyar radiation",
+        "Ba wa karfe kariya ta zinc (galvanizing) don kariya",
+        "Gaurayen karfen mutsi, karfen tagulla, da sinadaran zinc oxide"
+      ]
+    },
+    "iron": {
+      "name": "Danyen Karfe (Iron Ore)",
+      "subtitle": "Hematite & Magnetite",
+      "grade": "60% – 65% Fe",
+      "moq": "Tani 30 na Awo / Mota Tifa 1",
+      "origin": "Yankin Danyen Karfe na Kogi & Niger, Najeriya",
+      "leadTime": "Kwanaki 5 – 10 na aiki",
+      "description": "Ingantaccen danyen karfe na hematite da magnetite wanda aka daidaita shi don tanderun narke karfe ko sinter fines, yana samar da matsayin Fe mai kyau da kura-kurai marasa amfani kadan don masana'antun kera karfe, tanderun siminti, da fitarwa waje.",
+      "complianceNote": "Ana kawo shi tare da shaidar awo ta mizanin ma'adana da rarrabuwar sinadarai ta rukunin Fe/gangue daga dakin gwaji.",
+      "forms": [
+        "Fasasshe na Manya (10–50mm)",
+        "Kura-kura (0–10mm)",
+        "Danyen Ma'adana"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Isasshe zuwa Wurin Gini",
+        "FOB Port Harcourt"
+      ],
+      "packagingOptions": [
+        "Manyan Motocin Tifa na Tani 30 / 45",
+        "Buhunan Jumbo FIBC na Fitarwa na 1,000 kg / 1,500 kg",
+        "Aje Kayan a Tasha ta Kwantenoli ko Ba Tare da Kwantenoli ba"
+      ],
+      "applications": [
+        "Kera karfe, raguwar kai tsaye (DRI), da narke karfe",
+        "Karin danyen karfe don siminti na Portland",
+        "Auna nauyin concrete mai nauyi sosai da ballast"
+      ]
+    },
+    "limestone": {
+      "name": "Fasa Duwatsun Farin Dutse da Marble",
+      "subtitle": "Dutse Mai Yawan Calcium Carbonate",
+      "grade": "> 92% CaCO₃",
+      "moq": "Tani 30 na Awo / Mota Tifa 1",
+      "origin": "Yankin Farin Dutse na F.C.T. / Kogi / Edo, Najeriya",
+      "leadTime": "Kwanaki 3 – 7 na aiki",
+      "description": "Tsallakakken farin dutse da manyan duwatsun marble don kera siminti, garin alli (hydrated lime), kawar da hayaki sulfur, da yin adon duwatsun gini na alfarma.",
+      "complianceNote": "Tsarin samar da kaya wanda aka tsara domin gamsar da masana'antun siminti da 'yan kwangilar gini a Abuja da fadin kasar.",
+      "forms": [
+        "Fasassun Duwatsu",
+        "Manyan Duwatsun Gini (Blocks)",
+        "Niƙaƙƙen Garin Dutse (CaCO₃)"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Isasshe zuwa Wurin Gini",
+        "FOB Lagos"
+      ],
+      "packagingOptions": [
+        "Isarwa ta Mota Tifa ta Tani 30",
+        "Buhunan Jumbo na 1,000 kg (Fasasshe / Garin Hoda)",
+        "Danyen Duwatsun Marble daga Ma'adana (Sufurin Katako)"
+      ],
+      "applications": [
+        "Kera siminti da tanderun quicklime / hydrated lime",
+        "Karin garin calcium carbonate a masana'antu (fenti, PVC, takarda, noma)",
+        "Kwalliyar marble a gini, shimfidar bene, da duwatsun ababen infrastructure"
+      ]
+    },
+    "aggregates": {
+      "name": "Duwatsun Granite, Jaku/Lalatarite & Yallabar Rariya (Sharp Sand)",
+      "subtitle": "Wadatar da Kayan Fasa Duwatsu da Ayyukan Kasa da Tasa",
+      "grade": "Tsarin Ingancin Fasa Duwatsu na BS / NIS",
+      "moq": "Mota Tifa 1 (Tani 20 – 30 na Awo)",
+      "origin": "Hanyar Ma'adanar Fasa Duwatsu ta F.C.T. Abuja & Nasarawa",
+      "leadTime": "Awoyi 24 – 72 a cikin F.C.T. Abuja da kewaye",
+      "description": "Tantancattun fasassun duwatsun granite, kasa ja ta titin mota, da wankakkiyar yallabar rariya daga kogi da ake aikawa kai tsaye ta hanyar rukunin motocin Gargati zuwa ginin titi, gada, gidaje, da ayyukan injinjiya.",
+      "complianceNote": "Tare da goyon bayan rukunin motocin Gargati na Abuja masu aiki ba kakkautawa domin isar da motoci da yawa ga 'yan kwangila da takardar oda (PO).",
+      "forms": [
+        "Granite na Rabi (1/2\")",
+        "Granite na 3/4\"",
+        "Garin Dutse (Stone Dust)",
+        "Kasa Jaku na Ginin Titi",
+        "Wankakkiyar Rariya (Sharp Sand)"
+      ],
+      "terms": [
+        "Isasshe zuwa Wurin Gini",
+        "Ex-Works"
+      ],
+      "packagingOptions": [
+        "Motocin Tifa na Hydraulic na Tani 20 / Tani 30",
+        "Aika Motoci Daban-daban na Yau da Kullum ga 'Yan Kwangila",
+        "Loda Kayan Kai Tsaye daga Ma'adana don Safarar Abokin Kasuwanci"
+      ],
+      "applications": [
+        "Hada concrete na karfe (gada, manyan gine-gine, tushe)",
+        "Shimfida kwalta na titi, ginin tushen titi, da gyaran kwararar ruwa",
+        "Ayyukan ginin gidaje da na masana'antu a fadin Abuja F.C.T."
+      ]
+    }
+  },
+  "specModal": {
+    "inspectTexture": "Duba Yanayin Danyen Ma'adana",
+    "purityLabel": "TSARKI / GWAJI",
+    "originLabel": "YANKIN ASALI",
+    "tabCommercial": "Kasuwanci & Safara",
+    "tabTechnical": "Kaddarorin Takamaimai & Sinadarai",
+    "tabPackaging": "Sanya Buhu & Fitarwa",
+    "moqLabel": "Mafi Kancin Oda (MOQ)",
+    "termsLabel": "Sharuddan Isarwa",
+    "leadTimeLabel": "Lokacin Isar da Kaya",
+    "applicationsHeading": "Manya-manyan Amfani a Masana'antu",
+    "physicalHeading": "Siffofi na Filani",
+    "chemicalHeading": "Gwajin Sinadarai",
+    "packagingHeading": "Tsarin Sanya Buhu da Safara da ake da Su",
+    "packagingDisclaimer": "Ana iya tsara kulawa da cika kwantenoli kafin aikawa, shaidar awo mai lamba, da samfurin shaida na gaskiya ta hanyar sashenmu na sayayya da ke Lokogoma-Abuja.",
+    "preferredFormHeading": "Zabi Siffar da ka Fi So don Farashi",
+    "addAndOpen": "Kara & Bude Akwatin Oda",
+    "updateAndOpen": "Sabunta Siffa & Bude Akwatin Oda",
+    "requestAssay": "Nemi Rahoton Gwajin Lab",
+    "lightboxTitleSuffix": "Duban Yanayin Danyen Ma'adana",
+    "resetZoom": "1.0× Sake Saita",
+    "macroZoom": "1.75× Zuƙa kusa (Macro Zoom)"
+  },
+  "drawer": {
+    "eyebrow": "Sashen Sayayya ta B2B & RFQ",
+    "titleBuilder": "Jerin Odayin Sayayya",
+    "titleProforma": "Bayanin Farashi na Dukiya (Proforma)",
+    "readyBannerTitle": "An Shirya RFQ — Lambar Manazarta",
+    "readyBannerBody": "Turawa da tsara cikkaken bayanin farashi na proforma kai tsaye zuwa offis dinmu na Lokogoma-Abuja ta WhatsApp, imel na hukuma, ko adana/billa a matsayin PDF na hukuma.",
+    "proformaTag": "TAƘAITACCEN BAYANIN PROFORMA RFQ",
+    "preparedFor": "AN SHIRYA MA",
+    "attnLabel": "Zuwa Ga:",
+    "deliverySchedule": "JADAWALIN ISARWA",
+    "targetDateLabel": "Rana da aka Nufa:",
+    "toBeScheduled": "Za a shirya ranar",
+    "validityNote": "Inganci: Kwanaki 14 · Dangane da Gwajin Rukuni",
+    "colCommodity": "Ma'adana / Kaya",
+    "colFormTerms": "Siffa / Sharudda",
+    "colQuantity": "Adadi",
+    "buyerNotesLabel": "Bayanan Mai Saye:",
+    "btnWhatsApp": "Tura ta WhatsApp",
+    "btnEmail": "Imel",
+    "btnPrint": "Billa / Adana PDF Proforma",
+    "btnCopy": "Kafi Taƙaitaccen Bayanin Oda",
+    "btnCopied": "An Kafi Taƙaitaccen Bayanin RFQ",
+    "btnEditOrder": "Gyara Adadi ko Cikakken Bayani",
+    "btnClearReset": "Goge da Fara Sabon Bincike",
+    "quickAddLabel": "+ Cikin Hanzari Kara Ma'adana zuwa Wannan Oda",
+    "moreResources": "Sauran kaya...",
+    "emptyTitle": "Jerin sayayyar ku ba komai a ciki a halin yanzu",
+    "emptySubtitle": "Zabi kowane ma'adana a sama ko bincika cikakken rajista don saita tani, matsayin inganci, da sharuddan isarwa.",
+    "browseCatalog": "Bincika Rajistar Ma'adanai",
+    "qtyLabel": "Adadin da ake Bukata *",
+    "unitLabel": "Mera / Awo",
+    "preferredFormLabel": "Siffa / Ingancin da ake So",
+    "preferredTermsLabel": "Sharuddan Isarwa da ake So",
+    "buyerSectionEyebrow": "Bayanan Mai Saye da Safara",
+    "buyerSectionTitle": "Irƙiri Proforma & Aika RFQ",
+    "fieldCompany": "Kamfani / Kungiya *",
+    "placeholderCompany": "Yi rajistar sunan kamfanin mai saya",
+    "fieldContact": "Mutumin Tuntuba *",
+    "placeholderContact": "Cikakken suna da matsayi",
+    "fieldPhone": "Lambar Waya / WhatsApp *",
+    "placeholderPhone": "+234 809 ...",
+    "fieldEmail": "Imel na Hukuma *",
+    "placeholderEmail": "procurement@company.com",
+    "fieldDestination": "Wurin Isar da Kaya *",
+    "destinations": [
+      "Abuja F.C.T.",
+      "Tashar Ruwa ta Lagos (Apapa / Tin Can)",
+      "Tashar Ruwa ta Port Harcourt / Onne",
+      "Kano",
+      "Adireshin Musamman na Wurin Gini"
+    ],
+    "fieldTargetDate": "Ranar Isar da Kaya da aka Nufa",
+    "fieldCustomAddress": "Adireshin Musamman na Wurin Gini ko Tashar Ruwa *",
+    "placeholderCustomAddress": "Shigar da takamaiman wurin gini, masana'anta, ko tashar ruwa ta fitarwa",
+    "fieldNotes": "Bayanan Musamman kan Gwaji, Sanya Buhu, ko Safara",
+    "placeholderNotes": "Ƙayyade buƙatar gwajin SGS/Intertek kafin aikawa, buhunan jumbo 1MT ko tifa mara buhu, ko tsarin duba kaya...",
+    "btnSubmit": "Tura RFQ & Irƙiri Proforma na Hukuma",
+    "btnSubmitting": "Ana Ƙirƙirar Proforma na Hukuma...",
+    "btnQuickWhatsApp": "Tura ta WhatsApp Cikin Hanzari",
+    "btnDirectEmail": "Tura ta Imel Kai Tsaye",
+    "privacyNote": "Gudanarwa ta kai tsaye ta",
+    "units": [
+      "Tani na Awo (MT)",
+      "Motocin Tifa na Tani 30",
+      "Kwantenoli na 20ft",
+      "Buhunan Jumbo na Tani 1 (1MT)"
+    ]
+  },
+  "engineering": {
+    "eyebrow": "02 / Ayyukan Injinjiya da Ike-Iken Gini",
+    "headingPart1": "Kammalawa da Ginin Ababen Injinjiya Masu Nauyi da ",
+    "headingAccent": "Ayyukan Injinjiya na Hakar Ma'adanai.",
+    "intro": "Saman hakar danyen ma'adanai, sashenmu na injinjiya a Abuja yana gudanar da manyan ayyukan hakar kasa, gini mai karfi da konkrete, rukunin motocin safara daga ma'adana, da binciken kasa na geological a karkashin babban shugabanci daya.",
+    "bannerBadge": "GUDANAR DA AYYUKAN FILI DAGA FARA ZUWA KARSHE",
+    "bannerTitle": "Rikewar Aiki Hannu Daya Daga Hakar Kasa Zuwa Mawa Kamfani Aikin.",
+    "bannerBody": "Ta hanyar hada kayan fasa duwatsunmu, na'urorin tono kasa, da injiniyoyin gini masu lasisi, ma'aikatun gwamnati da masu gine-ginen kasuwanci suna kawar da jinkirin 'yan kwangila da yawa da matsalolin ingancin kaya.",
+    "btnSubmitBrief": "Tura Takaitaccen Bayanin Aikin Injinjiya",
+    "btnViewCorridors": "Duba Hanyoyin Safarar Kaya",
+    "pauseVideo": "Tsayar da Bidiyon Wurin Gini",
+    "playVideo": "Kunna Bidiyon Wurin Gini",
+    "divisionLabel": "Sashe",
+    "requestProposal": "Nemi Takardar Shawarwarin Aiki",
+    "capabilities": [
+      {
+        "id": "mine-development",
+        "title": "Ginin Wuraren Ma'adana da Tono Kasa",
+        "subtitle": "Ayyukan Tono Kasa da Wuraren Fasa Duwatsu",
+        "description": "Bude wurin ma'adana daga farko zuwa karshe, gina hanyoyin tifa, tsara hanyoyin karkashin kasa da kwashe kasar saman ma'adana domin hakar ma'adanai cikin tsaro da samun nasara.",
+        "deliverables": [
+          "Tsara kasan ma'adana da cire kasar sama",
+          "Saita hanyoyin tifa da hanyoyin kwararar ruwan sama",
+          "Tantance ma'adana, wuraren fasa dutse da sarrafa kaya",
+          "Sake gyara kasan ma me aka haka da gina katangar tsaro"
+        ],
+        "equipmentOrMethodology": "Hydraulic Excavators na Tani 30T–45T · Bulldozers · Manyan Motocin Dump Trucks"
+      },
+      {
+        "id": "civil-construction",
+        "title": "Ginin Ababen Hada-hada da Injinjiya",
+        "subtitle": "Ginin Ababen Infrastructure, Masana'antu da Muhallai",
+        "description": "Ayyukan injinjiyan gini tun daga farko zuwa karshe a fadin Najeriya—isar da gine-gine masu karfi, hanyoyin kwararar ruwa, rumbun adana kaya na masana'antu, da ginin unguwanni.",
+        "deliverables": [
+          "Gada mai concrete, magudanan ruwa da bango mai karfi",
+          "Rumbun masana'antu, tushen mizani da runfunan sarrafa kaya",
+          "Hanyoyin mota na kasuwanci da gidaje da magudanar ruwa",
+          "Yin amfani da duwatsu, concrete da kwalta da aka gwada ingancinsu"
+        ],
+        "equipmentOrMethodology": "Tsarin Gini na BS / NIS · Gwajin Ingancin Kayan Gini QA/QC · Kulawar Aiki tun daga Farko"
+      },
+      {
+        "id": "equipment-haulage",
+        "title": "Hayar Na'urori Masu Nauyi da Safarar Kaya",
+        "subtitle": "Rukunin Na'urorin Tono Kasa da Safarar Ma'adanai",
+        "description": "Amintaccen aikaza manyan na'urori masu ma'aikata, na'urorin fasa dutse masu yawo, da motocin safarar ma'adanai masu yawa da ke hada nesa da wuraren gini da tashoshin ruwa.",
+        "deliverables": [
+          "Excavators na roba/karfe, bulldozers da wheel loaders na kwangila",
+          "Articulated dump trucks da motocin tifa na Tani 30T–45T",
+          "Na'urorin fasa dutse da matatar zakulawa",
+          "Hanyar safara daga ma'adana zuwa tashar ruwa ta kwantenoli ko motoci"
+        ],
+        "equipmentOrMethodology": "Tallafin Gyara na Rigakafi · Direbobi da Ma'aikata Horarru · Bin Diddigin Mota ta GPS"
+      },
+      {
+        "id": "geological-survey",
+        "title": "Binciken Kasa da Neman Ma'adanai",
+        "subtitle": "Tantance Ma'adanai, Samfur da Biye da Doka",
+        "description": "Ayyukan bincike na fili, hakar ramin bincike na core drilling, daukar samfurin ma'adana, da binciken muhalli da ke rage kasadar zuba jari a fannin hakar ma'adanai.",
+        "deliverables": [
+          "Taswirar geological, hakar ramuka da daukar samfurin dutse",
+          "Kulawa da hakar rami da adana samfuran duwatsu",
+          "Kimanta adadin ma'adana da tsarin sarrafa inganci",
+          "Binciken Tasiri akan Muhalli (EIA) da rahoton biye da doka"
+        ],
+        "equipmentOrMethodology": "Nade Samfurin Dutse · Tsaron Samfuri zuwa Lab Mai Zaman Kansa · Tallafin Bada Rahoto ga Hukuma"
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "03 / Hanyoyin Gudanarwa da Tsarin Aiki",
+    "headingPart1": "Safara daga Ma'adana zuwa Wurin Gini da ",
+    "headingAccent": "Hanyoyin Safara a Najeriya.",
+    "intro": "Shirya hakar ma'adanai, sarrafa awo a mizani, tabbatar da gwajin dakin gwaji, da safara kai tsaye a cikin manyan yankunan ma'adanai na Najeriya da garuruwan gine-gine.",
+    "inquireSchedule": "Tambayi Jadawalin Rukuni",
+    "stagingBadge": "TSARON SAMFURIN GWAJI DA SHIRYA FITARWA",
+    "stagingCaption": "Adana samfurin dutse, sanya buhunan jumbo na 1MT FIBC da loda kwantenoli masu lamba.",
+    "protocolEyebrow": "Tsarin Gudanar da Sayayya",
+    "protocolTitle": "Maki Hudu na Tabbatar da Rukuni da Tsarin Isarwa",
+    "btnStartOrder": "Fara Oda Mai Yawa",
+    "surveyorNotice": "Ana maraba da masu binciken da mai saya ya nada (SGS, Intertek, Alfred H Knight) domin shaida daukar samfuri a ma'adana ko wurin shiryawa na tasha.",
+    "corridors": [
+      {
+        "id": "nasarawa-kogi-corridor",
+        "vertical": "Mawuyacin Ma'adanai & Na Masana'antu",
+        "title": "Hanyar Safarar Pegmatite da Danyen Karfe na Tsakiyar Arewa",
+        "corridor": "Yankunan Nasarawa · Kogi · Plateau",
+        "summary": "Tsara samun kaya, saita girma, da sanya buhunan jumbo don lithium (spodumene/lepidolite), kwalba/cassiterite tin, coltan, da danyen karfe na 60–65% Fe zuwa masana'antun cikin gida da tashoshin fitarwa na Lagos/Port Harcourt.",
+        "scopeTags": [
+          "Gwaji Kafin Aikawa",
+          "Sanya Buhun Jumbo na 1MT",
+          "Safara zuwa Tasha"
+        ]
+      },
+      {
+        "id": "abuja-civil-supply",
+        "vertical": "Safara na Gini da Ma'adana",
+        "title": "Rukunin Motocin Duwatsun Concrete da Tushen Titi na F.C.T. Abuja",
+        "corridor": "Lokogoma · Lugbe · Kewaye na Abuja",
+        "summary": "Rukunin motocin tifa na yau da kullum da ke isar da duwatsun granite na 1/2\" da 3/4\", garin dutse, wankakkiyar yallabar rariya, da kasa ja zuwa 'yan kwangilar babban titi, masana'antun concrete, da masu gine-ginen gidaje.",
+        "scopeTags": [
+          "Isarwa Cikin Awoyi 24–72",
+          "Motocin Tifa na Tani 30",
+          "Takardar Awo na Mizani"
+        ]
+      },
+      {
+        "id": "benue-sulfides",
+        "vertical": "Sayen Manya-manyan Karfe",
+        "title": "Tattara Galena da Sphalerite daga Benue Trough",
+        "corridor": "Benue Trough → Tashoshin Ruwa na Onne / Apapa",
+        "summary": "Tattara ingantaccen ma'adanin lead sulfide (PbS) da zinc sulfide (ZnS) tare da raba rukuni, kula da danshi, da duba amfani da XRF mai zaman kansa kafin cika kwantenoli.",
+        "scopeTags": [
+          "55%+ Pb / 50%+ Zn",
+          "Cika Kwantenoli",
+          "A Shirye don Fitarwa ta NEPC"
+        ]
+      },
+      {
+        "id": "turnkey-civil",
+        "vertical": "Injinjiya da Tono Kasa",
+        "title": "Shirya Wurin Gini, Magudanan Ruwa da Ginshiƙan Masana'antu",
+        "corridor": "F.C.T. Abuja da Wurare a Fadin Najeriya",
+        "summary": "Hada tona kasa mai nauyi, danne tushen titi, ayyukan magudanan ruwa da concrete, da wadatar da kayan gini kai tsaye daga ma'adana a karkashin shugabanci daya amintacce.",
+        "scopeTags": [
+          "Tono Kasa & Saita Titi",
+          "Ayyukan Concrete",
+          "Rikewar Aiki Hannu Daya"
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "step": "01",
+        "title": "Tattara Kaddarori da Yarjejeniyar Aiki",
+        "detail": "Masu saya suna aiko da tani da ake bukata, ingancin sinadarai, wurin isarwa, da Incoterms ta hanyar Sashenmu na Sayayya ko takaitaccen bayanin injinjiya."
+      },
+      {
+        "step": "02",
+        "title": "Gwajin Lab Mai Zaman Kansa da Binciken Lasisi",
+        "detail": "Ana daukar samfuran rukuni don gwajin dakin gwaji mai shaidar amincewa, tabbatar da danshi, da takardun asalin ma'adana kafin kulla yarjejeniya."
+      },
+      {
+        "step": "03",
+        "title": "Sarrafawa, Daidaitawa da Sanya Buhu",
+        "detail": "Ana fasa ma'adanai, wanke su, ko sanya su a buhunan jumbo masu lamba na 1MT FIBC, buhunan PP na 50kg, kangunan tsaro, ko lodin motar tifa da aka auna."
+      },
+      {
+        "step": "04",
+        "title": "Safara daga Ma'adana zuwa Wurin Gini ko Tashar Fitarwa",
+        "detail": "Safara mai tsari tana isar da kaya kai tsaye zuwa wuraren gini a fadin Najeriya ko tashoshin fitarwa na Lagos (Apapa/Tin Can) da Port Harcourt."
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "04 / Shugabancin Kamfani da Biye da Doka",
+    "headingPart1": "Amincewar Dokoki da ",
+    "headingAccent": "Sahihiyar Rajistar Kamfani a Najeriya.",
+    "narrativeSuffix": " yana aiki ne bisa bin dokokin shugabancin kamfanoni na Najeriya, tabbatar da lasisin ma'adanai, da shirye-shiryen fitarwa—yana ba masu saye na kasa da kasa, 'yan kwangilar gini, da ma'aikatun gwamnati abokin hulda mai gaskiya da amintacce.",
+    "pillars": [
+      {
+        "code": "CAC-REG",
+        "title": "Yi Rajista a Hukumar yi wa Kamfanoni Rajista (CAC)",
+        "detail": "Yi rajista a karkashin Dokar Kamfanoni da Ayyuka Masu Alaka a matsayin RC No.: 9963225."
+      },
+      {
+        "code": "MMSD-STD",
+        "title": "Bin Ka'idojin Ma'aikatar Ma'adanai na Tarayya",
+        "detail": "Samar da kaya wanda ya dace da dokokin ma'adana masu lasisi, yarjejeniya, da takardun ma'adanai."
+      },
+      {
+        "code": "NEPC-EXP",
+        "title": "Shirye-shiryen Fitarwa da Tsaron Gwajin Lab Mai Zaman Kansa",
+        "detail": "Gwajin dakin bincike na musamman don rukuni, gwajin radiation inda ya dace, da tsarin sanya buhun fitarwa."
+      }
+    ],
+    "dossierBadge": "TABBATACCEN FAHNIN KAMFANI",
+    "dossierSubtitle": "Kammalallen Kamfanin Hakowa, Injinjiya da Ababen Infrastructure a Najeriya",
+    "labelCac": "Rajistar CAC",
+    "labelAddress": "Adireshin Babban Offis",
+    "labelLines": "Lambar Waya Tuntuba",
+    "labelEmail": "Imel na Hukuma",
+    "labelVerticals": "Manya-manyan Ayyuka",
+    "verticalsShort": "Hakar Ma'adanai · Ayyukan Injinjiya · Ababen Infrastructure · Wadatar da Kaya Mai Yawa",
+    "btnOpenRfq": "Bude Odayin Kaya Mai Yawa / RFQ",
+    "btnRequestPack": "Nemi Takardun Biye da Doka"
+  },
+  "contact": {
+    "eyebrow": "05 / Sashen Sayayya, Gwajin Lab da Injinjiya",
+    "headingPart1": "Tuntubi Kai Tsaye Tawagarmu na ",
+    "headingAccent": "Ayyuka a Abuja.",
+    "intro": "Aiko da binciken kamfani domin rahoton gwajin lab, kwangilar injinjiyan gini, turawa da na'urori masu nauyi, ko jadawalin sayen kaya.",
+    "successTitle": "An Yi Rajistar Bincikenka kuma An Shirya shi don Aikawa",
+    "successBody": "Aika shi nan take zuwa offis dinmu ta WhatsApp ko imel na hukuma a kasa domin tawagarmu ta injinjiya da kaya a Abuja ta duba shi da wuri.",
+    "btnDispatchWhatsApp": "Aika ta WhatsApp",
+    "btnOpenEmail": "Bude a Imel",
+    "btnSendAnother": "Tura Wani Binciken Kamfani",
+    "fieldCategory": "Sashen Bincike / Rukunin Aiki",
+    "inquiryTypes": [
+      "Sayen Ma'adanai Mai Yawa",
+      "Neman Rahoton Gwajin Lab",
+      "Kwangilar Injinjiya da Gini",
+      "Hayar Na'urori Masu Nauyi",
+      "Binciken Kamfani Gaba Ɗaya"
+    ],
+    "fieldCompany": "Sunan Kamfani / Ma'aikata *",
+    "placeholderCompany": "Sunan kungiya ko kamfani",
+    "fieldContact": "Mutumin Tuntuba *",
+    "placeholderContact": "Cikakken suna",
+    "fieldPhone": "Lambar Waya / WhatsApp *",
+    "placeholderPhone": "+234 809 ...",
+    "fieldEmail": "Imel na Hukuma *",
+    "placeholderEmail": "name@organization.com",
+    "fieldSubject": "Maganar da ke Ciki *",
+    "placeholderSubject": "misali Neman Rahoton Gwaji na Lithium Ore (Spodumene)",
+    "fieldMessage": "Bayanin Aiki / Cikakken Bincike *",
+    "placeholderMessage": "Yada adadin tani da ake bukata, wurin gini, tsarin inganci, ko takardar kwangilar injinjiya...",
+    "btnSubmit": "Tura Binciken Kamfani",
+    "btnSubmitting": "Ana Shirya Binciken Kamfani...",
+    "headOfficeBadge": "BABBAN OFFIS NA KAMFANI",
+    "workingHours": "Litinin – Juma'a · 08:00 – 17:00 WAT (Ranar Asabar ana Aika Kaya ta Yarjejeniya)",
+    "btnOpenMaps": "Bude a Google Maps",
+    "channelsBadge": "HANYOYIN TUNTUBA NA KAI TSAYE",
+    "primaryLineLabel": "Babban Offis na Sayayya",
+    "secondaryLineLabel": "Lambar Waya ta Injinjiya da Safara",
+    "emailLabel": "Imel na Hukuma na Kamfani"
+  },
+  "footer": {
+    "verifiedRegistration": "Tabbatacciyar Rajistar Kamfani",
+    "mission": "Isar da sahihan ma'adanai na Najeriya masu tabbacin gwaji, duwatsun ma'adana, safarar na'urori masu nauyi, da ginin ababen infrastructure daga F.C.T. Abuja zuwa masu saye na masana'antu a fadin duniya.",
+    "colPortal": "Dandamali na Kamfani",
+    "colProcurement": "Sashen Sayayya",
+    "colHeadOffice": "Babban Offis da Lambobin Waya",
+    "linkOpenRfq": "Bude Akwatin Oda Mai Yawa / RFQ",
+    "linkRequestAssay": "Nemi Rahoton Gwajin Lab",
+    "linkSubmitTender": "Tura Kwangilar Injinjiya / Gini",
+    "linkWhatsApp": "Offis din WhatsApp",
+    "backToTop": "Sake komawa sama"
+  },
+  "toast": {
+    "addedSuffix": "an kara zuwa jerin RFQ",
+    "readySubtitle": "A shirye yake don adadin tani da sharuddan isarwa",
+    "openRfqLabel": "Bude Jerin RFQ"
+  }
+}

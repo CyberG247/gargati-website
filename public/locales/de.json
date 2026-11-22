@@ -1,0 +1,673 @@
+{
+  "switcher": {
+    "buttonLabel": "Sprache",
+    "modalTitle": "Sprachauswahl",
+    "modalSubtitle": "Übersetzen Sie das Unternehmensportal und den Mineralienkatalog in 25 nigerianische und globale Sprachen.",
+    "searchPlaceholder": "Sprache suchen (z. B. Chinesisch, Türkisch, Arabisch, Hausa, Yoruba, Igbo, Kanuri, Fulfulde...)",
+    "noMatches": "Keine passende Sprache gefunden.",
+    "groupNigerian": "Nigerianische Sprachen",
+    "groupGlobal": "Globaler Handel & Export",
+    "groupMore": "Weitere Weltsprachen",
+    "instantBadge": "Sofort",
+    "aiBadge": "Live KI",
+    "rtlBadge": "RTL",
+    "translatingStatus": "Portal-Inhalt wird übersetzt...",
+    "errorFallback": "Live-Übersetzung vorübergehend nicht verfügbar. Englische Ausweichversion wird angezeigt.",
+    "legalNotice": "Offizielle CAC-Registrierungsdaten, chemische Formeln und Referenzcodes bleiben unverändert auf Englisch."
+  },
+  "nav": {
+    "topLocation": "Lokogoma District, F.C.T., Abuja · Nigeriasweite & Export-Lieferung",
+    "home": "Startseite",
+    "about": "Über uns & Compliance",
+    "catalog": "Mineralressourcen",
+    "engineering": "Ingenieurwesen",
+    "projects": "Projekte",
+    "contact": "Kontakt",
+    "orderRfq": "Bestellung / RFQ",
+    "requestBulkQuote": "Großauftrag-Angebot anfordern",
+    "openRfqList": "Offene RFQ-Bestellliste",
+    "callPrefix": "Anruf"
+  },
+  "hero": {
+    "eyebrow": "Feste Mineralien · Schwerbau · Infrastruktur",
+    "headlinePart1": "Präzisionsförderung fester Mineralien & ",
+    "headlineAccent": "Schwerbau-Infrastruktur",
+    "headlinePart2": " in ganz Nigeria.",
+    "subheadlinePrefix": "Von der zertifizierten Rohstoffbeschaffung bis zum großflächigen Tiefbau liefert ",
+    "subheadlineSuffix": " konforme, hochwertige Materialien und schlüsselfertige Ingenieurleistungen vom F.C.T. Abuja in globale Märkte.",
+    "ctaExplore": "Mineralressourcen erkunden",
+    "ctaContact": "Beschaffungsabteilung kontaktieren",
+    "ctaOpenRfq": "Großauftrag-RFQ öffnen",
+    "deskEyebrow": "GESCHÄFTSFÜHRUNG",
+    "deskTitle": "Direktes Rohstoff- und Tiefbau-Mandat",
+    "statStatus": "Unternehmensstatus",
+    "statPortfolio": "Mineralienportfolio",
+    "statPortfolioValue": "8 zertifizierte Ressourcen",
+    "statHeadOffice": "Hauptsitz",
+    "statHeadOfficeValue": "Lokogoma, F.C.T. Abuja",
+    "statChannels": "Lieferkanäle",
+    "statChannelsValue": "Kipper · 20ft FCL · FOB-Häfen",
+    "ctaBuildRfq": "Großauftrag-RFQ erstellen",
+    "trustCacTitle": "Verifizierte CAC-Registrierung",
+    "trustAbujaTitle": "Betrieb in Lokogoma-Abuja",
+    "trustAbujaSub": "F.C.T. Hauptsitz & Versand",
+    "trustAssayTitle": "Analyse-zertifizierte Mineralqualitäten",
+    "trustAssaySub": "Unabhängige Laborverifizierung",
+    "trustLogisticsTitle": "Direktlogistik von der Mine zur Baustelle",
+    "trustLogisticsSub": "Kipperflotte & Exportterminals",
+    "coreVerticalsLabel": "Kernbereiche",
+    "verticals": [
+      "Abbau & Verarbeitung fester Mineralien",
+      "Tiefbau & Schwerbau",
+      "Infrastrukturbau",
+      "Großmengen-Mineralienlieferung"
+    ]
+  },
+  "catalog": {
+    "eyebrow": "01 / Katalog für feste Mineralien & Steinbruchressourcen",
+    "headingPart1": "Analysegestützte Ressourcen für ",
+    "headingAccent": "globale Industrie & Infrastruktur.",
+    "intro": "Prüfen Sie verifizierte Spezifikationen, begutachten Sie verfügbare Lieferformen und stellen Sie Sammelanfragen für den Großstoffeinkauf direkt für den Versand ab Abuja oder den Port-Export zusammen.",
+    "requestSchedule": "Aktuellen Verfügbarkeitsplan anfordern",
+    "categories": {
+      "all": "Alle Ressourcen",
+      "battery": "Batterie- & Kritische Minerale",
+      "precious": "Edelmetalle",
+      "industrial": "Industrieerze",
+      "construction": "Bau- & Steinbruchstoffe"
+    },
+    "searchPlaceholder": "Mineral, Formel, Verwendung suchen...",
+    "rfqListLabel": "RFQ-Liste",
+    "emptyTitle": "Keine passenden Mineralrohstoffe gefunden",
+    "emptySubtitle": "Versuchen Sie, Ihren Suchfilter zu löschen oder alle 8 zertifizierten nigerianischen Festmineralien anzuzeigen.",
+    "resetFilters": "Katalogfilter zurücksetzen",
+    "gradeLabel": "Gehalt / Analysebereich",
+    "formsLabel": "Lieferformen",
+    "moqLabel": "MOQ",
+    "originLabel": "Herkunft",
+    "termsLabel": "Lieferbedingungen",
+    "viewFullSpecs": "Vollständige Spezifikationen anzeigen",
+    "orderQuote": "Bestellung / Angebot",
+    "inRfqOrder": "In RFQ · Bestellung",
+    "footerNote": "Alle Mineralspezifikationen sind chargenabhängig und werden vor dem Versand durch ein unabhängiges, akkreditiertes Labor (SGS / Intertek / Alfred H Knight Option verfügbar) verifiziert.",
+    "assembleMultiOrder": "Sammelbestellung mehrerer Mineralien zusammenstellen"
+  },
+  "minerals": {
+    "lithium": {
+      "name": "Lithiumerz",
+      "subtitle": "Spodumen & Lepidolith",
+      "grade": "4.5% – 6.2% Li₂O",
+      "moq": "30 Metric Tons / 1 Kipper-LKW",
+      "origin": "Nasarawa, Kogi & Kwara Pegmatit-Gürtel, Nigeria",
+      "leadTime": "7 – 14 Arbeitstage ab Chargenbestätigung",
+      "description": "Hartgestein-Spodumen- und Lepidolith-Lithiumrohstoff aus zentralnigerianischen Pegmatitformationen, sortiert und aufbereitet nach den Korngrößen- und Chemie-Grenzwerten des Käufers für die Raffination zu Lithiumcarbonat und -hydroxid.",
+      "complianceNote": "Geliefert mit Nachweis der Minenherkunft, unabhängigen Zertifikaten der Analyse vor dem Versand und NEPC-konformer Exportdokumentation.",
+      "forms": [
+        "Rohstückerz",
+        "Gebrochen (0–50mm)",
+        "Konzentrat"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Delivered Site",
+        "FOB Lagos"
+      ],
+      "packagingOptions": [
+        "1.000 kg Schwerlast-Jumbobags (FIBC)",
+        "50 kg doppelt gefütterte PP-Exportsäcke",
+        "Lose Kipper-Lieferung (Inland)"
+      ],
+      "applications": [
+        "Kathodenvorläufer für EV-Batterien & chemische Lithiumraffination",
+        "Technische Keramik und hitzebeständiges Borosilikatglas",
+        "Industrieschmierstoffe und spezielle metallurgische Flussmittel"
+      ]
+    },
+    "gold": {
+      "name": "Golderz & Alluviale Konzentrate",
+      "subtitle": "Analysierte Edelmetall-Einsatzstoffe",
+      "grade": "Analyse-Zertifiziert (Laborgeprüft)",
+      "moq": "1 Metric Ton · Abhängig von Chargenanalyse",
+      "origin": "Nord-Zentral & Nord-West Schiefergürtel, Nigeria",
+      "leadTime": "Nach geplanter, gesicherter Chargenzuteilung",
+      "description": "Primäres goldführendes Quarzgangerz und schwerkraftkonzentrierter alluvialer Einsatzstoff, gehandhabt unter strengen Überwachungsketten-Protokollen mit Verifizierung der Dokimastik-Proberfaktoren vor der kaufmännischen Abwicklung.",
+      "complianceNote": "Strikter Handel unter verifiziertem nigerianischen Bergbautitel, Protokollen zur Überwachungskette und zertifizierten unabhängigen Dokimastik-Analyseberichten.",
+      "forms": [
+        "Rohquarzerz",
+        "Alluviales Konzentrat",
+        "Schwerkraftkonzentrat"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Sicherheitseskorte / Tresorabholung"
+      ],
+      "packagingOptions": [
+        "Versiegelte, manipulierungsgesicherte Stahl-Sicherheitsfässer",
+        "Nummerierte Hochleistungs-Sicherheitsbeutel",
+        "Verifizierte Probenaufteilung für unabhängige Dokimastik (Fire Assay)"
+      ],
+      "applications": [
+        "Lizenzierte metallurgische Goldraffination und Barrenrückgewinnung",
+        "Schwerkraft- und hydrometallurgische Aufbereitungsanlagen",
+        "Institutionelle Edelmetallreserven-Lieferketten"
+      ]
+    },
+    "tin": {
+      "name": "Zinnerz",
+      "subtitle": "Kassiterit-Konzentrat (SnO₂)",
+      "grade": "65% – 72% Sn",
+      "moq": "30 Metric Tons / 1 × 20ft Container",
+      "origin": "Jos-Plateau & Nord-Zentral Zinn-Gürtel, Nigeria",
+      "leadTime": "7 – 12 Arbeitstage pro Containercharge",
+      "description": "Hochdichtes alluviales und Hartgestein-Kassiterit-Konzentrat aus Nigerias historischem Jos-Plateau-Mineralgürtel, gewaschen und elektromagnetisch getrennt zur Einhaltung internationaler Hüttenreinheitstoleranzen.",
+      "complianceNote": "Geliefert mit RFA/Nasschemie-Zinnanalyse und Export-Strahlenschutzfreigabedokumenten bei Containerbeladung.",
+      "forms": [
+        "Alluviales Konzentrat",
+        "Hartgestein gebrochen",
+        "Gewaschenes Feinerz"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Delivered Site",
+        "FOB Lagos"
+      ],
+      "packagingOptions": [
+        "50 kg doppelt gewebte Polypropylensäcke (20 MT / 20ft FCL)",
+        "1.000 kg Export FIBC Jumbobags",
+        "Versiegelte Stahlfässer (hochgradiges Konzentrat)"
+      ],
+      "applications": [
+        "Primäre Zinnschmelze und bleifreie Elektronik-Lotelektrodenherstellung",
+        "Lebensmittelechte Weißblechbeschichtung und chemische Stabilisatoren",
+        "Bronze, Babbitt-Lager und spezielle Industrielegierungen"
+      ]
+    },
+    "coltan": {
+      "name": "Columbit & Tantalit (Coltan)",
+      "subtitle": "Konzentrate mit hohem Ta₂O₅ / Nb₂O₅-Verhältnis",
+      "grade": "Hohe Ta₂O₅ / Nb₂O₅-Analyse",
+      "moq": "1 × 20ft Container (20 MT) / Luftfracht-Charge nach Prüfung",
+      "origin": "Nord-Zentral Pegmatit-Gürtel, Nigeria",
+      "leadTime": "10 – 18 Arbeitstage inklusive Zollabwicklung",
+      "description": "Hochdichte Columbit-Tantalit-Konzentrate zur Verwendung in der Kondensatorenherstellung für Elektronik, Superlegierungen und Luftfahrtmetallurgie, begleitet von strengen Strahlungstests und Elementar-RFA/ICP-Analysen.",
+      "complianceNote": "Jede Sendung wird obligatorischen radiologischen Untersuchungen und unabhängigen Laborprüfungen unterzogen, um den Bestimmungen internationaler Frachtführer und Abnehmer zu entsprechen.",
+      "forms": [
+        "Konzentrat",
+        "Gebrochenes Erz",
+        "Rohstückerz"
+      ],
+      "terms": [
+        "Ex-Works",
+        "FOB Lagos",
+        "CIF auf Anfrage"
+      ],
+      "packagingOptions": [
+        "50 kg gefütterte Stahlfässer / doppelte PP-Säcke",
+        "1.000 kg palettierte FIBC Jumbobags",
+        "Manipulationssicher versiegelte Exportcontainer"
+      ],
+      "applications": [
+        "Tantal-Elektrolytkondensatoren für Halbleiter und 5G-Hardware",
+        "Nickel-Niob-Superlegierungen für Düsenturbinen und Luftfahrtstrukturen",
+        "Herstellung von hochfestem mikrolegiertem Baustahl"
+      ]
+    },
+    "lead-zinc": {
+      "name": "Blei- & Zinkerz",
+      "subtitle": "Bleiglanz- & Zinkblende-Sulfidkonzentrate",
+      "grade": "55%+ Pb / 50%+ Zn",
+      "moq": "30 Metric Tons / 1 Kipper-LKW",
+      "origin": "Benue-Trog-Mineralkorridor, Nigeria",
+      "leadTime": "7 – 14 Arbeitstage",
+      "description": "Hochgradige Galenit- (Bleisulfid) und Sphalerit-Erze (Zinksulfid) aus Nigerias ergiebigem Benue-Trog-Gürtel, getrennt aufbereitet für Hütten, Verzinkungsstahlmühlen und die industrielle Batterieherstellung.",
+      "complianceNote": "Auf Anfrage separat nach Blei- oder Zinkdominanz sortiert, mit vollständigen Waagscheinen und Analysenzertifikaten vor dem Versand.",
+      "forms": [
+        "Konzentrat",
+        "Gebrochenes Erz",
+        "Rohstückerz"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Delivered Site",
+        "FOB Lagos",
+        "FOB Port Harcourt"
+      ],
+      "packagingOptions": [
+        "1.000 kg Export Jumbobags (FIBC)",
+        "50 kg Schwerlast-PP-Säcke",
+        "Lose 30T Kipper-Transporte (Inland)"
+      ],
+      "applications": [
+        "Industrielle Blei-Säure-Akkumulatoren und Strahlenschutz",
+        "Feuerverzinkung zum Schutz von Baustahl",
+        "Druckgusslegierungen, Messingmetallurgie und Zinkoxid-Chemikalien"
+      ]
+    },
+    "iron": {
+      "name": "Eisenerz",
+      "subtitle": "Hämatit & Magnetit",
+      "grade": "60% – 65% Fe",
+      "moq": "30 Metric Tons / 1 Kipper-LKW",
+      "origin": "Kogi & Niger Eisenerzgürtel, Nigeria",
+      "leadTime": "5 – 10 Arbeitstage",
+      "description": "Dichtes Hämatit- und Magnetit-Eisenerz, kalibriert als Hochofen-Stückerz oder Sinterfeinerz mit konstantem Fe-Gehalt und geringem unerwünschtem Taubgestein für einheimische Gießereien, Zementöfen und die Stahlherstellung im Export.",
+      "complianceNote": "Geliefert mit zertifizierten Steinbruch-Wiegescheinen und laboranalytischer Aufschlüsselung der Fe-/Taubgesteinskomponenten.",
+      "forms": [
+        "Gebrochenes Stückerz (10–50mm)",
+        "Feinerz (0–10mm)",
+        "Roherz"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Delivered Site",
+        "FOB Port Harcourt"
+      ],
+      "packagingOptions": [
+        "30T / 45T Sattelkipper (lose)",
+        "1.000 kg / 1.500 kg Jumbo FIBC Exportbags",
+        "Containerisierte oder Massengut-Hafenbereitstellung"
+      ],
+      "applications": [
+        "Integrierte Stahlerzeugung, Direktreduktion (DRI) und Walzwerke",
+        "Eisenkorrekturzusatz für Portlandzement-Klinker",
+        "Schwerzuschlagstoff-Ballast und Verpressung von Schwerbeton"
+      ]
+    },
+    "limestone": {
+      "name": "Kalkstein- & Marmorzuschlagstoffe",
+      "subtitle": "Hoch-Calciumcarbonat-Gestein",
+      "grade": "> 92% CaCO₃",
+      "moq": "30 Metric Tons / 1 Kipper-LKW",
+      "origin": "F.C.T. / Kogi / Edo Kalksteingürtel, Nigeria",
+      "leadTime": "3 – 7 Arbeitstage",
+      "description": "Hochreiner Sedimentkalkstein und Architektur-Marmorblöcke, gewonnen für die Zementklinkerherstellung, Branntkalk/Löschkalk-Produktion, Rauchgasentschwefelung und anspruchsvollen gewerblichen Natursteinbau.",
+      "complianceNote": "Großmengenpläne zugeschnitten auf die kontinuierliche Zementwerk-Versorgung und Bauunternehmer in Abuja sowie landesweit.",
+      "forms": [
+        "Gebrochene Zuschlagstoffe",
+        "Rohblöcke",
+        "Gemahlenes Pulver (CaCO₃)"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Delivered Site",
+        "FOB Lagos"
+      ],
+      "packagingOptions": [
+        "30T Kipper-LKW Anlieferung (lose)",
+        "1.000 kg Jumbobags (gebrochenes / mikronisiertes Pulver)",
+        "Unbearbeitete Marmorblöcke aus dem Steinbruch (Tieflader-Transport)"
+      ],
+      "applications": [
+        "Zementklinkerherstellung und Branntkalk- / Löschkalköfen",
+        "Calciumcarbonat als Industriefüllstoff (Farbe, PVC, Papier, Landwirtschaft)",
+        "Architektonische Marmorverkleidungen, Bodenbeläge und Tiefbausteine"
+      ]
+    },
+    "aggregates": {
+      "name": "Granitzuschlagstoffe, Laterit & Scharfer Sand",
+      "subtitle": "Steinbruch- & Erdbauversorgung für den Tiefbau",
+      "grade": "BS / NIS Steinbruch-Spezifikation",
+      "moq": "1 Kipper-LKW (20 – 30 Metric Tons)",
+      "origin": "F.C.T. Abuja & Nasarawa Steinbruchkorridor",
+      "leadTime": "24 – 72 Stunden innerhalb F.C.T. Abuja & Umgebung",
+      "description": "Klassierte magmatische gebrochene Granitzuschlagstoffe, verdichtungsfähiger Straßenbau-Laterit und gewaschener scharfer Flusssand, direkt von der Gargati-Fuhrparkflotte an Tiefbau-, Brücken-, Siedlungs- und Straßenbaustellen geliefert.",
+      "complianceNote": "Unterstützt durch Gargatis aktive Abuja-Flotte für unterbrechungsfreie LKW-Baustellenfahrpläne und Lieferantenkredit/Bestellabwicklung.",
+      "forms": [
+        "1/2\" Granit",
+        "3/4\" Granit",
+        "Steinmehl / Brechsand",
+        "Straßenbau-Unterbau-Laterit",
+        "Gewaschener scharfer Sand"
+      ],
+      "terms": [
+        "Delivered Site",
+        "Ex-Works"
+      ],
+      "packagingOptions": [
+        "20-Tonnen / 30-Tonnen Hydraulik-Kipper (Baustellenabkippung)",
+        "Tägliche Takte mit mehreren LKWs für Bauunternehmen",
+        "Direktverladung ab Steinbruch bei Kunden-Eigenstransport"
+      ],
+      "applications": [
+        "Herstellung von Stahlbeton (Brücken, Hochhäuser, Fundamente)",
+        "Asphaltdeckschichten, Straßenunterbau und Entwässerungsstabilisierung",
+        "Wohn- und Gewerbesiedlungs-Tiefbauarbeiten im gesamten F.C.T. Abuja"
+      ]
+    }
+  },
+  "specModal": {
+    "inspectTexture": "Rohtextur inspizieren",
+    "purityLabel": "REINHEIT / GEHALT",
+    "originLabel": "HERKUNFTSGÜRTEL",
+    "tabCommercial": "Kaufmännisch & Logistik",
+    "tabTechnical": "Physikalisch & Chemisch",
+    "tabPackaging": "Verpackung & Export",
+    "moqLabel": "Mindestbestellmenge (MOQ)",
+    "termsLabel": "Lieferbedingungen",
+    "leadTimeLabel": "Versandvorlaufzeit",
+    "applicationsHeading": "Wichtigste industrielle Anwendungen",
+    "physicalHeading": "Physikalische Parameter",
+    "chemicalHeading": "Chemischer & Analysebereich",
+    "packagingHeading": "Verfügbare Verpackungs- & Transportformate",
+    "packagingDisclaimer": "Die Überwachung der Containerbeladung vor dem Versand, nummerierte Wiegescheine und Probennahmen im Beisein Dritter können über unsere Beschaffungsstelle in Lokogoma-Abuja vereinbart werden.",
+    "preferredFormHeading": "Bevorzugte Form für Angebot auswählen",
+    "addAndOpen": "Hinzufügen & Bestellfach öffnen",
+    "updateAndOpen": "Formular aktualisieren & Bestellfach öffnen",
+    "requestAssay": "Analysebericht anfordern",
+    "lightboxTitleSuffix": "Texturinspektion",
+    "resetZoom": "1,0× Zurücksetzen",
+    "macroZoom": "1,75× Makro-Zoom"
+  },
+  "drawer": {
+    "eyebrow": "B2B-Beschaffung & RFQ-Abteilung",
+    "titleBuilder": "Beschaffungs-Bestellliste",
+    "titleProforma": "Offizielle Proforma-Bestellung",
+    "readyBannerTitle": "RFQ Vorbereitet — Referenz",
+    "readyBannerBody": "Senden Sie Ihre strukturierte Proforma direkt per WhatsApp, offizieller E-Mail an unsere Abteilung in Lokogoma-Abuja oder speichern/drucken Sie sie als offizielle PDF.",
+    "proformaTag": "PROFORMA-RFQ-ZUSAMMENFASSUNG",
+    "preparedFor": "ERSTELLT FÜR",
+    "attnLabel": "z. Hdn.:",
+    "deliverySchedule": "LIEFERPLAN",
+    "targetDateLabel": "Zieltermin:",
+    "toBeScheduled": "Wird noch terminiert",
+    "validityNote": "Gültigkeit: 14 Tage · Unter Vorbehalt der Chargenanalyse",
+    "colCommodity": "Rohstoff",
+    "colFormTerms": "Form / Bedingungen",
+    "colQuantity": "Menge",
+    "buyerNotesLabel": "Käuferhinweise:",
+    "btnWhatsApp": "Über WhatsApp senden",
+    "btnEmail": "E-Mail",
+    "btnPrint": "Proforma drucken / als PDF speichern",
+    "btnCopy": "Bestellzusammenfassung kopieren",
+    "btnCopied": "RFQ-Zusammenfassung kopiert",
+    "btnEditOrder": "Mengen oder Details bearbeiten",
+    "btnClearReset": "Löschen & Neue Anfrage starten",
+    "quickAddLabel": "+ Schnell hinzufügen zu dieser Bestellung",
+    "moreResources": "Weitere Ressourcen...",
+    "emptyTitle": "Ihre Beschaffungsliste ist derzeit leer",
+    "emptySubtitle": "Wählen Sie oben einen Rohstoff aus oder durchsuchen Sie den gesamten Katalog, um Tonnage, Qualität und Lieferbedingungen zu konfigurieren.",
+    "browseCatalog": "Mineralienkatalog durchsuchen",
+    "qtyLabel": "Benötigte Menge *",
+    "unitLabel": "Einheit",
+    "preferredFormLabel": "Bevorzugte Qualität / Form",
+    "preferredTermsLabel": "Bevorzugte Lieferbedingungen",
+    "buyerSectionEyebrow": "Käufer- & Logistikdetails",
+    "buyerSectionTitle": "Proforma generieren & RFQ absenden",
+    "fieldCompany": "Firma / Organisation *",
+    "placeholderCompany": "Registrierte Käufergesellschaft",
+    "fieldContact": "Ansprechpartner *",
+    "placeholderContact": "Vollständiger Name & Titel",
+    "fieldPhone": "Telefon / WhatsApp *",
+    "placeholderPhone": "+234 809 ...",
+    "fieldEmail": "Offizielle E-Mail *",
+    "placeholderEmail": "einkauf@firma.de",
+    "fieldDestination": "Lieferziel *",
+    "destinations": [
+      "Abuja F.C.T.",
+      "Lagos Port (Apapa / Tin Can)",
+      "Port Harcourt / Onne Port",
+      "Kano",
+      "Individuelle Baustellenadresse"
+    ],
+    "fieldTargetDate": "Ziel-Liefertermin",
+    "fieldCustomAddress": "Spezifische Baustellen- oder Hafenadresse *",
+    "placeholderCustomAddress": "Geben Sie den genauen Standort, Betriebshof oder Exporthafen an",
+    "fieldNotes": "Besondere Hinweise zu Analyse, Verpackung oder Logistik",
+    "placeholderNotes": "Spezifizieren Sie erforderliche SGS/Intertek-Analysen vor Versand, 1MT Jumbobags vs loose Kipper oder Inspektionszeitpläne...",
+    "btnSubmit": "RFQ einreichen & Offizielle Proforma generieren",
+    "btnSubmitting": "Offizielle Proforma wird generiert...",
+    "btnQuickWhatsApp": "Schneller WhatsApp-Versand",
+    "btnDirectEmail": "Direkter E-Mail-Versand",
+    "privacyNote": "Direkte Unternehmensbearbeitung durch",
+    "units": [
+      "Metric Tons (MT)",
+      "30T Kipper-LKW",
+      "20ft Container",
+      "1MT Jumbo Bags"
+    ]
+  },
+  "engineering": {
+    "eyebrow": "02 / Ingenieur- & Bauleistungen",
+    "headingPart1": "Großbau-Ausführung & ",
+    "headingAccent": "Bergbau-Ingenieurbau.",
+    "intro": "Über die Rohstoffgewinnung hinaus führt unsere Bauingenieur-Sparte in Abuja komplexe Erdarbeiten, Stahlbetonbauwerke, Steinbruch-Logistikflotten und geologische Erkundungen unter einem einzigen verantwortlichen Unternehmensmandat aus.",
+    "bannerBadge": "SCHLÜSSELFERTIGE MOBILISIERUNG VOR ORT",
+    "bannerTitle": "Verantwortung aus einer Hand von der Grubenöffnung bis zur Bauübergabe.",
+    "bannerBody": "Durch die Integration unserer Steinbruch-Zuschlagstoffe, Erdbewegungsgeräte und lizenzierten Bauingenieure vermeiden Ministerien und gewerbliche Entwickler Verzögerungen durch mehrere Lieferanten und Engpässe bei der Materialqualität.",
+    "btnSubmitBrief": "Ingenieurauftrag einreichen",
+    "btnViewCorridors": "Lieferkorridore anzeigen",
+    "pauseVideo": "Baustellenaufnahmen pausieren",
+    "playVideo": "Baustellenaufnahmen abspielen",
+    "divisionLabel": "Sparte",
+    "requestProposal": "Angebot anfordern",
+    "capabilities": [
+      {
+        "id": "mine-development",
+        "title": "Tagebauentwicklung & Aushub",
+        "subtitle": "Tagebau-Erdarbeiten & Steinbruchbetrieb",
+        "description": "Durchgehende Standorterschließung, Bau von Transportstraßen, systematischer Stufenbau (Benching) und kontrollierter Abraumabtrag für einen sicheren Rohstoffabbau mit hoher Ausbeute.",
+        "deliverables": [
+          "Tagebau-Stufendesign & Abraumfreilegung",
+          "Trassierung von Transportwegen & Regenwasserentwässerung",
+          "Primäre Erzsortierung, Brechplätze & Haldenmanagement",
+          "Schrittweise Grubensanierung & Geländesicherungszäune"
+        ],
+        "equipmentOrMethodology": "30T–45T Hydraulikbagger · Planierraupen · Knickgelenkte Dumper"
+      },
+      {
+        "id": "civil-construction",
+        "title": "Tiefbau & Hochbau",
+        "subtitle": "Infrastruktur-, Industrie- & Siedlungsbau",
+        "description": "Schlüsselfertiger Ingenieurbau in ganz Nigeria – Erstellung von Stahlbetonbauten, Entwässerungsnetzen, Industriehallen und gewerblicher Siedlungsinfrastruktur.",
+        "deliverables": [
+          "Stahlbetonbrücken, Durchlässe & Stützwände",
+          "Industriehallen, Fahrzeugwaagen-Fundamente & Aufbereitungshallen",
+          "Straßennetze und Regenwasserkanäle für Gewerbe- und Wohngebiete",
+          "Qualitätsgeprüfter Zuschlagstoff-, Beton- und Asphaltbau"
+        ],
+        "equipmentOrMethodology": "BS / NIS Baustandards · QA/QC-Materialprüfung · Schlüsselfertige Bauüberwachung"
+      },
+      {
+        "id": "equipment-haulage",
+        "title": "Baumaschinenvermietung & Schwertransport",
+        "subtitle": "Erdbewegungsflotte & Großmengen-Minerallogistik",
+        "description": "Zuverlässiger Einsatz von betreuten Baumaschinen, mobilen Brechanlagen und Ferntransport-LKW, die abgelegene Bergbaugebiete mit Baustellen und Exporthäfen verbinden.",
+        "deliverables": [
+          "Kettenbagger, Planierraupen & Radlader auf Vertragsbasis",
+          "Knickgelenkte Dumper & 30T–45T Kipper-Transportflotten",
+          "Mobilisierung von mobilen Backen-/Kegelbrechern & Mehrdeck-Siebanlagen",
+          "Containerisierte & Massengut-LKW-Transportkorridore von der Mine zum Hafen"
+        ],
+        "equipmentOrMethodology": "Präventive Wartung · Geschultes Bedienpersonal · GPS-Frachtbriefverfolgung"
+      },
+      {
+        "id": "geological-survey",
+        "title": "Geologische Erkundung & Mineralexploration",
+        "subtitle": "Ressourcenabgrenzung, Beprobung & Compliance",
+        "description": "Technische Feldbeurteilungen, Koordinierung von Diamant-/RC-Kernbohrungen, repräsentative Erzbeprobung und Umweltbasisstudien zur Risikominimierung von Bergbauinvestitionen.",
+        "deliverables": [
+          "Geologische Kartierung, Schurfgrabenbau & Ausbissbeprobung",
+          "Kernbohrüberwachung & Archivierung in Kernkisten",
+          "Vorläufige Ressourcenschätzung & Gehaltssteuerung",
+          "Umweltverträglichkeitsprüfungen (UVP) & Compliance-Berichterstattung"
+        ],
+        "equipmentOrMethodology": "Kernaufnahme · Unabhängige Labor-Überwachungskette · Unterstützung bei behördlichen Einreichungen"
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "03 / Korridore & Ausführungsablauf",
+    "headingPart1": "Mine-to-Site Logistik & ",
+    "headingAccent": "nigerianische Lieferkorridore.",
+    "intro": "Koordinierte Förderung, Waagenkontrolle, Laboranalyseverifizierung und Direkttransport über Nigerias wichtigste Mineralgürtel und urbane Bauknotenpunkte.",
+    "inquireSchedule": "Chargenplan anfragen",
+    "stagingBadge": "ANALYSE-VERWAHRUNG & EXPORTBEREITSTELLUNG",
+    "stagingCaption": "Bohrkernarchivierung, 1MT FIBC Jumbo-Bag-Verpackung & nummerierte Containerbeladung.",
+    "protocolEyebrow": "Beschaffungsausführungsprotokoll",
+    "protocolTitle": "Vierstufige Chargenprüfungs- und Lieferkette",
+    "btnStartOrder": "Großbestellung starten",
+    "surveyorNotice": "Vom Käufer beauftragte Prüfgesellschaften (SGS, Intertek, Alfred H Knight) sind zur Probenahme an den Erzhalden der Mine oder in den Hafenbereichen willkommen.",
+    "corridors": [
+      {
+        "id": "nasarawa-kogi-corridor",
+        "vertical": "Kritische & Industrielle Minerale",
+        "title": "Nord-Zentral Pegmatit- & Eisenerz-Lieferkette",
+        "corridor": "Nasarawa · Kogi · Plateau-Gürtel",
+        "summary": "Koordinierte Beschaffung, Zerkleinerung und Jumbo-Bag-Bereitstellung für Lithium (Spodumen/Lepidolith), Kassiterit-Zinn, Coltan und 60–65% Fe Eisenerz-Chargen für inländische Hütten und Exportterminals in Lagos/Port Harcourt.",
+        "scopeTags": [
+          "Analyse vor Versand",
+          "1MT Jumbo-Bagging",
+          "Hafentransport"
+        ]
+      },
+      {
+        "id": "abuja-civil-supply",
+        "vertical": "Bau- & Steinbruchlogistik",
+        "title": "F.C.T. Abuja Beton-Zuschlagstoffe & Straßenbauflotte",
+        "corridor": "Lokogoma · Lugbe · Abuja Umgebung",
+        "summary": "Hochfrequente Kipperflotte zur direkten Belieferung von Straßenbauunternehmen, Betonwerken und Bauträgern mit 1/2\"- und 3/4\"-Granit, Brechsand, gewaschenem scharfen Sand und verdichtbarem Laterit.",
+        "scopeTags": [
+          "24–72h Baustellen-Versand",
+          "30T Kipper",
+          "Wiegescheine"
+        ]
+      },
+      {
+        "id": "benue-sulfides",
+        "vertical": "Buntmetall-Abnahme",
+        "title": "Benue-Trog Bleiglanz- & Zinkblende-Konsolidierung",
+        "corridor": "Benue-Trog → Onne / Apapa Ports",
+        "summary": "Strukturierte Konsolidierung von Bleisulfid- (PbS) und Zinksulfidkonzentraten (ZnS) mit Chargentrennung, Feuchtigkeitsüberwachung und unabhängiger RFA-Inspektion vor der Containerbeladung.",
+        "scopeTags": [
+          "55%+ Pb / 50%+ Zn",
+          "Containerbeladung",
+          "NEPC-Exportbereit"
+        ]
+      },
+      {
+        "id": "turnkey-civil",
+        "vertical": "Ingenieurbau & Erdarbeiten",
+        "title": "Integrierte Standorterschließung, Entwässerung & Industrieplattformen",
+        "corridor": "F.C.T. Abuja & Nigeriasweite Baustellen",
+        "summary": "Kombinierte Schwere Erdbewegungen, Unterbauverdichtung, Stahlbeton-Entwässerungsarbeiten und Materiallieferung direkt aus dem Steinbruch unter einem einzigen verantwortlichen Unternehmensmandat.",
+        "scopeTags": [
+          "Aushub & Planierung",
+          "Betonarbeiten",
+          "Verantwortung aus einer Hand"
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "step": "01",
+        "title": "Spezifikations- & Umfangsabgleich",
+        "detail": "Käufer übermitteln Zieltonnage, chemische Gehaltsgrenzen, Lieferziel und Incoterms über unsere Beschaffungsabteilung oder den Ingenieurauftrag."
+      },
+      {
+        "step": "02",
+        "title": "Unabhängiges Laborgutachten & Titelprüfung",
+        "detail": "Chargenproben werden für akkreditierte Laboranalysen, Feuchtigkeitsprüfungen und Mineralherkunftsdokumentationen vor der formellen Verpflichtung gezogen."
+      },
+      {
+        "step": "03",
+        "title": "Aufbereitung, Kalibrierung & Verpackung",
+        "detail": "Erze werden gebrochen, gewaschen oder in nummerierte 1MT FIBC-Jumbobags, 50kg PP-Säcke, Sicherheitsfässer oder kalibrierte Kipperladungen verpackt."
+      },
+      {
+        "step": "04",
+        "title": "Transport von Mine zur Baustelle & Hafenexport",
+        "detail": "Koordinierter Transport liefert direkt an Projektbaustellen in ganz Nigeria oder an Exportterminals in Lagos (Apapa/Tin Can) und Port Harcourt."
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "04 / Unternehmensführung & Compliance",
+    "headingPart1": "Regulatorische Glaubwürdigkeit & ",
+    "headingAccent": "Verifizierte nigerianische Firmengründung.",
+    "narrativeSuffix": "arbeitet unter strenger Einhaltung der nigerianischen Corporate Governance, Mineraltitelverifizierung und Exportbereitschaft – und bietet internationalen Abnehmern, Bauunternehmern und Regierungsministerien einen transparenten, rückverfolgbaren Vertragspartner.",
+    "pillars": [
+      {
+        "code": "CAC-REG",
+        "title": "Eingetragen bei der Corporate Affairs Commission",
+        "detail": "Registriert nach dem Companies and Allied Matters Act als RC No.: 9963225."
+      },
+      {
+        "code": "MMSD-STD",
+        "title": "Ausrichtung am Federal Ministry of Solid Minerals",
+        "detail": "Beschaffung abgestimmt auf lizenzierte Steinbruch-, Pacht- und Mineraltitel-Dokumentationsprotokolle."
+      },
+      {
+        "code": "NEPC-EXP",
+        "title": "Exportbereitschaft & Unabhängige Verwahrung von Analysen",
+        "detail": "Chargenspezifische Laboranalyse, ggf. Strahlungsprüfung und Exportverpackung."
+      }
+    ],
+    "dossierBadge": "VERIFIZIERTES UNTERNEHMENSDOSSIER",
+    "dossierSubtitle": "Aktives nigerianisches Bergbau-, Ingenieur- und Infrastrukturunternehmen",
+    "labelCac": "CAC-Registrierung",
+    "labelAddress": "Adresse des Hauptsitzes",
+    "labelLines": "Direkte Durchwahlen",
+    "labelEmail": "Offizielle E-Mail",
+    "labelVerticals": "Kernbereiche",
+    "verticalsShort": "Bergbau · Tiefbau · Infrastruktur · Großmengenlieferung",
+    "btnOpenRfq": "Großbestellung / RFQ öffnen",
+    "btnRequestPack": "Compliance-Paket anfordern"
+  },
+  "contact": {
+    "eyebrow": "05 / Beschaffungs-, Analyse- & Ingenieurabteilung",
+    "headingPart1": "Treten Sie direkt in Kontakt mit unserem ",
+    "headingAccent": "Betriebsteam in Abuja.",
+    "intro": "Reichen Sie eine Unternehmensanfrage für Laboranalyseberichte, Tiefbauausschreibungen, Baumaschinenmobilisierung oder Lieferpläne ein.",
+    "successTitle": "Anfrage erfasst & für den Versand formatiert",
+    "successBody": "Senden Sie diese sofort über WhatsApp oder Ihr offizielles E-Mail-Programm unten an unsere Abteilung, um eine bevorzugte Prüfung durch unser Ingenieur- & Rohstoffteam in Abuja zu veranlassen.",
+    "btnDispatchWhatsApp": "Über WhatsApp versenden",
+    "btnOpenEmail": "In E-Mail öffnen",
+    "btnSendAnother": "Weitere Unternehmensanfrage senden",
+    "fieldCategory": "Abteilung / Kategorie der Anfrage",
+    "inquiryTypes": [
+      "Großabnahme von Mineralien",
+      "Anforderung von Laboranalyseberichten",
+      "Tiefbau- & Bauausschreibung",
+      "Baumaschinenvermietung",
+      "Allgemeine Unternehmensanfrage"
+    ],
+    "fieldCompany": "Name des Unternehmens / Ministeriums *",
+    "placeholderCompany": "Name der Organisation",
+    "fieldContact": "Ansprechpartner *",
+    "placeholderContact": "Vollständiger Name",
+    "fieldPhone": "Telefon / WhatsApp *",
+    "placeholderPhone": "+234 809 ...",
+    "fieldEmail": "Offizielle E-Mail *",
+    "placeholderEmail": "name@organisation.de",
+    "fieldSubject": "Betreff *",
+    "placeholderSubject": "z. B. Analysebericht-Anforderung für Lithiumerz (Spodumen)",
+    "fieldMessage": "Technischer Umfang / Anfragedetails *",
+    "placeholderMessage": "Geben Sie benötigte Tonnagen, Baustellenstandort, Zielspezifikationen oder den Umfang der Bauausschreibung an...",
+    "btnSubmit": "Unternehmensanfrage absenden",
+    "btnSubmitting": "Unternehmensanfrage wird vorbereitet...",
+    "headOfficeBadge": "UNTERNEHMENSHAUPTSITZ",
+    "workingHours": "Montag – Freitag · 08:00 – 17:00 WAT (Samstag Baustellenversand nach Vereinbarung)",
+    "btnOpenMaps": "In Google Maps öffnen",
+    "channelsBadge": "DIREKTE FÜHRUNGSKANÄLE",
+    "primaryLineLabel": "Primäre Beschaffungsabteilung",
+    "secondaryLineLabel": "Ingenieur- & Logistik-Durchwahl",
+    "emailLabel": "Offizielle Unternehmens-E-Mail"
+  },
+  "footer": {
+    "verifiedRegistration": "Verifizierte Unternehmensregistrierung",
+    "mission": "Lieferung von analyse-zertifizierten nigerianischen Festmineralien, Steinbruch-Zuschlagstoffen, Schwertransporten und Tiefbauinfrastruktur vom F.C.T. Abuja an Industriekunden weltweit.",
+    "colPortal": "Unternehmensportal",
+    "colProcurement": "Beschaffungsabteilung",
+    "colHeadOffice": "Hauptsitz & Direktwahlnummern",
+    "linkOpenRfq": "Großbestellung / RFQ-Bereich öffnen",
+    "linkRequestAssay": "Laboranalysebericht anfordern",
+    "linkSubmitTender": "Ingenieur- / Bauausschreibung einreichen",
+    "linkWhatsApp": "WhatsApp-Abteilung",
+    "backToTop": "Nach oben"
+  },
+  "toast": {
+    "addedSuffix": "zur RFQ-Liste hinzugefügt",
+    "readySubtitle": "Bereit für Tonnage & Lieferbedingungen",
+    "openRfqLabel": "RFQ-Liste öffnen"
+  }
+}

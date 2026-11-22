@@ -1,0 +1,673 @@
+{
+  "switcher": {
+    "buttonLabel": "Tǝlam",
+    "modalTitle": "Tǝlam Ra’yi-ve",
+    "modalSubtitle": "Portal kura kampani-ve-a kanda kǝla kando suro-ve-a tǝlam 25 Najiya-a dunya-be-a-ro tǝlamin.",
+    "searchPlaceholder": "Tǝlam zawarjin (e.g. Chinese, Turkish, Arabic, Hausa, Yoruba, Igbo, Kanuri, Fulfulde...)",
+    "noMatches": "Tǝlam kǝlluram ba.",
+    "groupNigerian": "Tǝlamwa Najiya-be",
+    "groupGlobal": "Satǝ sar-a Kasuwu Dunya-be-a",
+    "groupMore": "Tǝlamwa Dunya-be Gadu",
+    "instantBadge": "Kala-kala",
+    "aiBadge": "Live AI",
+    "rtlBadge": "RTL",
+    "translatingStatus": "Kǝla suro portal-be tǝlamjin...",
+    "errorFallback": "Tǝlam live-be cida maasoro kolji. English be turjin.",
+    "legalNotice": "Suro CAC-be Bayanwa shira-be, chemical formulas, cite code-wa soro English-ron waljin."
+  },
+  "nav": {
+    "topLocation": "Lokogoma District, F.C.T., Abuja · Pan-Nigerian & Export Supply",
+    "home": "Fato",
+    "about": "Bayan-a Shara Rǝko-a",
+    "catalog": "Kando Suro Ala-be",
+    "engineering": "Injiniring (Engineering)",
+    "projects": "Cidawa",
+    "contact": "Sadin",
+    "orderRfq": "Lawa / RFQ",
+    "requestBulkQuote": "Quote Ngǝvu-be Zawarjin",
+    "openRfqList": "Listi RFQ Lawabe Karji",
+    "callPrefix": "Tǝliwon"
+  },
+  "hero": {
+    "eyebrow": "Kando Suro-be · Injiniring Kura · Infrastructure",
+    "headlinePart1": "Kando Suro Sawandi Gǝdi-a ",
+    "headlineAccent": "Infrastructure Injiniring Kura-be",
+    "headlinePart2": " Suro Najiya Samasube.",
+    "subheadlinePrefix": "Tide kando rawi kura kasawane gadoro cida fando kura road-a fatowa-be-a, ",
+    "subheadlineSuffix": " kaida rǝko-a, kaya kǝrma sa kura-a cida injiniring-a F.C.T. Abuja lan sa kasuwu dunya-be-ro gajin.",
+    "ctaExplore": "Kando Suro Ala-be Tulondin",
+    "ctaContact": "Tebr Kanda Kaya-be Sadin",
+    "ctaOpenRfq": "Bulk RFQ Karjin",
+    "deskEyebrow": "TEBR KURA",
+    "deskTitle": "Kaya Kasuwu-a Cida Infrastructure-a Kaza’a",
+    "statStatus": "Daraja Kampani-be",
+    "statPortfolio": "Portfolio Kando Suro-be",
+    "statPortfolioValue": "8 Kando Shiram Bayan-a",
+    "statHeadOffice": "Ofis Kura",
+    "statHeadOfficeValue": "Lokogoma, F.C.T. Abuja",
+    "statChannels": "Zambari Kuto-be",
+    "statChannelsValue": "Tippers · 20ft FCL · FOB Ports",
+    "ctaBuildRfq": "Bulk RFQ Gadijin",
+    "trustCacTitle": "Gada CAC Verification-be",
+    "trustAbujaTitle": "Cida Lokogoma-Abuja-be",
+    "trustAbujaSub": "Ofis Kura F.C.T. & Satǝ Kuta",
+    "trustAssayTitle": "Suro Assay-be Daraja Kando-be",
+    "trustAssaySub": "Gada Lab Wate-be Inspection",
+    "trustLogisticsTitle": "Tide Bare-lan sa Tiyin-ro Logistics",
+    "trustLogisticsSub": "Motawa Tipper-a Terminals Export-be-a",
+    "coreVerticalsLabel": "Cidawa Kura-kura",
+    "verticals": [
+      "Kando Suro Ala-be Bare-a Sar-a",
+      "Injiniring Civil & Kura",
+      "Infrastructure Fando-a Cida-a",
+      "Kando Suro Ngǝvu Kuto"
+    ]
+  },
+  "catalog": {
+    "eyebrow": "01 / Catalog Kando Suro-a Quarry-be-a",
+    "headingPart1": "Kando Assay-be Shira ",
+    "headingAccent": "Kasuwu Dunya-a Infrastructure-a-ro.",
+    "intro": "Bayan kǝma, kaya kalanga-a kuto gǝdi-a zawarjin, kuru kando soro ngǝvu abuja-lan kaza'a au port export-ro kuro-ro rawajin.",
+    "requestSchedule": "Schedule Kutto Kǝrma-be Zawarjin",
+    "categories": {
+      "all": "Kando Samaso",
+      "battery": "Battery & Heavy Metals",
+      "precious": "Sunna (Precious Metals)",
+      "industrial": "Ore Industrial-be",
+      "construction": "Quarry & Fando Construction"
+    },
+    "searchPlaceholder": "Kando, formula, amartin zowur...",
+    "rfqListLabel": "Listi RFQ",
+    "emptyTitle": "Kando kǝllurama tilonoma surui ba",
+    "emptySubtitle": "Filter nǝm zowurye rawatǝ-a au kando 8 Najiya-be samaso maato.",
+    "resetFilters": "Catalog Filters Watijin",
+    "gradeLabel": "Assay / Grade Range",
+    "formsLabel": "Forms",
+    "moqLabel": "MOQ",
+    "originLabel": "Origin",
+    "termsLabel": "Terms",
+    "viewFullSpecs": "Bayan Samaso Maiyin",
+    "orderQuote": "Lawa / Quote",
+    "inRfqOrder": "Suro RFQ · Lawa",
+    "footerNote": "Kando samaso grade lot-lan kalla, independent accredited laboratory assay (SGS / Intertek / Alfred H Knight options available) lan tabbata-jin.",
+    "assembleMultiOrder": "Multi-Mineral Order Gadijin"
+  },
+  "minerals": {
+    "lithium": {
+      "name": "Lithium Ore",
+      "subtitle": "Spodumene & Lepidolite",
+      "grade": "4.5% – 6.2% Li₂O",
+      "moq": "30 Metric Tons / 1 Tipper Truck",
+      "origin": "Nasarawa, Kogi & Kwara Pegmatite Belt, Nigeria",
+      "leadTime": "Yim 7 – 14 cida-be lot saden-lan",
+      "description": "Hard-rock spodumene-a lepidolite lithium-a suro pegmatite Najiya central-be-lan sawandi, rawana saden suro kando carbon-a hydroxide refining-be-ro.",
+      "complianceNote": "Mine-origin traceability-a, independent assay certificate-a, NEPC export paper-a-wa killi gajin.",
+      "forms": [
+        "Raw Lump",
+        "Crushed (0–50mm)",
+        "Concentrate"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Delivered Site",
+        "FOB Lagos"
+      ],
+      "packagingOptions": [
+        "1,000 kg Heavy-Duty Woven Jumbo Bags (FIBC)",
+        "50 kg Double-Lined PP Export Sacks",
+        "Bulk Loose Tipper Dispatch (Domestic Delivery)"
+      ],
+      "applications": [
+        "EV battery cathode precursor & lithium chemical refining",
+        "Technical ceramics and heat-resistant borosilicate glass",
+        "Industrial lubricants and specialty metallurgical fluxes"
+      ]
+    },
+    "gold": {
+      "name": "Gold Ore & Alluvial Concentrates",
+      "subtitle": "Assayed Precious Metal Feedstock",
+      "grade": "Assay-Certified (Lab Verified)",
+      "moq": "1 Metric Ton · Subject to Lot Assay",
+      "origin": "North-Central & North-West Schist Belt, Nigeria",
+      "leadTime": "Lot scheduled allocation-lan",
+      "description": "Dinaw (Gold) ore quartz-a alluvial concentrate-a shira-a, laboratory fire-assay verified saden shira tatin-lan.",
+      "complianceNote": "Najiya mining title verified-a, custody logs-a, independent fire assay-a ron gadin.",
+      "forms": [
+        "Raw Quartz Ore",
+        "Alluvial Concentrate",
+        "Gravity Concentrate"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Secure Escort / Vault Collection"
+      ],
+      "packagingOptions": [
+        "Tamper-Evident Sealed Steel Security Drums",
+        "Numbered Heavy-Duty Security Pouches",
+        "Verified Sample Splitting for Independent Fire Assay"
+      ],
+      "applications": [
+        "Licensed metallurgical gold refining and bullion recovery",
+        "Gravity and hydrometallurgical processing plants",
+        "Institutional precious-metal reserve supply chains"
+      ]
+    },
+    "tin": {
+      "name": "Tin Ore",
+      "subtitle": "Cassiterite Concentrate (SnO₂)",
+      "grade": "65% – 72% Sn",
+      "moq": "30 Metric Tons / 1 × 20ft Container",
+      "origin": "Jos Plateau & North-Central Tin Belt, Nigeria",
+      "leadTime": "Yim 7 – 12 cida-be container lot-lan",
+      "description": "Cassiterite concentrate (tin) kura Jos Plateau Najiya-lan bare-a, shira electromagnetic sorting saden smelter dunya-be standards-ro.",
+      "complianceNote": "XRF/wet-chemistry assay-a radiation clearance export documentation-a-wa killi container-ro garjin.",
+      "forms": [
+        "Alluvial Concentrate",
+        "Hard-Rock Crushed",
+        "Washed Fines"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Delivered Site",
+        "FOB Lagos"
+      ],
+      "packagingOptions": [
+        "50 kg Double-Woven Polypropylene Sacks (20 MT / 20ft FCL)",
+        "1,000 kg Export FIBC Jumbo Bags",
+        "Sealed Steel Drums (High-Grade Concentrate)"
+      ],
+      "applications": [
+        "Primary tin smelting and lead-free electronics solder manufacturing",
+        "Tinplate food-grade steel coating and chemical stabilizers",
+        "Bronze, babbitt bearing, and specialty industrial alloys"
+      ]
+    },
+    "coltan": {
+      "name": "Columbite & Tantalite (Coltan)",
+      "subtitle": "High Ta₂O₅ / Nb₂O₅ Ratio Concentrates",
+      "grade": "High Ta₂O₅ / Nb₂O₅ Assay",
+      "moq": "1 × 20ft Container (20 MT) / Air Lot on Review",
+      "origin": "North-Central Pegmatite Belt, Nigeria",
+      "leadTime": "Yim 10 – 18 cida-be clearance-a-wa",
+      "description": "Coltan (Columbite-Tantalite) concentrate kura electronics capacitors-a aerospace metallurgy-a-ro, radiation screening-a XRF/ICP assay-a-wa mowa.",
+      "complianceNote": "Radiological screening lab independent verification-a saden off-taker-a carrier rules-a-ro garjin.",
+      "forms": [
+        "Concentrate",
+        "Crushed Ore",
+        "Raw Lump"
+      ],
+      "terms": [
+        "Ex-Works",
+        "FOB Lagos",
+        "CIF Inquiry"
+      ],
+      "packagingOptions": [
+        "50 kg Lined Steel Drums / Double PP Sacks",
+        "1,000 kg Palletized FIBC Jumbo Bags",
+        "Tamper-Sealed Export Containers"
+      ],
+      "applications": [
+        "Tantalum electrolytic capacitors for semiconductors and 5G hardware",
+        "Nickel-niobium superalloys for jet turbines and aerospace structures",
+        "High-strength micro-alloyed structural steel production"
+      ]
+    },
+    "lead-zinc": {
+      "name": "Lead & Zinc Ore",
+      "subtitle": "Galena & Sphalerite Sulfide Concentrates",
+      "grade": "55%+ Pb / 50%+ Zn",
+      "moq": "30 Metric Tons / 1 Tipper Truck",
+      "origin": "Benue Trough Mineral Corridor, Nigeria",
+      "leadTime": "Yim 7 – 14 cida-be",
+      "description": "Galena (PbS) & Sphalerite (ZnS) Benue Trough Najiya-lan sawandi, smelting-a galvanizing steel mills-a industrial battery-a-ro gajin.",
+      "complianceNote": "Pb au Zn dominance-lan ra’yi-ro tulonjin, weighbridge ticket-a assay certificates-a-wa killi.",
+      "forms": [
+        "Concentrate",
+        "Crushed Ore",
+        "Raw Lump"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Delivered Site",
+        "FOB Lagos",
+        "FOB Port Harcourt"
+      ],
+      "packagingOptions": [
+        "1,000 kg Export Jumbo Bags (FIBC)",
+        "50 kg Heavy-Duty PP Bags",
+        "Bulk 30T Tipper Haulage (Inland)"
+      ],
+      "applications": [
+        "Industrial lead-acid storage batteries and radiation shielding",
+        "Hot-dip zinc galvanizing for structural steel protection",
+        "Die-casting alloys, brass metallurgy, and zinc oxide chemicals"
+      ]
+    },
+    "iron": {
+      "name": "Iron Ore",
+      "subtitle": "Hematite & Magnetite",
+      "grade": "60% – 65% Fe",
+      "moq": "30 Metric Tons / 1 Tipper Truck",
+      "origin": "Kogi & Niger Iron Ore Belt, Nigeria",
+      "leadTime": "Yim 5 – 10 cida-be",
+      "description": "Hematite-a Magnetite iron ore Fe 60-65% Blast furnace lump au sinter fines cement kilns-a steelmaking export-a-ro.",
+      "complianceNote": "Quarry weighbridge tickets-a lab Fe/gangue elemental breakdown-a-wa sandi rǝko.",
+      "forms": [
+        "Crushed Lump (10–50mm)",
+        "Fines (0–10mm)",
+        "Raw Ore"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Delivered Site",
+        "FOB Port Harcourt"
+      ],
+      "packagingOptions": [
+        "Bulk 30T / 45T Articulated Dump Trucks",
+        "1,000 kg / 1,500 kg Jumbo FIBC Export Bags",
+        "Bulk Containerized or Breakbulk Port Staging"
+      ],
+      "applications": [
+        "Integrated steelmaking, direct reduction (DRI), and rolling mills",
+        "Portland cement clinker iron-corrective additive",
+        "Heavy aggregate ballast and high-density concrete weighting"
+      ]
+    },
+    "limestone": {
+      "name": "Limestone & Marble Aggregates",
+      "subtitle": "High-Calcium Carbonate Stone",
+      "grade": "> 92% CaCO₃",
+      "moq": "30 Metric Tons / 1 Tipper Truck",
+      "origin": "F.C.T. / Kogi / Edo Limestone Belt, Nigeria",
+      "leadTime": "Yim 3 – 7 cida-be",
+      "description": "Limestone-a Marble blocks-a clinker cement, hydrated lime, industrial filler-a commercial stone finishing-ro kuto.",
+      "complianceNote": "Bulk schedules cement plant feeding-a Abuja infrastructure contractors-a-ro garjin.",
+      "forms": [
+        "Crushed Aggregates",
+        "Dimension Blocks",
+        "Ground Powder (CaCO₃)"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Delivered Site",
+        "FOB Lagos"
+      ],
+      "packagingOptions": [
+        "Bulk 30T Tipper Truck Delivery",
+        "1,000 kg Jumbo Bags (Crushed / Micronized Powder)",
+        "Raw Quarry Marble Blocks (Flatbed Haulage)"
+      ],
+      "applications": [
+        "Cement clinker manufacturing and quicklime / hydrated lime kilns",
+        "Calcium carbonate industrial filler (paint, PVC, paper, agriculture)",
+        "Architectural marble cladding, flooring, and civil infrastructure stone"
+      ]
+    },
+    "aggregates": {
+      "name": "Granite Aggregates, Laterite & Sharp Sand",
+      "subtitle": "Civil Works Quarry & Earthworks Supply",
+      "grade": "BS / NIS Quarry Specification",
+      "moq": "1 Tipper Truck (20 – 30 Metric Tons)",
+      "origin": "F.C.T. Abuja & Nasarawa Quarry Corridor",
+      "leadTime": "Sa 24 – 72 suro F.C.T. Abuja-lan",
+      "description": "Granite crushed aggregates, highway laterite, sharp sand Gargati fleet haulage-lan bridge, estate-a roadworks-ro satǝjin.",
+      "complianceNote": "Abuja fleet Gargati-be tipper ngǝvu cida sitewan tana-ba-ro gajin.",
+      "forms": [
+        "1/2\" Granite",
+        "3/4\" Granite",
+        "Stone Dust",
+        "Road-Base Laterite",
+        "Washed Sharp Sand"
+      ],
+      "terms": [
+        "Delivered Site",
+        "Ex-Works"
+      ],
+      "packagingOptions": [
+        "20-Ton / 30-Ton Hydraulic Tipper Trucks (Site Tipping)",
+        "Scheduled Multi-Truck Daily Contractor Dispatch",
+        "Direct Ex-Quarry Loading for Client Haulage"
+      ],
+      "applications": [
+        "Structural reinforced concrete batching (bridges, high-rises, foundations)",
+        "Asphalt wearing course, highway sub-base, and drainage stabilization",
+        "Residential and industrial estate civil works across Abuja F.C.T."
+      ]
+    }
+  },
+  "specModal": {
+    "inspectTexture": "Suro Texture Tulondin",
+    "purityLabel": "NƎM SHIRA / ASSAY",
+    "originLabel": "ORIGIN BELT",
+    "tabCommercial": "Kasuwu & Logistics",
+    "tabTechnical": "Physical & Chemical",
+    "tabPackaging": "Packaging & Export",
+    "moqLabel": "Lawa Ganama (MOQ)",
+    "termsLabel": "Kaida Satǝ-be",
+    "leadTimeLabel": "Sa Satǝ-be (Lead Time)",
+    "applicationsHeading": "Amartin Industrial Kura",
+    "physicalHeading": "Bayan Physical-be",
+    "chemicalHeading": "Chemical & Assay Range",
+    "packagingHeading": "Packaging & Haulage Formats",
+    "packagingDisclaimer": "Inspection container stuffing-a weight slips-a third-party witness sampling-a Lokogoma-Abuja desk-lan gadin.",
+    "preferredFormHeading": "Suro Form Quote-ro Zowur",
+    "addAndOpen": "Karji & Order Drawer Karjin",
+    "updateAndOpen": "Form Yabtasu & Drawer Karjin",
+    "requestAssay": "Assay Report Zawarjin",
+    "lightboxTitleSuffix": "Texture Inspection",
+    "resetZoom": "1.0× Reset",
+    "macroZoom": "1.75× Macro Zoom"
+  },
+  "drawer": {
+    "eyebrow": "B2B Procurement & RFQ Desk",
+    "titleBuilder": "Listi Lawa Procurement-be",
+    "titleProforma": "Proforma Lawa Official",
+    "readyBannerTitle": "RFQ Rawana — Reference",
+    "readyBannerBody": "Proforma nemu daji Lokogoma-Abuja desk-ro WhatsApp, official email, au PDF-ro print/save sadiwos.",
+    "proformaTag": "PROFORMA RFQ SUMMARY",
+    "preparedFor": "GADI RAWANA RO",
+    "attnLabel": "Attn:",
+    "deliverySchedule": "SCHEDULE SATƎ-BE",
+    "targetDateLabel": "Yim Target:",
+    "toBeScheduled": "Schedule gadin",
+    "validityNote": "Validity: Yim 14 · Lot Assay Subject",
+    "colCommodity": "Kando (Commodity)",
+    "colFormTerms": "Form / Terms",
+    "colQuantity": "Ngǝwu (Quantity)",
+    "buyerNotesLabel": "Bayan Buyer-be:",
+    "btnWhatsApp": "WhatsApp lan Satǝ",
+    "btnEmail": "Email",
+    "btnPrint": "PDF Proforma Print / Save",
+    "btnCopy": "Order Summary Copy",
+    "btnCopied": "RFQ Summary Copied",
+    "btnEditOrder": "Ngǝwu au Details Yabtasu",
+    "btnClearReset": "Watijin & Enquiry Bǝlin",
+    "quickAddLabel": "+ Kando Bǝlin Order-ro Karji",
+    "moreResources": "Kando gadu...",
+    "emptyTitle": "Listi procurement-nǝm kǝrma koli",
+    "emptySubtitle": "Kando zowur suro catalog-lan ton-a, grade-a delivery terms-a gadijin.",
+    "browseCatalog": "Catalog Kando-be Tulondin",
+    "qtyLabel": "Ngǝwu Zawarjin *",
+    "unitLabel": "Unit",
+    "preferredFormLabel": "Grade / Form Ra’yi",
+    "preferredTermsLabel": "Delivery Terms Ra’yi",
+    "buyerSectionEyebrow": "Details Buyer-a Logistics-a-be",
+    "buyerSectionTitle": "Proforma Gadijin & RFQ Satǝjin",
+    "fieldCompany": "Kampani / Organization *",
+    "placeholderCompany": "Su kampani buyer-be",
+    "fieldContact": "Kam Sadin *",
+    "placeholderContact": "Su kura-a cida-a",
+    "fieldPhone": "Tǝliwon / WhatsApp *",
+    "placeholderPhone": "+234 809 ...",
+    "fieldEmail": "Email Official *",
+    "placeholderEmail": "procurement@company.com",
+    "fieldDestination": "Tiyin Delivery-be *",
+    "destinations": [
+      "Abuja F.C.T.",
+      "Lagos Port (Apapa / Tin Can)",
+      "Port Harcourt / Onne Port",
+      "Kano",
+      "Custom Site Address"
+    ],
+    "fieldTargetDate": "Yim Delivery Target",
+    "fieldCustomAddress": "Address Site au Port Customs *",
+    "placeholderCustomAddress": "Site location, industrial yard, au export port wuro gajin",
+    "fieldNotes": "Notes Assay Special, Packaging, au Logistics",
+    "placeholderNotes": "SGS/Intertek pre-shipment assay, 1MT jumbo bags au tipper loose, inspection schedule...",
+    "btnSubmit": "RFQ Satǝjin & Proforma Official Gadijin",
+    "btnSubmitting": "Proforma Official Gadijin...",
+    "btnQuickWhatsApp": "WhatsApp Quick Satǝjin",
+    "btnDirectEmail": "Direct Email Satǝjin",
+    "privacyNote": "Kampani-lan direct cida gajin",
+    "units": [
+      "Metric Tons (MT)",
+      "30T Tipper Trucks",
+      "20ft Containers",
+      "1MT Jumbo Bags"
+    ]
+  },
+  "engineering": {
+    "eyebrow": "02 / Injiniring & Civil Construction Capabilities",
+    "headingPart1": "Cida Civil Kura Satǝ-a ",
+    "headingAccent": "Mine Injiniring Execution.",
+    "intro": "Kando bare gadu, Abuja engineering division-be earthworks kura, concrete civil structures, quarry tipper fleet, exploration mineral mandate kura suro-lan cida gajin.",
+    "bannerBadge": "FIELD MOBILIZATION TURNKEY",
+    "bannerTitle": "Cida Pit Excavation-lan sa Civil Handover-ro Mandate Tilonon.",
+    "bannerBody": "Quarry aggregates, equipment machinery-a civil engineers licensed-a cida kalanga-lan, multi-vendor delays-a quality bottlenecks-a daatin.",
+    "btnSubmitBrief": "Engineering Brief Satǝjin",
+    "btnViewCorridors": "Supply Corridors Tulondin",
+    "pauseVideo": "Site Footage Pause",
+    "playVideo": "Site Footage Play",
+    "divisionLabel": "Division",
+    "requestProposal": "Proposal Zawarjin",
+    "capabilities": [
+      {
+        "id": "mine-development",
+        "title": "Mine Site Development & Excavation",
+        "subtitle": "Open-Pit Earthworks & Quarry Operations",
+        "description": "Site opening, haul-road formation, benching systematic, overburden stripping cida miner-be-ro bare gǝdi-ro gadijin.",
+        "deliverables": [
+          "Open-pit bench design & overburden stripping",
+          "Haulage access road grading & stormwater drainage",
+          "Primary ore sorting, crushing pads & stockpile management",
+          "Progressive pit rehabilitation & site safety fencing"
+        ],
+        "equipmentOrMethodology": "30T–45T Hydraulic Excavators · Bulldozers · Articulated Dump Trucks"
+      },
+      {
+        "id": "civil-construction",
+        "title": "Civil & Structural Construction",
+        "subtitle": "Infrastructure, Industrial & Estate Works",
+        "description": "Turnkey civil engineering construction Najiya-lan—reinforced concrete structures, drainage networks, industrial warehouses, estate infrastructure.",
+        "deliverables": [
+          "Reinforced concrete bridges, culverts & retaining walls",
+          "Industrial warehouses, weighbridge foundations & processing sheds",
+          "Commercial & residential estate road networks and storm drains",
+          "Quality-tested aggregate, concrete & asphalt paving execution"
+        ],
+        "equipmentOrMethodology": "BS / NIS Structural Standards · QA/QC Material Testing · Turnkey Supervision"
+      },
+      {
+        "id": "equipment-haulage",
+        "title": "Heavy Equipment Leasing & Haulage",
+        "subtitle": "Earthmoving Fleet & Bulk Mineral Logistics",
+        "description": "Heavy machinery deployment, mobile crushing lines, tipper haulage fleet mining belt-lan site-a export ports-a-ro tiyijin.",
+        "deliverables": [
+          "Tracked excavators, bulldozers & wheel loaders on contract",
+          "Articulated dump trucks & 30T–45T tipper haulage fleets",
+          "Mobile jaw/cone crushing & multi-deck screening plant mobilization",
+          "Mine-to-Port containerized & bulk export trucking corridors"
+        ],
+        "equipmentOrMethodology": "Preventive Maintenance Support · Trained Operators · GPS Waybill Tracking"
+      },
+      {
+        "id": "geological-survey",
+        "title": "Geological Survey & Mineral Exploration",
+        "subtitle": "Resource Delineation, Sampling & Compliance",
+        "description": "Field technical evaluation, core drilling diamond/RC, ore sampling, environmental baseline studies investment risk daatǝ-ro.",
+        "deliverables": [
+          "Geological mapping, trenching & outcrop channel sampling",
+          "Core drilling supervision & logged core-tray archiving",
+          "Preliminary resource estimation & grade control planning",
+          "Environmental Impact Assessments (EIA) & compliance reporting"
+        ],
+        "equipmentOrMethodology": "Core Logging · Independent Lab Chain-of-Custody · Regulatory Filing Support"
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "03 / Supply Corridors & Workflow Execution",
+    "headingPart1": "Logistics Mine-to-Site & ",
+    "headingAccent": "Corridors Supply Najiya-be.",
+    "intro": "Bare kando, weighbridge control, laboratory assay verification, haulage direct Najiya mineral belts-lan urban construction hubs-ro gajin.",
+    "inquireSchedule": "Schedule Lot Zawarjin",
+    "stagingBadge": "ASSAY CUSTODY & EXPORT STAGING",
+    "stagingCaption": "Core sample archiving, 1MT FIBC jumbo bagging & serialized container loading.",
+    "protocolEyebrow": "Procurement Execution Protocol",
+    "protocolTitle": "Stage De (4) Verification Lot & Delivery Flow",
+    "btnStartOrder": "Bulk Order Watijin",
+    "surveyorNotice": "Buyer surveyors (SGS, Intertek, Alfred H Knight) witness sampling mine stockpile au port staging yard-lan wuro isin.",
+    "corridors": [
+      {
+        "id": "nasarawa-kogi-corridor",
+        "vertical": "Critical & Industrial Minerals",
+        "title": "North-Central Pegmatite & Iron Ore Supply Chain",
+        "corridor": "Nasarawa · Kogi · Plateau Belts",
+        "summary": "Lithium (spodumene/lepidolite), cassiterite tin, coltan, 60–65% Fe iron ore domestic smelters-a Lagos/Port Harcourt export-a-ro jumbo bagging & staging.",
+        "scopeTags": [
+          "Pre-Shipment Assay",
+          "1MT Jumbo Bagging",
+          "Port Haulage"
+        ]
+      },
+      {
+        "id": "abuja-civil-supply",
+        "vertical": "Construction & Quarry Logistics",
+        "title": "F.C.T. Abuja Concrete Aggregates & Road-Base Fleet",
+        "corridor": "Lokogoma · Lugbe · Abuja Environs",
+        "summary": "Tipper fleet 1/2\" & 3/4\" granite, stone dust, sharp sand, laterite highway contractors, batching plants, estate developers-ro satǝjin.",
+        "scopeTags": [
+          "24–72h Site Dispatch",
+          "30T Tippers",
+          "Weighbridge Slips"
+        ]
+      },
+      {
+        "id": "benue-sulfides",
+        "vertical": "Base Metals Offtake",
+        "title": "Benue Trough Galena & Sphalerite Consolidation",
+        "corridor": "Benue Trough → Onne / Apapa Ports",
+        "summary": "Lead sulfide (PbS) & zinc sulfide (ZnS) concentrates lot segregation, moisture monitoring, XRF inspection container stuffing-lan.",
+        "scopeTags": [
+          "55%+ Pb / 50%+ Zn",
+          "Container Stuffing",
+          "NEPC Export Ready"
+        ]
+      },
+      {
+        "id": "turnkey-civil",
+        "vertical": "Engineering & Earthworks",
+        "title": "Integrated Site Preparation, Drainage & Industrial Pads",
+        "corridor": "F.C.T. Abuja & Pan-Nigeria Sites",
+        "summary": "Earthmoving, sub-base compaction, reinforced concrete drainage works, quarry direct material mandate kampani tilonon-lan gadijin.",
+        "scopeTags": [
+          "Excavation & Grading",
+          "Concrete Works",
+          "Single-Point Accountability"
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "step": "01",
+        "title": "Specification & Scope Alignment",
+        "detail": "Buyers tonnage target, chemical grade threshold, delivery destination, Incoterms Procurement Desk-lan au brief-lan satǝjin."
+      },
+      {
+        "step": "02",
+        "title": "Independent Lab Assay & Title Check",
+        "detail": "Lot samples lab accredited-ro assay, moisture verification, mineral origin paper commitment gǝdi-lan maajin."
+      },
+      {
+        "step": "03",
+        "title": "Processing, Calibration & Packaging",
+        "detail": "Ores crushed, washed, bagged 1MT FIBC jumbo bags, 50kg PP sacks, security drums, tipper loads-ro garjin."
+      },
+      {
+        "step": "04",
+        "title": "Mine-to-Site & Port Export Dispatch",
+        "detail": "Haulage direct project sites Najiya-lan au export terminals Lagos (Apapa/Tin Can), Port Harcourt-ro satǝjin."
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "04 / Corporate Governance & Compliance",
+    "headingPart1": "Regulatory Credibility & ",
+    "headingAccent": "Verified Nigerian Incorporation.",
+    "narrativeSuffix": "Najiya corporate governance, mineral title verification, export readiness strict adherence-lan cida gajin—off-takers international, civil contractors, ministries government-ro counterparty shira tabbata gajin.",
+    "pillars": [
+      {
+        "code": "CAC-REG",
+        "title": "Corporate Affairs Commission Incorporated",
+        "detail": "Registered under Companies and Allied Matters Act as RC No.: 9963225."
+      },
+      {
+        "code": "MMSD-STD",
+        "title": "Federal Ministry of Solid Minerals Alignment",
+        "detail": "Sourcing aligned with licensed quarry, lease, mineral title protocols."
+      },
+      {
+        "code": "NEPC-EXP",
+        "title": "Export Readiness & Independent Assay Custody",
+        "detail": "Lot laboratory assay, radiation screening, export packing compliance."
+      }
+    ],
+    "dossierBadge": "VERIFIED CORPORATE DOSSIER",
+    "dossierSubtitle": "Active Nigerian Mining, Engineering & Infrastructure Enterprise",
+    "labelCac": "CAC Registration",
+    "labelAddress": "Head Office Address",
+    "labelLines": "Direct Lines",
+    "labelEmail": "Email Official",
+    "labelVerticals": "Core Verticals",
+    "verticalsShort": "Mining · Civil Engineering · Infrastructure · Bulk Supply",
+    "btnOpenRfq": "Bulk Order / RFQ Karjin",
+    "btnRequestPack": "Compliance Pack Zawarjin"
+  },
+  "contact": {
+    "eyebrow": "05 / Procurement, Assay & Engineering Desk",
+    "headingPart1": "Abuja Operations Team-a ",
+    "headingAccent": "Directly Sadin.",
+    "intro": "Inquiry corporate assay reports, civil engineering tenders, heavy equipment mobilization, off-take schedules-ro satǝjin.",
+    "successTitle": "Inquiry Logged & Satǝ-ro Rawana",
+    "successBody": "WhatsApp au email client-lan desk-ro satǝjin engineering & commodities team Abuja review priority-ro.",
+    "btnDispatchWhatsApp": "WhatsApp lan Satǝjin",
+    "btnOpenEmail": "Email lan Karjin",
+    "btnSendAnother": "Inquiry Corporate Gadu Satǝjin",
+    "fieldCategory": "Department Inquiry / Category",
+    "inquiryTypes": [
+      "Bulk Mineral Offtake",
+      "Laboratory Assay Report Request",
+      "Engineering & Construction Tender",
+      "Heavy Equipment Leasing",
+      "General Corporate Inquiry"
+    ],
+    "fieldCompany": "Su Kampani / Ministry *",
+    "placeholderCompany": "Su organization",
+    "fieldContact": "Kam Sadin *",
+    "placeholderContact": "Su kura",
+    "fieldPhone": "Tǝliwon / WhatsApp *",
+    "placeholderPhone": "+234 809 ...",
+    "fieldEmail": "Email Official *",
+    "placeholderEmail": "name@organization.com",
+    "fieldSubject": "Subject *",
+    "placeholderSubject": "e.g., Assay Report Request for Lithium Ore (Spodumene)",
+    "fieldMessage": "Technical Scope / Inquiry Details *",
+    "placeholderMessage": "Required tonnage, project site location, specification targets, engineering tender scope...",
+    "btnSubmit": "Corporate Inquiry Satǝjin",
+    "btnSubmitting": "Corporate Inquiry Rawajin...",
+    "headOfficeBadge": "CORPORATE HEAD OFFICE",
+    "workingHours": "Yim Ahad – Yim Amisa · 08:00 – 17:00 WAT (Saturday Site Dispatch Appointment-lan)",
+    "btnOpenMaps": "Google Maps lan Karjin",
+    "channelsBadge": "DIRECT EXECUTIVE CHANNELS",
+    "primaryLineLabel": "Tebr Procurement Kura",
+    "secondaryLineLabel": "Line Injiniring & Logistics",
+    "emailLabel": "Email Corporate Official"
+  },
+  "footer": {
+    "verifiedRegistration": "Corporate Registration Verified",
+    "mission": "Najiya solid minerals assay certified, quarry aggregates, heavy equipment haulage, civil engineering infrastructure F.C.T. Abuja lan sa dunya industrial buyers-ro satǝjin.",
+    "colPortal": "Portal Corporate",
+    "colProcurement": "Tebr Procurement",
+    "colHeadOffice": "Ofis Kura & Direct Lines",
+    "linkOpenRfq": "Bulk Order / RFQ Drawer Karjin",
+    "linkRequestAssay": "Laboratory Assay Report Zawarjin",
+    "linkSubmitTender": "Engineering / Civil Tender Satǝjin",
+    "linkWhatsApp": "Tebr WhatsApp",
+    "backToTop": "Fato-ro waljin"
+  },
+  "toast": {
+    "addedSuffix": "listi RFQ-ro karjin",
+    "readySubtitle": "Tonnage & delivery terms-ro rawana",
+    "openRfqLabel": "Listi RFQ Karjin"
+  }
+}

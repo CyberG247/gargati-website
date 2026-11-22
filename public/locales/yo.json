@@ -1,0 +1,673 @@
+{
+  "switcher": {
+    "buttonLabel": "Èdè",
+    "modalTitle": "Ààyò Èdè",
+    "modalSubtitle": "Túmọ̀ àbájáde pópá ilé-ṣe àti kátálọ́gù àwọn alùbọ́sà sí àwọn èdè 25 ti Nàìjíríà àti agbaye.",
+    "searchPlaceholder": "Ṣàwárí èdè (àpẹẹrẹ: Chinese, Turkish, Arabic, Hausa, Yoruba, Igbo, Kanuri, Fulfulde...)",
+    "noMatches": "A kò rí èdè tó bá a mú.",
+    "groupNigerian": "Àwọn Èdè Nàìjíríà",
+    "groupGlobal": "Òwò Agbaye & Inú-sí-Wòde",
+    "groupMore": "Àwọn Èdè Àgbáyé Púpọ̀ Sí I",
+    "instantBadge": "Lẹ́sẹ̀kẹsẹ̀",
+    "aiBadge": "AI Aàyè",
+    "rtlBadge": "RTL",
+    "translatingStatus": "N túmọ̀ àkóónú pópá...",
+    "errorFallback": "Ìtúmọ̀ aàyè kò ṣeé ṣe lẹ́yìn ìgbà díẹ̀. N ṣàfihàn àkóónú Èdè Gẹ̀ẹ́sì.",
+    "legalNotice": "Àwọn ẹ̀kúnrẹ́rẹ́ ìnọ́mbà ìflẹ́ṣẹ̀ntẹ̀ CAC, àwọn fọ́múlà kẹ́míkà, àti àwọn kọ́dù ìtọ́kasí yóò wà lẹ́sẹẹsẹ ní Èdè Gẹ̀ẹ́sì."
+  },
+  "nav": {
+    "topLocation": "Lokogoma District, F.C.T., Abuja · Ìpèsè Kárí Nàìjíríà & Inú-sí-Wòde",
+    "home": "Ilé",
+    "about": "Nípa Wa & Ìmúṣẹ Meloo",
+    "catalog": "Àwọn Alùbọ́sà Ẹ̀sọ̀ Ìwẹ̀à",
+    "engineering": "Iṣẹ́ Injiníà",
+    "projects": "Àwọn Iṣẹ́ Àkànṣe",
+    "contact": "Ìbánisọ̀rọ̀",
+    "orderRfq": "Ìbere / RFQ",
+    "requestBulkQuote": "Tọrọ Àyọkà Ìpèsè Nlá",
+    "openRfqList": "Ṣí Àtòjọ Ìbere RFQ",
+    "callPrefix": "Pe"
+  },
+  "hero": {
+    "eyebrow": "Àwọn Alùbọ́sà Ẹ̀sọ̀ Ìwẹ̀à · Injiníà Ẹrọ Nlá · Ìtújáde Ìgbékalẹ̀",
+    "headlinePart1": "Ìyọrí Alùbọ́sà Ẹ̀sọ̀ Ìwẹ̀à Tí Ó Kége & ",
+    "headlineAccent": "Ìgbékalẹ̀ Injiníà Ẹrọ Nlá",
+    "headlinePart2": " Kárí Nàìjíríà.",
+    "subheadlinePrefix": "Látàárọ̀ ìyọsóọ̀sì àwọn alùbọ́sà tí a fọwọ́sí sí ìkọ́lé nlá, ",
+    "subheadlineSuffix": " n pèsè àwọn ohun alùbọ́sà gíga àti iṣẹ́ ẹ̀rọ alábàáṣe láti F.C.T. Abuja sí àwọn ọjà àgbáyé.",
+    "ctaExplore": "Ṣàwárí Àwọn Alùbọ́sà Ẹ̀sọ̀ Ìwẹ̀à",
+    "ctaContact": "Bá Kẹ́tẹ́ẹ̀kẹ́tẹ́ Ìpèsè Sọ̀rọ̀",
+    "ctaOpenRfq": "Ṣí RFQ Nlá",
+    "deskEyebrow": "PÓPÁ ÀṢẸ̀ṢẸ̀",
+    "deskTitle": "Àwọn Ọjà Tààrà & Àṣẹ Ìkọ́lé",
+    "statStatus": "Ìgbéga Ilé-ṣẹ́",
+    "statPortfolio": "Àkójọ Alùbọ́sà",
+    "statPortfolioValue": "Àwọn Alùbọ́sà Tí A Fọwọ́sí 8",
+    "statHeadOffice": "Olú-ilé-ṣẹ́",
+    "statHeadOfficeValue": "Lokogoma, F.C.T. Abuja",
+    "statChannels": "Àwọn Ọ̀nà Ìpèsè",
+    "statChannelsValue": "Àwọn Ọkọ̀ Tiper · 20ft FCL · Àwọn Bùdó FOB",
+    "ctaBuildRfq": "Ṣe Dá RFQ Nlá",
+    "trustCacTitle": "Ìkọ́sí Inú Ìwé CAC Tí A Ṣàyẹ̀wò",
+    "trustAbujaTitle": "Àwọn Iṣẹ́ Lokogoma-Abuja",
+    "trustAbujaSub": "Olú-ilé-ṣẹ́ F.C.T. & Ìránṣẹ́",
+    "trustAssayTitle": "Àwọn Daradara Alùbọ́sà Tí A Fọwọ́sí Àyẹ̀wò",
+    "trustAssaySub": "Ìmúdálọ́jú Lábọ́rátọ́rì Aládàánì",
+    "trustLogisticsTitle": "Flẹ́ẹ̀tì Láti Kùfẹ́ Sí Bùdó Iṣẹ́",
+    "trustLogisticsSub": "Ọkọ̀ Tiper & Àwọn Terminal Export",
+    "coreVerticalsLabel": "Àwọn Ẹ̀ka Pátákó",
+    "verticals": [
+      "Ìyọsóọ̀sì & Ìṣètò Alùbọ́sà Ẹ̀sọ̀ Ìwẹ̀à",
+      "Injiníà Ẹrọ Nlá & Ìkọ́lé",
+      "Ìkọ́lé Ìgbékalẹ̀ Àwọ̀njọ",
+      "Ìpèsè Alùbọ́sà Nlá"
+    ]
+  },
+  "catalog": {
+    "eyebrow": "01 / Kátálọ́gù Àwọn Alùbọ́sà Ẹ̀sọ̀ Ìwẹ̀à & Kùfẹ́",
+    "headingPart1": "Àwọn Alùbọ́sà Tí A Fọwọ́sí Àyẹ̀wò Fún ",
+    "headingAccent": "Iṣẹ́ Ẹ̀rọ Agbaye & Ìgbékalẹ̀.",
+    "intro": "Yẹ̀ àwọn ẹ̀kúnrefẹ àpèjúwe àyẹ̀wò wò, yẹ̀ àwọn fọ́ọ̀mù tí ó wà wò, kí o sì kó ìbere procurement nlá fún àwọn alùbọ́sà púpọ̀ jọ tààrà fún ìránṣẹ́ láti Abuja tàbí ìwọ̀-sí-wòde bùdó.",
+    "requestSchedule": "Tọrọ Àtòjọ Àwọn Ọjà Tí Ó Wà Lọ́wọ́",
+    "categories": {
+      "all": "Gbogbo Àwọn Alùbọ́sà",
+      "battery": "Átírì & Ṣíṣókún",
+      "precious": "Àwọn Mẹ́tálì Dára",
+      "industrial": "Àwọn Alùbọ́sà Iṣẹ́ Ẹ̀rọ",
+      "construction": "Ìkọ́lé & Kùfẹ́"
+    },
+    "searchPlaceholder": "Ṣàwárí alùbọ́sà, fọ́múlà, ìlò...",
+    "rfqListLabel": "Àtòjọ RFQ",
+    "emptyTitle": "Kò rí àwọn ọjà alùbọ́sà tí ó bá a mú",
+    "emptySubtitle": "Gìrìnyìn ṣíṣẹ́ àwárí rẹ tàbí wo gbogbo àwọn alùbọ́sà ẹ̀sọ̀ ìwẹ̀à Nàìjíríà 8 tí a fọwọ́sí.",
+    "resetFilters": "Da Àwọn Gìrìnyìn Kátálọ́gù Papọ̀",
+    "gradeLabel": "Àyẹ̀wò / Ìpín Dára",
+    "formsLabel": "Àwọn Fọ́ọ̀mù",
+    "moqLabel": "MOQ",
+    "originLabel": "Orísun",
+    "termsLabel": "Àwọn Àdéhùn",
+    "viewFullSpecs": "Wo Ẹ̀kúnrẹ́rẹ́ Àpèjúwe",
+    "orderQuote": "Ìbere / Àyọkà",
+    "inRfqOrder": "Níní RFQ · Ìbere",
+    "footerNote": "Gbogbo àwọn ẹ̀kúnrẹ́rẹ́ àpèjúwe alùbọ́sà jẹ́ pípín sí lot àti mímúdálọ́jú nípasẹ̀ lábọ́rátọ́rì aládàánì tí a fọwọ́sí (SGS / Intertek / Alfred H Knight wà) ki a tó rán an.",
+    "assembleMultiOrder": "Kó Ìbere Alùbọ́sà Púpọ̀ Jọ"
+  },
+  "minerals": {
+    "lithium": {
+      "name": "Lithium Ore",
+      "subtitle": "Spodumene & Lepidolite",
+      "grade": "4.5% – 6.2% Li₂O",
+      "moq": "30 Metric Tons / 1 Tipper Truck",
+      "origin": "Nasarawa, Kogi & Kwara Pegmatite Belt, Nigeria",
+      "leadTime": "Àwọn ọjọ́ iṣẹ́ 7 – 14 láti ìmúdálọ́jú lot",
+      "description": "Lithium spodumene àti lepidolite àpáta ti a yọ látàárọ̀ àwọn pápá pegmatite àárín Nàìjíríà, ti a pín àti ti a ṣètò sí ìwọ̀n pátíkù àti kẹ́míkà tó yẹ fún ìfọ̀ lithium carbonate àti hydroxide.",
+      "complianceNote": "A ń pèsè pẹ̀lú ìtọpa orísun kùfẹ́, àwọn ìpín àyẹ̀wò lábọ́rátọ́rì aládàánì ki a tó rán an, àti àwọn ìmútò ìwé útọ̀-sí-wòde ti NEPC.",
+      "forms": [
+        "Àpáta Ṣíṣó",
+        "Ti a tẹ̀ (0–50mm)",
+        "Ti a fọ̀ mọ́ (Concentrate)"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Ti a rán sí Bùdó",
+        "FOB Lagos"
+      ],
+      "packagingOptions": [
+        "1,000 kg Heavy-Duty Woven Jumbo Bags (FIBC)",
+        "50 kg Double-Lined PP Export Sacks",
+        "Ìránṣẹ́ Tipper Gidi Nlá (Ìpèsè Inú Ilẹ̀)"
+      ],
+      "applications": [
+        "Íńdọ́sìtrì átírì EV & ìfọ̀ kẹ́míkà lithium",
+        "Ẹ̀rọ sefamik àti awọ gílásì borosilicate tó gbé iná",
+        "Àwọn àpò epo ẹ̀rọ iṣẹ́ ẹ̀rọ àti àwọn kẹ́míkà mẹ́tálì special"
+      ]
+    },
+    "gold": {
+      "name": "Gold Ore & Alluvial Concentrates",
+      "subtitle": "Àwọn Alùbọ́sà Mẹ́tálì Dára Tí A Ṣàyẹ̀wò",
+      "grade": "Assay-Certified (Lab Verified)",
+      "moq": "1 Metric Ton · O de lórí Àyẹ̀wò Lot",
+      "origin": "North-Central & North-West Schist Belt, Nigeria",
+      "leadTime": "Nípasẹ̀ ìpín lot tí a ṣètò pẹ̀lú àbò",
+      "description": "Àpáta quartz tó ń gbé wúrà àti alùbọ́sà àgbàrá tí a yọ nípasẹ̀ ìtọ́jú mímú pẹ̀lú àwọn àkọsílẹ̀ àyẹ̀wò iná tí a moidaju ki a tó ṣe ìparí òwò.",
+      "complianceNote": "Nígbà gbogbo ti a ṣe òwò rẹ̀ lábẹ́ ìwé àṣẹ kùfẹ́ Nàìjíríà tí a fọwọ́sí, àwọn ìwé àkọsílẹ̀ àbò, àti àwọn ìpín àyẹ̀wò iná aládàánì tí a fọwọ́sí.",
+      "forms": [
+        "Àpáta Quartz Ṣíṣó",
+        "Ti a fọ̀ mọ́ Alluvial",
+        "Ti a fọ̀ mọ́ Gravity"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Ìtọ́jú/Ìgbà pẹ̀lú Ẹ̀ṣọ̀ Àbò"
+      ],
+      "packagingOptions": [
+        "Tamper-Evident Sealed Steel Security Drums",
+        "Numbered Heavy-Duty Security Pouches",
+        "Verified Sample Splitting for Independent Fire Assay"
+      ],
+      "applications": [
+        "Ìfọ̀ wúrà mẹ́tálì tí ó ní lẹ́sẹẹsẹ àti ìyọsóọ̀sì bulíọ̀nù",
+        "Àwọn ilé-iṣẹ́ gravity àti hydrometallurgical",
+        "Àwọn ọ̀nà ìpèsè ìpamọ́ mẹ́tálì dáradára ti ìgbìmọ̀"
+      ]
+    },
+    "tin": {
+      "name": "Tin Ore",
+      "subtitle": "Cassiterite Concentrate (SnO₂)",
+      "grade": "65% – 72% Sn",
+      "moq": "30 Metric Tons / 1 × 20ft Container",
+      "origin": "Jos Plateau & North-Central Tin Belt, Nigeria",
+      "leadTime": "Àwọn ọjọ́ iṣẹ́ 7 – 12 fún container lot kọ̀ọ̀kan",
+      "description": "Alùbọ́sà cassiterite concentrate ti a yọ láti Plateau Jos ti Nàìjíríà, ti a fọ̀ àti ti a yà nípasẹ̀ àyíká ìgbésẹ̀ electromagnet láti bá àwọn pákáńkẹ́ smẹ́ńtì àgbáyé mu.",
+      "complianceNote": "A ń pèsè pẹ̀lú àyẹ̀wò tin XRF/wet-chemistry àti àwọn ìwé àṣẹ ìtànṣán radiation fún ìwọ̀-sí-wòde nígbà ti a bá pọ̀n ó sí container.",
+      "forms": [
+        "Concentrate Alluvial",
+        "Àpáta Ti A Tẹ̀",
+        "Ẹ̀rẹ̀ Ti A Fọ̀ (Washed Fines)"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Ti a rán sí Bùdó",
+        "FOB Lagos"
+      ],
+      "packagingOptions": [
+        "50 kg Double-Woven Polypropylene Sacks (20 MT / 20ft FCL)",
+        "1,000 kg Export FIBC Jumbo Bags",
+        "Sealed Steel Drums (High-Grade Concentrate)"
+      ],
+      "applications": [
+        "Ìfọ̀ tin àti ìṣe solder ẹ̀rọ nlá tí kò ní pópá (lead-free)",
+        "Àpò tìnnì fún irin pákó àti àwọn kẹ́míkà ágùn",
+        "Bronze, babbitt bearing, àti àwọn áloì iṣẹ́ ẹ̀rọ special"
+      ]
+    },
+    "coltan": {
+      "name": "Columbite & Tantalite (Coltan)",
+      "subtitle": "High Ta₂O₅ / Nb₂O₅ Ratio Concentrates",
+      "grade": "High Ta₂O₅ / Nb₂O₅ Assay",
+      "moq": "1 × 20ft Container (20 MT) / Air Lot on Review",
+      "origin": "North-Central Pegmatite Belt, Nigeria",
+      "leadTime": "Àwọn ọjọ́ iṣẹ́ 10 – 18 pẹ̀lú ìmútò ìwé",
+      "description": "Alùbọ́sà columbite-tantalite gíga fún ìṣe capacitor ẹ̀rọ, superalloys, àti metallurgical àyíká fífò, ti a pèsè pẹ̀lú àyẹ̀wò ìtànṣán àti elemental XRF/ICP assays.",
+      "complianceNote": "Àwọn ẹ̀rù kọ̀ọ̀kan ń kọjá nípasẹ̀ àyẹ̀wò ìtànṣán dandan àti ìmúdálọ́jú lábọ́rátọ́rì aládàánì láti mọ́nọ́nọ́ àwọn ilé-iṣẹ́ àgbáyé.",
+      "forms": [
+        "Concentrate",
+        "Àpáta Ti A Tẹ̀",
+        "Àpáta Ṣíṣó"
+      ],
+      "terms": [
+        "Ex-Works",
+        "FOB Lagos",
+        "Ìbere CIF"
+      ],
+      "packagingOptions": [
+        "50 kg Lined Steel Drums / Double PP Sacks",
+        "1,000 kg Palletized FIBC Jumbo Bags",
+        "Tamper-Sealed Export Containers"
+      ],
+      "applications": [
+        "Tantalum electrolytic capacitors fún semiconductors àti 5G hardware",
+        "Nickel-niobium superalloys fún ẹ̀rọ tọ́bínì jet àti ìmútò fífò",
+        "Ìṣe irin àgbékalẹ̀ micro-alloyed alájògún"
+      ]
+    },
+    "lead-zinc": {
+      "name": "Lead & Zinc Ore",
+      "subtitle": "Galena & Sphalerite Sulfide Concentrates",
+      "grade": "55%+ Pb / 50%+ Zn",
+      "moq": "30 Metric Tons / 1 Tipper Truck",
+      "origin": "Benue Trough Mineral Corridor, Nigeria",
+      "leadTime": "Àwọn ọjọ́ iṣẹ́ 7 – 14",
+      "description": "Galena (lead sulfide) àti sphalerite (zinc sulfide) ti a yọ láti Benue Trough Nàìjíríà, ti a yà sọ́tọ̀ fún smẹ́ńtì, àwọn ilé-iṣẹ́ galvanizing steel, àti ìṣe átírì iṣẹ́ ẹ̀rọ.",
+      "complianceNote": "Ti a pín ní pọ̀tọ́pọ̀tọ́ lórí bi lead tàbí zinc ṣe pọ̀ sí nínú rẹ̀ lórí ìbere, pẹ̀lú àwọn ìwé pátákó ìwọ̀n àti àwọn ìpín àyẹ̀wò ki a tó rán an.",
+      "forms": [
+        "Concentrate",
+        "Àpáta Ti A Tẹ̀",
+        "Àpáta Ṣíṣó"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Ti a rán sí Bùdó",
+        "FOB Lagos",
+        "FOB Port Harcourt"
+      ],
+      "packagingOptions": [
+        "1,000 kg Export Jumbo Bags (FIBC)",
+        "50 kg Heavy-Duty PP Bags",
+        "Bulk 30T Tipper Haulage (Inland)"
+      ],
+      "applications": [
+        "Ìpèsè átírì irin lead-acid àti àbò ìtànṣán",
+        "Hot-dip zinc galvanizing fún àbò irin àgbékalẹ̀",
+        "Àwọn áloì die-casting, brass metallurgy, àti kẹ́míkà zinc oxide"
+      ]
+    },
+    "iron": {
+      "name": "Iron Ore",
+      "subtitle": "Hematite & Magnetite",
+      "grade": "60% – 65% Fe",
+      "moq": "30 Metric Tons / 1 Tipper Truck",
+      "origin": "Kogi & Niger Iron Ore Belt, Nigeria",
+      "leadTime": "Àwọn ọjọ́ iṣẹ́ 5 – 10",
+      "description": "Iron ore hematite àti magnetite ti a tẹ̀ sí àwọn pátíkù blast-furnace lump tàbí sinter fines, tí ń pèsè ẹ̀kúnrẹ́rẹ́ Fe àti gangue kékéré fún àwọn foundry inu ilẹ̀, ilé-iṣẹ́ símẹ́ńtì, àti ìṣe irin inú-sí-wòde.",
+      "complianceNote": "A ń pèsè pẹ̀lú ìwé ìwọ̀n pátákó kùfẹ́ tí a fọwọ́sí àti àpèjúwe àyẹ̀wò lábọ́rátọ́rì Fe/gangue.",
+      "forms": [
+        "Àpáta Ti A Tẹ̀ (10–50mm)",
+        "Fines (0–10mm)",
+        "Àpáta Ṣíṣó"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Ti a rán sí Bùdó",
+        "FOB Port Harcourt"
+      ],
+      "packagingOptions": [
+        "Bulk 30T / 45T Articulated Dump Trucks",
+        "1,000 kg / 1,500 kg Jumbo FIBC Export Bags",
+        "Bulk Containerized tàbí Breakbulk Port Staging"
+      ],
+      "applications": [
+        "Ìṣe irin kárí-ayé, direct reduction (DRI), àti rolling mills",
+        "Àpò ádìtífi àtúnṣe irin fún Portland cement clinker",
+        "Heavy aggregate ballast àti ìmúṣẹ concrete gíga"
+      ]
+    },
+    "limestone": {
+      "name": "Limestone & Marble Aggregates",
+      "subtitle": "High-Calcium Carbonate Stone",
+      "grade": "> 92% CaCO₃",
+      "moq": "30 Metric Tons / 1 Tipper Truck",
+      "origin": "F.C.T. / Kogi / Edo Limestone Belt, Nigeria",
+      "leadTime": "Àwọn ọjọ́ iṣẹ́ 3 – 7",
+      "description": "Limestone àti marble ti a yọ fún ìṣe símẹ́ńtì clinker, ìṣe hydrated lime, flue-gas desulfurization, àti ìmútò okúta àgbékalẹ̀ àárín ilé-iṣẹ́.",
+      "complianceNote": "Àwọn àtòjọ ìmútò ti a ṣe fún ìpèsè títí lọ sí àwọn ilé-iṣẹ́ símẹ́ńtì àti àwọn àgbà kọ̀ntíráktọ̀ ìkọ́lé kárí Abuja àti orílẹ̀-èdè.",
+      "forms": [
+        "Crushed Aggregates",
+        "Dimension Blocks",
+        "Ground Powder (CaCO₃)"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Ti a rán sí Bùdó",
+        "FOB Lagos"
+      ],
+      "packagingOptions": [
+        "Bulk 30T Tipper Truck Delivery",
+        "1,000 kg Jumbo Bags (Crushed / Micronized Powder)",
+        "Raw Quarry Marble Blocks (Flatbed Haulage)"
+      ],
+      "applications": [
+        "Ìṣe símẹ́ńtì clinker àti àwọn ilé-iná quicklime / hydrated lime",
+        "Industrial filler calcium carbonate (awọ, PVC, ìwé, agbẹ̀)",
+        "Architectural marble cladding, flooring, àti okúta ìmútò infrastructure"
+      ]
+    },
+    "aggregates": {
+      "name": "Granite Aggregates, Laterite & Sharp Sand",
+      "subtitle": "Civil Works Quarry & Earthworks Supply",
+      "grade": "BS / NIS Quarry Specification",
+      "moq": "1 Tipper Truck (20 – 30 Metric Tons)",
+      "origin": "F.C.T. Abuja & Nasarawa Quarry Corridor",
+      "leadTime": "Àwọn wákàtí 24 – 72 ní àyíká F.C.T. Abuja",
+      "description": "Granite ti a tẹ̀ àti ti a pín, laterite gíga fún títì, àti iyanrìn sharp sand ti a fọ̀ ti a rán pẹ̀lú ọkọ̀ flẹ́ẹ̀tì Gargati tààrà sí àwọn bùdó iṣẹ́ injiníà, bríìjì, estate, àti títì.",
+      "complianceNote": "Pẹ̀lú àtìlẹyìn ọkọ̀ flẹ́ẹ̀tì Gargati ní Abuja fún ìpèsè pípẹ́ tí kò ní adáwọ́le àti ìmúṣẹ PO/bìlì.",
+      "forms": [
+        "1/2\" Granite",
+        "3/4\" Granite",
+        "Stone Dust",
+        "Road-Base Laterite",
+        "Washed Sharp Sand"
+      ],
+      "terms": [
+        "Ti a rán sí Bùdó",
+        "Ex-Works"
+      ],
+      "packagingOptions": [
+        "20-Ton / 30-Ton Hydraulic Tipper Trucks (Site Tipping)",
+        "Scheduled Multi-Truck Daily Contractor Dispatch",
+        "Direct Ex-Quarry Loading fún Haulage Oníbàárà"
+      ],
+      "applications": [
+        "Ìṣe structural reinforced concrete (bríìjì, ìkọ́lé gíga, ìpínlẹ̀)",
+        "Asphalt wearing course, highway sub-base, àti ìmúṣẹ drainage",
+        "Àwọn iṣẹ́ civil estate ti ìgbéyàwó àti industrial kárí Abuja F.C.T."
+      ]
+    }
+  },
+  "specModal": {
+    "inspectTexture": "Yẹ̀ Àpáta Àtìbẹ̀rẹ̀ Wò",
+    "purityLabel": "ÌMỌ́TÓ / ÀYẸ̀WÒ",
+    "originLabel": "PÁPÁ ORÍSUN",
+    "tabCommercial": "Òwò & Flẹ́ẹ̀tì",
+    "tabTechnical": "Písíkàlù & Kẹ́míkà",
+    "tabPackaging": "Àpò & Inú-sí-Wòde",
+    "moqLabel": "Ìbere Kékeré Ju Lọ (MOQ)",
+    "termsLabel": "Àwọn Àdéhùn Ìránṣẹ́",
+    "leadTimeLabel": "Àkókò Ìránṣẹ́",
+    "applicationsHeading": "Àwọn Ìlò Pàtó Nínú Iṣẹ́ Ẹ̀rọ",
+    "physicalHeading": "Àwọn Mẹ́tíríìkì Písíkàlù",
+    "chemicalHeading": "Kẹ́míkà & Àyẹ̀wò",
+    "packagingHeading": "Àwọn Fọ́ọ̀mù Àpò & Ìpèsè",
+    "packagingDisclaimer": "Ìmójútó ìpọ̀n sí container, àwọn ìwé ìwọ̀n ti a kọ ìnọ́mbà sí, àti àyẹ̀wò ẹlẹ́rìí kẹta le ṣe nípasẹ̀ kẹ́tẹ́ẹ̀kẹ́tẹ́ ìpèsè Lokogoma-Abuja wa.",
+    "preferredFormHeading": "Ṣààyò Fọ́ọ̀mù fún Àyọkà",
+    "addAndOpen": "Fí Kún & Ṣí Pópá Ìbere",
+    "updateAndOpen": "Ṣàtúnṣe Fọ́ọ̀mù & Ṣí Pópá Ìbere",
+    "requestAssay": "Tọrọ Ìpín Àyẹ̀wò Report",
+    "lightboxTitleSuffix": "Ìyẹ̀wò Ìrísí Àpáta",
+    "resetZoom": "1.0× Dà á Papọ̀",
+    "macroZoom": "1.75× Macro Zoom"
+  },
+  "drawer": {
+    "eyebrow": "Kẹ́tẹ́ẹ̀kẹ́tẹ́ B2B Procurement & RFQ",
+    "titleBuilder": "Àtòjọ Ìbere Procurement",
+    "titleProforma": "Àkọsílẹ̀ Ìbere Official",
+    "readyBannerTitle": "RFQ Ti Ṣe Tan — Ìtọ́kasí",
+    "readyBannerBody": "Rán àkọsílẹ̀ proforma rẹ̀ tààrà sí kẹ́tẹ́ẹ̀kẹ́tẹ́ Lokogoma-Abuja wa nípasẹ̀ WhatsApp, e-maili authority, tàbí tọ́jú/pẹ̀ńtì gẹ́gẹ́ bí PDF authority.",
+    "proformaTag": "ÀKỌ́SÍLẸ̀ RFQ PROFORMA",
+    "preparedFor": "TI A ṢÈTÒ FÚN",
+    "attnLabel": "Si:",
+    "deliverySchedule": "ÀTÒJỌ ÌRÁNṢẸ́",
+    "targetDateLabel": "Ọjọ́ Erongba:",
+    "toBeScheduled": "Yóò ṣe àtòjọ rẹ̀",
+    "validityNote": "Ìgbà Ìlò: Ọjọ́ 14 · O de lórí Àyẹ̀wò Lot",
+    "colCommodity": "Alùbọ́sà",
+    "colFormTerms": "Fọ́ọ̀mù / Àwọn Àdéhùn",
+    "colQuantity": "Ìwọ̀n",
+    "buyerNotesLabel": "Àwọn Àkọsílẹ̀ Oníbàárà:",
+    "btnWhatsApp": "Rán nípasẹ̀ WhatsApp",
+    "btnEmail": "E-maili",
+    "btnPrint": "Pẹ̀ńtì / Tọ́jú Proforma PDF",
+    "btnCopy": "Kọ Àkọsílẹ̀ Ìbere",
+    "btnCopied": "Ti Kọ Àkọsílẹ̀ RFQ",
+    "btnEditOrder": "Ṣàtúnṣe Ìwọ̀n tàbí Ẹ̀kúnrẹ́rẹ́",
+    "btnClearReset": "Nu Kúrò & Bẹ̀rẹ̀ Ìbere Tuntun",
+    "quickAddLabel": "+ Fí Kún Alùbọ́sà Lẹ́sẹ̀kẹsẹ̀ sí Ìbere Ìsinsìnyí",
+    "moreResources": "Àwọn alùbọ́sà sí i...",
+    "emptyTitle": "Àtòjọ procurement rẹ kò ní nǹkan nínú ní báyìí",
+    "emptySubtitle": "Ṣààyò alùbọ́sà èyíkéyìí lókè tàbí wo gbogbo kátálọ́gù láti ṣètò toni, grade, àti àwọn àdéhùn ìránṣẹ́.",
+    "browseCatalog": "Ṣàwárí Kátálọ́gù Alùbọ́sà",
+    "qtyLabel": "Ìwọ̀n Tí A Fẹ́ *",
+    "unitLabel": "Ìwọ̀n Unit",
+    "preferredFormLabel": "Grade / Fọ́ọ̀mù Ààyò",
+    "preferredTermsLabel": "Àwọn Àdéhùn Ìránṣẹ́ Ààyò",
+    "buyerSectionEyebrow": "Ẹ̀kúnrẹ́rẹ́ Oníbàárà & Flẹ́ẹ̀tì",
+    "buyerSectionTitle": "Ṣe Dá Proforma & Rán RFQ",
+    "fieldCompany": "Ilé-ṣẹ́ / Àjọ *",
+    "placeholderCompany": "Ilé-ṣẹ́ oníbàárà tí a kọ sí ìwé",
+    "fieldContact": "Ẹní Láti Bá Sọ̀rọ̀ *",
+    "placeholderContact": "Orúkọ pípé & oyè",
+    "fieldPhone": "Nọ́mbà Fóònù / WhatsApp *",
+    "placeholderPhone": "+234 809 ...",
+    "fieldEmail": "E-maili Authority *",
+    "placeholderEmail": "procurement@company.com",
+    "fieldDestination": "Bùdó Ìránṣẹ́ *",
+    "destinations": [
+      "Abuja F.C.T.",
+      "Lagos Port (Apapa / Tin Can)",
+      "Port Harcourt / Onne Port",
+      "Kano",
+      "Àdírẹ́sì Bùdó Iṣẹ́ Yíyàn"
+    ],
+    "fieldTargetDate": "Ọjọ́ Erongba Ìránṣẹ́",
+    "fieldCustomAddress": "Bùdó Iṣẹ́ Yíyàn tàbí Àdírẹ́sì Bùdó Port *",
+    "placeholderCustomAddress": "Kọ gangan bùdó iṣẹ́, pápá industrial, tàbí port export",
+    "fieldNotes": "Àyẹ̀wò Àkànṣe, Àpò, tàbí Àkọsílẹ̀ Flẹ́ẹ̀tì",
+    "placeholderNotes": "Ménuba àyẹ̀wò pre-shipment SGS/Intertek, àpò jumbo 1MT vs tiper fọ́n, tàbí àtòjọ àyẹ̀wò...",
+    "btnSubmit": "Rán RFQ & Ṣe Dá Proforma Official",
+    "btnSubmitting": "N Ṣe Dá Proforma Official...",
+    "btnQuickWhatsApp": "Ìránṣẹ́ Kánkán WhatsApp",
+    "btnDirectEmail": "Ìránṣẹ́ Kánkán E-maili",
+    "privacyNote": "Ìmójútó tààrà láti ọ̀dọ̀",
+    "units": [
+      "Metric Tons (MT)",
+      "30T Tipper Trucks",
+      "20ft Containers",
+      "1MT Jumbo Bags"
+    ]
+  },
+  "engineering": {
+    "eyebrow": "02 / Àwọn Ààyè Injiníà & Ìkọ́lé",
+    "headingPart1": "Ìmúṣẹ Civil Nlá & ",
+    "headingAccent": "Ìṣe Injiníà Kùfẹ́.",
+    "intro": "Yàtọ̀ sí ìyọsóọ̀sì alùbọ́sà ti àtìbẹ̀rẹ̀, ẹ̀ka injiníà wa ní Abuja ń ṣe àwọn iṣẹ́ ilẹ̀, ìmútò concrete civil, ọkọ̀ tiper kùfẹ́, àti exploratory àyẹ̀wò geoloji lábẹ́ àṣẹ ilé-ṣẹ́ kan ṣoṣo.",
+    "bannerBadge": "ÌMÚṢẸ PÁPÁ TURNKEY",
+    "bannerTitle": "Ìmúṣẹ Láti Ìyọ̀ Kùfẹ́ Sí Ìgbéga Civil Ìgẹ́rẹ́ pẹ̀lú Alábàáṣepọ̀ Kan Ṣoṣo.",
+    "bannerBody": "Nípa pípàpọ̀ àwọn aggregate kùfẹ́, ẹrọ ẹ̀rọ ilẹ̀, àti àwọn injiníà civil ti a fọwọ́sí, àwọn minsitri àti àwọn àgbà developer kò ní ní àwọn ìsúnkìsí àti ìyípadà daradara ohun alùbọ́sà.",
+    "btnSubmitBrief": "Rán Àkọsílẹ̀ Injiníà",
+    "btnViewCorridors": "Wo Àwọn Ọ̀nà Ìpèsè",
+    "pauseVideo": "Dásí Fídíò Bùdó Iṣẹ́",
+    "playVideo": "Ṣí Fídíò Bùdó Iṣẹ́",
+    "divisionLabel": "Ẹ̀ka",
+    "requestProposal": "Tọrọ Àbájáde Ìbere",
+    "capabilities": [
+      {
+        "id": "mine-development",
+        "title": "Mine Site Development & Excavation",
+        "subtitle": "Open-Pit Earthworks & Quarry Operations",
+        "description": "Ìṣí bùdó pàtó láti bẹ̀rẹ̀ sí àtìbẹ̀rẹ̀, ìmútò ọ̀nà tiper, benching tẹ́lẹ̀, àti ìmúkúrù ilẹ̀ ẹ̀yìn ti a ṣe fún ìyọsóọ̀sì alùbọ́sà ẹ̀sọ̀ ìwẹ̀à pẹ̀lú àbò gíga.",
+        "deliverables": [
+          "Open-pit bench design & overburden stripping",
+          "Haulage access road grading & stormwater drainage",
+          "Primary ore sorting, crushing pads & stockpile management",
+          "Progressive pit rehabilitation & site safety fencing"
+        ],
+        "equipmentOrMethodology": "30T–45T Hydraulic Excavators · Bulldozers · Articulated Dump Trucks"
+      },
+      {
+        "id": "civil-construction",
+        "title": "Civil & Structural Construction",
+        "subtitle": "Infrastructure, Industrial & Estate Works",
+        "description": "Ìkọ́lé injiníà civil turnkey kárí Nàìjíríà—ṣíṣe àwọn ìmútò reinforced concrete, àwọn drainage, ilé-iṣẹ́ industrial, àti ìmútò estate commercial.",
+        "deliverables": [
+          "Reinforced concrete bridges, culverts & retaining walls",
+          "Industrial warehouses, weighbridge foundations & processing sheds",
+          "Commercial & residential estate road networks and storm drains",
+          "Quality-tested aggregate, concrete & asphalt paving execution"
+        ],
+        "equipmentOrMethodology": "BS / NIS Structural Standards · QA/QC Material Testing · Turnkey Supervision"
+      },
+      {
+        "id": "equipment-haulage",
+        "title": "Heavy Equipment Leasing & Haulage",
+        "subtitle": "Earthmoving Fleet & Bulk Mineral Logistics",
+        "description": "Ìránṣẹ́ ẹ̀rọ ẹ̀rọ nlá pẹ̀lú àwọn dírẹ́bà, àwọn ilé-iṣẹ́ crushing mobile, àti àwọn ọkọ̀ tiper alùbọ́sà nlá láti sọ pápá kùfẹ́ sí àwọn bùdó iṣẹ́ àti export seaports.",
+        "deliverables": [
+          "Tracked excavators, bulldozers & wheel loaders on contract",
+          "Articulated dump trucks & 30T–45T tipper haulage fleets",
+          "Mobile jaw/cone crushing & multi-deck screening plant mobilization",
+          "Mine-to-Port containerized & bulk export trucking corridors"
+        ],
+        "equipmentOrMethodology": "Preventive Maintenance Support · Trained Operators · GPS Waybill Tracking"
+      },
+      {
+        "id": "geological-survey",
+        "title": "Geological Survey & Mineral Exploration",
+        "subtitle": "Resource Delineation, Sampling & Compliance",
+        "description": "Ìyẹ̀wò pápá ẹ̀rọ, diamond/RC core drilling, ìmú àwọn ẹlẹ́rìí sampling, àti ìyẹ̀wò àyíká ti ń dín ewu kú fún ìnáwó kùfẹ́.",
+        "deliverables": [
+          "Geological mapping, trenching & outcrop channel sampling",
+          "Core drilling supervision & logged core-tray archiving",
+          "Preliminary resource estimation & grade control planning",
+          "Environmental Impact Assessments (EIA) & compliance reporting"
+        ],
+        "equipmentOrMethodology": "Core Logging · Independent Lab Chain-of-Custody · Regulatory Filing Support"
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "03 / Àwọn Ọ̀nà Iṣẹ́ & Àtòjọ Ìmúṣẹ",
+    "headingPart1": "Flẹ́ẹ̀tì Láti Kùfẹ́ Sí Bùdó & ",
+    "headingAccent": "Àwọn Ọ̀nà Ìpèsè Nàìjíríà.",
+    "intro": "Ìyọsóọ̀sì ti a ṣe lẹ́sẹẹsẹ, control pátákó ìwọ̀n, ìmúdálọ́jú àyẹ̀wò lábọ́rátọ́rì, àti ìránṣẹ́ tiper tààrà kárí àwọn pápá alùbọ́sà ẹ̀sọ̀ ìwẹ̀à Nàìjíríà àti àwọn hub ìkọ́lé.",
+    "inquireSchedule": "Tọrọ Àtòjọ Lot",
+    "stagingBadge": "ÀBÒ ÀYẸ̀WÒ & ÌSTAGING EXPORT",
+    "stagingCaption": "Ìpamọ́ core sample, àpò jumbo 1MT FIBC & ìpọ̀n container tí a fi nọ́mbà sí.",
+    "protocolEyebrow": "Protocol Ìmúṣẹ Procurement",
+    "protocolTitle": "Àwọn Ìgbésẹ̀ Mẹ́rin Ìmúdálọ́jú Lot & Flẹ́ẹ̀tì Ìránṣẹ́",
+    "btnStartOrder": "Bẹ̀rẹ̀ Ìbere Nlá",
+    "surveyorNotice": "Àwọn surveyor ti oníbàárà yan (SGS, Intertek, Alfred H Knight) le wá ṣe àyẹ̀wò lẹ́ẹ̀kan náà ní pápá kùfẹ́ tàbí bùdó port staging.",
+    "corridors": [
+      {
+        "id": "nasarawa-kogi-corridor",
+        "vertical": "Critical & Industrial Minerals",
+        "title": "North-Central Pegmatite & Iron Ore Supply Chain",
+        "corridor": "Nasarawa · Kogi · Plateau Belts",
+        "summary": "Ìyọsóọ̀sì, ìtẹ̀ pátíkù, àti jumbo-bag staging fún lithium (spodumene/lepidolite), cassiterite tin, coltan, àti 60–65% Fe iron ore lots fún àwọn smẹ́ńtì inú ilẹ̀ àti terminal export Lagos/Port Harcourt.",
+        "scopeTags": [
+          "Pre-Shipment Assay",
+          "1MT Jumbo Bagging",
+          "Port Haulage"
+        ]
+      },
+      {
+        "id": "abuja-civil-supply",
+        "vertical": "Construction & Quarry Logistics",
+        "title": "F.C.T. Abuja Concrete Aggregates & Road-Base Fleet",
+        "corridor": "Lokogoma · Lugbe · Abuja Environs",
+        "summary": "Ọkọ̀ tiper tí ń rán 1/2\" àti 3/4\" granite, stone dust, washed sharp sand, àti laterite tààrà sí àwọn kọ̀ntíráktọ̀ highway, batching plants, àti developers.",
+        "scopeTags": [
+          "24–72h Site Dispatch",
+          "30T Tippers",
+          "Weighbridge Slips"
+        ]
+      },
+      {
+        "id": "benue-sulfides",
+        "vertical": "Base Metals Offtake",
+        "title": "Benue Trough Galena & Sphalerite Consolidation",
+        "corridor": "Benue Trough → Onne / Apapa Ports",
+        "summary": "Ìkójọ pọ̀ nlá ti galena (PbS) àti sphalerite (ZnS) concentrates pẹ̀lú ìpín lot, àyẹ̀wò orútù, àti àyẹ̀wò XRF aládàánì ki a tó pọ̀n ó sí container.",
+        "scopeTags": [
+          "55%+ Pb / 50%+ Zn",
+          "Container Stuffing",
+          "NEPC Export Ready"
+        ]
+      },
+      {
+        "id": "turnkey-civil",
+        "vertical": "Engineering & Earthworks",
+        "title": "Integrated Site Preparation, Drainage & Industrial Pads",
+        "corridor": "F.C.T. Abuja & Pan-Nigeria Sites",
+        "summary": "Ìpàpọ̀ iṣẹ́ ẹ̀rọ ilẹ̀ nlá, compaction sub-base, concrete drainage, àti ìpèsè quarry material lábẹ́ àṣẹ ilé-ṣẹ́ kan ṣoṣo.",
+        "scopeTags": [
+          "Excavation & Grading",
+          "Concrete Works",
+          "Single-Point Accountability"
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "step": "01",
+        "title": "Specification & Scope Alignment",
+        "detail": "Àwọn oníbàárà ń rán toni erongba, chemical grade thresholds, bùdó ìránṣẹ́, àti Incoterms nípasẹ̀ Procurement Desk wa tàbí àkọsílẹ̀ injiníà."
+      },
+      {
+        "step": "02",
+        "title": "Independent Lab Assay & Title Check",
+        "detail": "A ń yọ àwọn lot sample fún àyẹ̀wò lábọ́rátọ́rì, ìmúdálọ́jú orútù, àti àwọn ìwé orísun alùbọ́sà ki a tó ṣe àdéhùn formal."
+      },
+      {
+        "step": "03",
+        "title": "Processing, Calibration & Packaging",
+        "detail": "A ń tẹ̀ àwọn ore, fọ̀ wọn, tàbí pọ̀n wọn sí àwọn àpò FIBC 1MT jumbo bags, 50kg PP sacks, drums security, tàbí tiper ti a pín."
+      },
+      {
+        "step": "04",
+        "title": "Mine-to-Site & Port Export Dispatch",
+        "detail": "Ìránṣẹ́ flẹ́ẹ̀tì ti a ṣètò ń gbé e tààrà sí àwọn bùdó iṣẹ́ kárí Nàìjíríà tàbí terminal export ní Lagos (Apapa/Tin Can) àti Port Harcourt."
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "04 / Corporate Governance & Compliance",
+    "headingPart1": "Ìmúṣẹ Àṣẹ Ilé-iṣẹ́ & ",
+    "headingAccent": "Ìkọ́sí Inú Ìwé CAC Nàìjíríà.",
+    "narrativeSuffix": "ń ṣiṣẹ́ pẹ̀lú ìmúṣẹ pípé sí àwọn àṣẹ ilé-ṣẹ́ Nàìjíríà, ìmúdálọ́jú title alùbọ́sà, àti ìgbéga export—núnú pèsè àbájáde tí kò ní àbàwọ́n fún àwọn off-taker àgbáyé, àwọn kọ̀ntíráktọ̀ civil, àti àwọn minsitri ìmọ̀.",
+    "pillars": [
+      {
+        "code": "CAC-REG",
+        "title": "Corporate Affairs Commission Incorporated",
+        "detail": "Ti a kọ sí ìwé lábẹ́ Companies and Allied Matters Act gẹ́gẹ́ bí RC No.: 9963225."
+      },
+      {
+        "code": "MMSD-STD",
+        "title": "Federal Ministry of Solid Minerals Alignment",
+        "detail": "Ìpèsè tí ó bá àwọn protocol ìwé àṣẹ kùfẹ́, lease, àti ìwé alùbọ́sà mu."
+      },
+      {
+        "code": "NEPC-EXP",
+        "title": "Export Readiness & Independent Assay Custody",
+        "detail": "Àyẹ̀wò lábọ́rátọ́rì fún lot kọ̀ọ̀kan, àyẹ̀wò ìtànṣán níbi tí ó tọ́, àti packaging export."
+      }
+    ],
+    "dossierBadge": "DOSSIER ILÉ-ṢẸ́ TÍ A ṢÀYẸ̀WÒ",
+    "dossierSubtitle": "Ilé-ṣẹ́ Kùfẹ́, Injiníà & Ìkọ́lé Ti Ó Ń Ṣiṣẹ́ ní Nàìjíríà",
+    "labelCac": "Ìkọ́sí Inú Ìwé CAC",
+    "labelAddress": "Àdírẹ́sì Olú-ilé-ṣẹ́",
+    "labelLines": "Nọ́mbà Fóònù Tààrà",
+    "labelEmail": "E-maili Authority",
+    "labelVerticals": "Àwọn Ẹ̀ka Pátákó",
+    "verticalsShort": "Kùfẹ́ · Injiníà Civil · Ìgbékalẹ̀ · Ìpèsè Nlá",
+    "btnOpenRfq": "Ṣí Ìbere Nlá / RFQ",
+    "btnRequestPack": "Tọrọ compliance Pack"
+  },
+  "contact": {
+    "eyebrow": "05 / Procurement, Assay & Engineering Desk",
+    "headingPart1": "Bá Àwọn Ẹgbẹ́ Iṣẹ́ Wa ní ",
+    "headingAccent": "Abuja Sọ̀rọ̀ Tààrà.",
+    "intro": "Rán ìbere ilé-ṣẹ́ rẹ fún àwọn report àyẹ̀wò lábọ́rátọ́rì, tender injiníà civil, ìmáná ẹrọ ẹ̀rọ nlá, tàbí àtòjọ off-take.",
+    "successTitle": "Ti Kọ Ìbere Sí Ìwé & Ti Ṣètò Rẹ̀ fún Ìránṣẹ́",
+    "successBody": "Rán an lẹ́sẹ̀kẹsẹ̀ sí kẹ́tẹ́ẹ̀kẹ́tẹ́ wa nípasẹ̀ WhatsApp tàbí e-maili authority rẹ nísàlẹ̀ fún ìyẹ̀wò kánkán láti ọ̀dọ̀ ẹgbẹ́ injiníà & commodities wa ní Abuja.",
+    "btnDispatchWhatsApp": "Rán nípasẹ̀ WhatsApp",
+    "btnOpenEmail": "Ṣí nínú E-maili",
+    "btnSendAnother": "Rán Ìbere Ilé-ṣẹ́ Ekeji",
+    "fieldCategory": "Ẹ̀ka / Department Ìbere",
+    "inquiryTypes": [
+      "Bulk Mineral Offtake",
+      "Laboratory Assay Report Request",
+      "Engineering & Construction Tender",
+      "Heavy Equipment Leasing",
+      "General Corporate Inquiry"
+    ],
+    "fieldCompany": "Orúkọ Ilé-ṣẹ́ / Minsitri *",
+    "placeholderCompany": "Orúkọ àjọ/ilé-ṣẹ́",
+    "fieldContact": "Ẹní Láti Bá Sọ̀rọ̀ *",
+    "placeholderContact": "Orúkọ pípé",
+    "fieldPhone": "Nọ́mbà Fóònù / WhatsApp *",
+    "placeholderPhone": "+234 809 ...",
+    "fieldEmail": "E-maili Authority *",
+    "placeholderEmail": "name@organization.com",
+    "fieldSubject": "Olorí Ọ̀rọ̀ *",
+    "placeholderSubject": "àpẹẹrẹ: Assay Report Request fún Lithium Ore (Spodumene)",
+    "fieldMessage": "Ẹ̀kúnrẹ́rẹ́ Ẹ̀rọ / Ìbere *",
+    "placeholderMessage": "Kọ toni tí o fẹ́, bùdó iṣẹ́, pákáńkẹ́ grade, tàbí ẹ̀kúnrẹ́rẹ́ tender injiníà...",
+    "btnSubmit": "Rán Ìbere Ilé-ṣẹ́",
+    "btnSubmitting": "N Ṣètò Ìbere Ilé-ṣẹ́...",
+    "headOfficeBadge": "OLÚ-ILÉ-ṢẸ́ ILÉ-IṢẸ́",
+    "workingHours": "Ọjọ́ Ajé – Ọjọ́ Ẹtì · 08:00 – 17:00 WAT (Ìránṣẹ́ Bùdó Abámẹ́ta Nípasẹ̀ Àdéhùn)",
+    "btnOpenMaps": "Ṣí nínú Google Maps",
+    "channelsBadge": "ÀWỌN Ọ̀NÀ ÀṢẸ̀ṢẸ̀ TÀÀRÀ",
+    "primaryLineLabel": "Kẹ́tẹ́ẹ̀kẹ́tẹ́ Procurement Pàtó",
+    "secondaryLineLabel": "Ọ̀nà Injiníà & Flẹ́ẹ̀tì",
+    "emailLabel": "E-maili Authority Ilé-ṣẹ́"
+  },
+  "footer": {
+    "verifiedRegistration": "Ìkọ́sí Inú Ìwé Ilé-ṣẹ́ Tí A Ṣàyẹ̀wò",
+    "mission": "Ìpèsè àwọn alùbọ́sà ẹ̀sọ̀ ìwẹ̀à Nàìjíríà tí a fọwọ́sí àyẹ̀wò, aggregate kùfẹ́, flẹ́ẹ̀tì ọkọ̀ ẹ̀rọ nlá, àti ìmútò injiníà civil láti F.C.T. Abuja sí àwọn oníbàárà iṣẹ́ ẹ̀rọ kárí ayé.",
+    "colPortal": "Pópá Ilé-ṣẹ́",
+    "colProcurement": "Kẹ́tẹ́ẹ̀kẹ́tẹ́ Procurement",
+    "colHeadOffice": "Olú-ilé-ṣẹ́ & Nọ́mbà Fóònù Tààrà",
+    "linkOpenRfq": "Ṣí Àtòjọ Ìbere Nlá / RFQ",
+    "linkRequestAssay": "Tọrọ Ìpín Àyẹ̀wò Lábọ́rátọ́rì",
+    "linkSubmitTender": "Rán Tender Injiníà / Civil",
+    "linkWhatsApp": "Kẹ́tẹ́ẹ̀kẹ́tẹ́ WhatsApp",
+    "backToTop": "Padà sí òkè"
+  },
+  "toast": {
+    "addedSuffix": "ti a fi kún sí àtòjọ RFQ",
+    "readySubtitle": "Ó ṣe tan fún toni & àwọn àdéhùn ìránṣẹ́",
+    "openRfqLabel": "Ṣí Àtòjọ RFQ"
+  }
+}

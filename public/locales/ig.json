@@ -1,0 +1,673 @@
+{
+  "switcher": {
+    "buttonLabel": "Asụsụ",
+    "modalTitle": "Okwu Nhọrọ Asụsụ",
+    "modalSubtitle": "Tụgharịa gọọmentị pọtụlụ & katallọgụ nkume n'asụsụ 25 nke Naịjirịa na nke ụwa.",
+    "searchPlaceholder": "Chọọ asụsụ (dị ka Chaịna, Tọkịsh, Arabik, Hausa, Yoruba, Igbo, Kanuri, Fulfulde...)",
+    "noMatches": "Enweghị asụsụ dabara adaba a hụrụ.",
+    "groupNigerian": "Asụsụ Naịjirịa",
+    "groupGlobal": "Asụsụ Azụmahịa na Mmbupụ Ụwa",
+    "groupMore": "Asụsụ Ndị Ọzọ Nke Ụwa",
+    "instantBadge": "N'otu oge",
+    "aiBadge": "Live AI",
+    "rtlBadge": "RTL",
+    "translatingStatus": "Ọ na-atụgharị ọdịnaya pọtụlụ...",
+    "errorFallback": "Ntugharị ozugbo adịghị ugbu a. Ọ na-egosi nke Bekee.",
+    "legalNotice": "Nkọwa ndebanye aha gọọmentị CAC, usoro kemikal, na koodu ntụaka ga-adịgide n'asụsụ Bekee."
+  },
+  "nav": {
+    "topLocation": "Lokogoma District, F.C.T., Abuja · Inye ihe na Naịjirịa na Mmbupụ",
+    "home": "Lọ",
+    "about": "Mbasara Anyị & Nnabata",
+    "catalog": "Akụ Mankụmankụ",
+    "engineering": "Injinịarịngị",
+    "projects": "Nchepụta Ọrụ",
+    "contact": "Kọntaktị",
+    "orderRfq": "Oda / RFQ",
+    "requestBulkQuote": "Arịrịọ Maka Ndepụta Ahịa Buru Ihe",
+    "openRfqList": "Kpee Ndepụta Oda RFQ",
+    "callPrefix": "Kpọọ"
+  },
+  "hero": {
+    "eyebrow": "Mankụmankụ Sịlidị · Injinịarịngị Arụrụ Mmanụ · Infrasịtrọksọ",
+    "headlinePart1": "Mịpụta Mankụmankụ Sịlidị N'Ezi Ndụ & ",
+    "headlineAccent": "Infrasịtrọksọ Injinịarịngị Arụrụ Mmanụ",
+    "headlinePart2": " N'akụkụ Niile Nke Naịjirịa.",
+    "subheadlinePrefix": "Mmalite n'inweta mankụmankụ a kwadoro ruo na nnukwu ọrụ owuwu sivilụ, ",
+    "subheadlineSuffix": " na-eweta ihe ndị dị mma, nwere ọkwa dị elu na injinịarịngị zuru ezu site na F.C.T. Abuja gaa n'ahịa ụwa.",
+    "ctaExplore": "Nyochaa Akụ Mankụmankụ",
+    "ctaContact": "Kpọọ Ndị Ọfịs Ịzụ Ihe",
+    "ctaOpenRfq": "Meghee RFQ Buru Ihe",
+    "deskEyebrow": "ỌFỊS NDỊ NDAHIRE",
+    "deskTitle": "Ahịa Mankụmankụ Nke Nweta Na Mandeti Sivilụ",
+    "statStatus": "Ọkwa Ụlọ Ọrụ",
+    "statPortfolio": "Pọtfolio Mankụmankụ",
+    "statPortfolioValue": "Akụ Mankụmankụ 8 A Kwadoro",
+    "statHeadOffice": "Isi Ọfịs",
+    "statHeadOfficeValue": "Lokogoma, F.C.T. Abuja",
+    "statChannels": "Ụzọ Mbufe Ihe",
+    "statChannelsValue": "Tịpa · 20ft FCL · Ọdụ Ụgbọ Mmiri FOB",
+    "ctaBuildRfq": "Mepụta RFQ Buru Ihe",
+    "trustCacTitle": "Ndebanye Aha CAC A Nyocharala",
+    "trustAbujaTitle": "Ọrụ Lokogoma-Abuja",
+    "trustAbujaSub": "Isi Ọfịs F.C.T. & Mbufe",
+    "trustAssayTitle": "Ọkwa Mankụmankụ A Kwadoro N'Aseị",
+    "trustAssaySub": "Nnyocha Ụlọ Labụ Nọrọ Onwe Ya",
+    "trustLogisticsTitle": "Lojistiks Direct Site na Mba-Mankụ gaa Saịtị",
+    "trustLogisticsSub": "Ụgbọ Tịpa na Temịnal Mmbupụ",
+    "coreVerticalsLabel": "Akwụkwọ Ọrụ Ndị Isi",
+    "verticals": [
+      "Iwu Mankụmankụ Sịlidị & Nhazi",
+      "Injinịarịngị Sivilụ & Arụrụ Mmanụ",
+      "Owuwu Infrasịtrọksọ",
+      "Inye Mankụmankụ N'ìgwè"
+    ]
+  },
+  "catalog": {
+    "eyebrow": "01 / Katallọgụ Akụ Mankụmankụ Sịlidị & Kwarị",
+    "headingPart1": "Akụ A Kwadoro N'Aseị Maka ",
+    "headingAccent": "Ụlọ Ọrụ na Infrasịtrọksọ Ụwa.",
+    "intro": "Nyochaa nkọwa a kwadoro, nyochaa ụdị pụta ìhè dị, ma chịkọta arịrịọ ịzụ ahịa mankụmankụ dị iche iche n'ìgwè maka mbufe Abuja ma ọ bụ mmbupụ gaa ọdụ ụgbọ mmiri.",
+    "requestSchedule": "Rịọ Nhazi Oge Dị Ugbu A",
+    "categories": {
+      "all": "Akụ Niile",
+      "battery": "Batrị & Akụ Ndị Dị Mpaghara",
+      "precious": "Mmanụ Dị Oké Ọnụ Ahịa",
+      "industrial": "Mankụmankụ Industrial",
+      "construction": "Owuwu & Kwarị"
+    },
+    "searchPlaceholder": "Chọọ mankụmankụ, fomula, ojiji...",
+    "rfqListLabel": "Ndepụta RFQ",
+    "emptyTitle": "Enweghị ahịa mankụmankụ dabara a hụrụ",
+    "emptySubtitle": "Nwalee ikpofu ihe nzacha gị ma ọ bụ lee akụ mankụmankụ sịlidị Naịjirịa 8 a kwadoro niile.",
+    "resetFilters": "Seta Nhazi Katallọgụ",
+    "gradeLabel": "Aseị / Ebe Ọkwa",
+    "formsLabel": "Ụdị Niile",
+    "moqLabel": "MOQ",
+    "originLabel": "Ebe O Si",
+    "termsLabel": "Ọnọdụ Azụmahịa",
+    "viewFullSpecs": "Lee Nkọwa Zuru Ezu",
+    "orderQuote": "Oda / Ahịa",
+    "inRfqOrder": "N'ime RFQ · Oda",
+    "footerNote": "Nkọwa mankụmankụ niile dabere na lọọtụ ma a nyocharala ha site na labụ a kwadoro nọrọ onwe ya (nhọrọ SGS / Intertek / Alfred H Knight dị) tupu mbufe.",
+    "assembleMultiOrder": "Chịkọta Oda Mankụmankụ Dị Iche Iche"
+  },
+  "minerals": {
+    "lithium": {
+      "name": "Mankụmankụ Lithium",
+      "subtitle": "Spodumene & Lepidolite",
+      "grade": "4.5% – 6.2% Li₂O",
+      "moq": "Tọn Mẹtịrikị 30 / Ụgbọ Tịpa 1",
+      "origin": "Nasarawa, Kogi & Kwara Pegmatite Belt, Nigeria",
+      "leadTime": "Ụbọchị azụmahịa 7 – 14 site na nkwenye lọọtụ",
+      "description": "Ihe mmalite lithium spodumene na lepidolite nkume siri ike nke si n'agbụ pegmatite etiti Naịjirịa, nke a ahaziri na kwadebe maka nha patịkulụ na oke kemikal onye na-azụ maka nrụzi lithium carbonate na hydroxide.",
+      "complianceNote": "E nyere ya na nsonazụ ebe o si n'ụlọ iwu mankụ, satifiketi aseị tupu mbufe nọrọ onwe ya, na akwụkwọ mmbupụ kwekọrọ na NEPC.",
+      "forms": [
+        "Ihe A Na-anụbeghị Anụ",
+        "Nkụwa (0–50mm)",
+        "Kọnsenịtreeti"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Ebe A Mfere",
+        "FOB Lagos"
+      ],
+      "packagingOptions": [
+        "Jumbo Bag A Kpara 1,000 kg Dị Ike (FIBC)",
+        "Akwọ Mmbupụ PP 50 kg Nwere Akpa Abụọ",
+        "Mbufe Tịpa Na-enweghị Akpa Maka Mpaghara"
+      ],
+      "applications": [
+        "Ihe mmalite batrị EV cathode & nrụzi kemikal lithium",
+        "Seramiks teknịkal na gilas borosilicate na-egbochi ọkụ",
+        "Ihe mmanụ ụlọ ọrụ na flux metallọjikal pụrụ iche"
+      ]
+    },
+    "gold": {
+      "name": "Mankụmankụ Olaedo & Kọnsenịtreeti Alluvial",
+      "subtitle": "Ihe Mmalite Mmanụ Dị Oké Ọnụ A Nyocharala N'Aseị",
+      "grade": "A Kwadoro N'Aseị (A Nyocharala Na Labụ)",
+      "moq": "Tọn Mẹtịrikị 1 · Dabere na Aseị Lọọtụ",
+      "origin": "North-Central & North-West Schist Belt, Nigeria",
+      "leadTime": "Site na nhazi nkewa lọọtụ e chekwara",
+      "description": "Mankụmankụ quartz nke nwere olaedo na ihe mmalite alluvial nke a ahaziri n'okpuru usoro nchekwube siri ike, nwere ripootu mgbake fire-assay a nyocharala tupu nkwekọrịta azụmahịa.",
+      "complianceNote": "A na-azụ ahịa n'okpuru aha iwu mankụ Naịjirịa a nyocharala, ndekọ usoro nchekwube, na ripootu fire assay nọrọ onwe ya a kwadoro.",
+      "forms": [
+        "Mankụmankụ Quartz A Na-anụbeghị Anụ",
+        "Kọnsenịtreeti Alluvial",
+        "Kọnsenịtreeti Gravitị"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Nchebe Ndị Nche / Nchịkọta Na Vault"
+      ],
+      "packagingOptions": [
+        "Dromụ Igwe Nchebe A Machibidoro Akara",
+        "Akpa Nchebe Nwere Nọmba Dị Ike",
+        "Nkewa Nlereanya A Nyocharala Maka Fire Assay Nọrọ Onwe Ya"
+      ],
+      "applications": [
+        "Nrụzi olaedo metallọjikal nwere ikike na mgbake bọlyọn",
+        "Pụlantị nhazi gravitị na haịdụrometaịlọjịkal",
+        "Usoro mbufe nchekwa mmanụ dị oké ọnụ nke ụlọ ọrụ"
+      ]
+    },
+    "tin": {
+      "name": "Mankụmankụ Tịịnị",
+      "subtitle": "Kọnsenịtreeti Cassiterite (SnO₂)",
+      "grade": "65% – 72% Sn",
+      "moq": "Tọn Mẹtịrikị 30 / 1 × Kọnteena 20ft",
+      "origin": "Jos Plateau & North-Central Tin Belt, Nigeria",
+      "leadTime": "Ụbọchị azụmahịa 7 – 12 maka lọọtụ kọnteena gị",
+      "description": "Kọnsenịtreeti cassiterite alluvial na nkume siri ike a mịpụtara site na belt mankụmankụ Jos Plateau nke Naịjirịa, nke a washed na nkewa gburugburu electụromagnetik ka ọ dabere na usoro ịdị ọcha nke sịmelịta ụwa.",
+      "complianceNote": "A na-eweta ya na XRF/wet-chemistry tin assay na akwụkwọ nchapụta radieshọn mmbupụ mgbe a na-etinye na kọnteena.",
+      "forms": [
+        "Kọnsenịtreeti Alluvial",
+        "Nkụwa Nkume Siri Ike",
+        "Mpiọta A Swara Aswa"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Ebe A Mfere",
+        "FOB Lagos"
+      ],
+      "packagingOptions": [
+        "Akpa Polypropylene A Kpara Abụọ 50 kg (20 MT / 20ft FCL)",
+        "Jumbo Bag Mmbupụ FIBC 1,000 kg",
+        "Dromụ Igwe A Machibidoro Akara (Kọnsenịtreeti Ọkwa Dị Elu)"
+      ],
+      "applications": [
+        "Sịmelịtingị tịịnị na nrụpụta solder igwe eletrik na-enweghị leedi",
+        "Ihe mkpuchi igwe tịịnị maka nri na ihe na-echekwa kemikal",
+        "Bụronzu, babbitt bearing, na alaị ụlọ ọrụ pụrụ iche"
+      ]
+    },
+    "coltan": {
+      "name": "Columbite & Tantalite (Coltan)",
+      "subtitle": "Kọnsenịtreeti Nhazi Ta₂O₅ / Nb₂O₅ Dị Elu",
+      "grade": "Aseị Ta₂O₅ / Nb₂O₅ Dị Elu",
+      "moq": "1 × Kọnteena 20ft (20 MT) / Lọọtụ Elu Igwe Mgbe A Nyocharala",
+      "origin": "North-Central Pegmatite Belt, Nigeria",
+      "leadTime": "Ụbọchị azụmahịa 10 – 18 tinyere nchapụta",
+      "description": "Kọnsenịtreeti columbite-tantalite nwere ndensiti dị elu e ahaziri maka nrụpụta kapakịto eletrik, sụpa-alaị, na metallọjị saịtị elu igwe, nke nwere nnyocha radieshọn siri ike na aseị XRF/ICP.",
+      "complianceNote": "Koodu mbufe niile na-aga nnyocha redịyọlọjịkal a ga-emeri na nnyocha labụ nọrọ onwe ya iji mezuo iwu ndị mbufe na ndị na-azụ ụwa.",
+      "forms": [
+        "Kọnsenịtreeti",
+        "Mankụmankụ A Kụrụ Akụ",
+        "Ihe A Na-anụbeghị Anụ"
+      ],
+      "terms": [
+        "Ex-Works",
+        "FOB Lagos",
+        "Ajụjụ CIF"
+      ],
+      "packagingOptions": [
+        "Dromụ Igwe Nwere Ihe Nkuchi 50 kg / Akpa PP Abụọ",
+        "Jumbo Bag FIBC Nwere Palet 1,000 kg",
+        "Kọnteena Mmbupụ A Machibidoro Akara"
+      ],
+      "applications": [
+        "Tantalum electrolytic capacitors maka semịkondọktọ na hàdwịa 5G",
+        "Sụpa-alaị nickel-niobium maka tọbaịn jẹtị na infrasịtrọksọ elu igwe",
+        "Nrụpụta igwe siri ike micro-alloyed"
+      ]
+    },
+    "lead-zinc": {
+      "name": "Mankụmankụ Leedi & Zịnịkị",
+      "subtitle": "Kọnsenịtreeti Sọlụfaịdị Galena & Sphalerite",
+      "grade": "55%+ Pb / 50%+ Zn",
+      "moq": "Tọn Mẹtịrikị 30 / Ụgbọ Tịpa 1",
+      "origin": "Benue Trough Mineral Corridor, Nigeria",
+      "leadTime": "Ụbọchị azụmahịa 7 – 14",
+      "description": "Mankụmankụ ọkwa dị elu galena (leedi sọlụfaịdị) na sphalerite (zịnịkị sọlụfaịdị) si na belt Benue Trough nke Naịjirịa, nke a nkewara maka sịmelịtingị, galvanaịzingị igwe, na nrụpụta batrị ụlọ ọrụ.",
+      "complianceNote": "A na-ahazi ya iche iche site na ike leedi ma ọ bụ zịnịkị mgbe a rịọrọ, nwere satifiketi wejịbrịjị na aseị tupu mbufe.",
+      "forms": [
+        "Kọnsenịtreeti",
+        "Mankụmankụ A Kụrụ Akụ",
+        "Ihe A Na-anụbeghị Anụ"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Ebe A Mfere",
+        "FOB Lagos",
+        "FOB Port Harcourt"
+      ],
+      "packagingOptions": [
+        "Jumbo Bag Mmbupụ 1,000 kg (FIBC)",
+        "Akpa PP Dị Ike 50 kg",
+        "Mbufe Tịpa 30T N'ìgwè (N'ime Mpaghara)"
+      ],
+      "applications": [
+        "Batrị nchekwa leedi-asịdị ụlọ ọrụ na nchebe radieshọn",
+        "Galvanaịzingị zịnịkị ọkụ maka nchebe igwe",
+        "Alaị die-casting, metallọjị bras, na kemikal zịnịkị oksaịdị"
+      ]
+    },
+    "iron": {
+      "name": "Mankụmankụ Igwe",
+      "subtitle": "Hematite & Magnetite",
+      "grade": "60% – 65% Fe",
+      "moq": "Tọn Mẹtịrikị 30 / Ụgbọ Tịpa 1",
+      "origin": "Kogi & Niger Iron Ore Belt, Nigeria",
+      "leadTime": "Ụbọchị azụmahịa 5 – 10",
+      "description": "Mankụmankụ igwe hematite na magnetite a haziri ka ọ bụrụ nkụwa blast-furnace ma ọ bụ mpiọta sinter, na-eweta ọkwa Fe siri ike na gangue dị ala maka foundụrị Mpaghara, kịlịnị simenti, na nrụpụta igwe mmbupụ.",
+      "complianceNote": "E nyere ya na tiketi wejịbrịjị kwarị a kwadoro na nkọwa kemikal Fe/gangue nke labụ.",
+      "forms": [
+        "Nkụwa A Kụrụ Akụ (10–50mm)",
+        "Mpiọta (0–10mm)",
+        "Mankụmankụ A Na-anụbeghị Anụ"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Ebe A Mfere",
+        "FOB Port Harcourt"
+      ],
+      "packagingOptions": [
+        "Ụgbọ Dump Truck A Chịkọtara 30T / 45T",
+        "Jumbo Bag Mmbupụ FIBC 1,000 kg / 1,500 kg",
+        "Nhazi Port Containerized ma ọ bụ Breakbulk"
+      ],
+      "applications": [
+        "Nrụpụta igwe zuru ezu, direct reduction (DRI), na rolling mills",
+        "Ihe mgbakwunye mmezi igwe Portland cement clinker",
+        "Ihe mgbakwunye balasị arụrụ mmanụ na kọnkrịtị nwere ndensiti dị elu"
+      ]
+    },
+    "limestone": {
+      "name": "Laịmstọn & Agụrụgụ Mabụlụ",
+      "subtitle": "Nkume Carbonate Calcium Dị Elu",
+      "grade": "> 92% CaCO₃",
+      "moq": "Tọn Mẹtịrikị 30 / Ụgbọ Tịpa 1",
+      "origin": "F.C.T. / Kogi / Edo Limestone Belt, Nigeria",
+      "leadTime": "Ụbọchị azụmahịa 3 – 7",
+      "description": "Laịmstọn sedimentary dị ọcha nke ukwuu na blọkụ mabụlụ a mịpụtara maka nrụpụta clinker cement, nrụpụta hydrated lime, flue-gas desulfurization, na mmecha nkume azụmahịa pụrụ iche.",
+      "complianceNote": "Nhazi n'ìgwè e mere maka inye pụlantị simenti nri mgbe niile na ndị nkwekọrịta ụlọ azụmahịa n'akụkụ Abuja na mba niile.",
+      "forms": [
+        "Agụrụgụ A Kụrụ Akụ",
+        "Blọkụ Nha A Haziri",
+        "Pawụda A Kụrụ Akụ (CaCO₃)"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Ebe A Mfere",
+        "FOB Lagos"
+      ],
+      "packagingOptions": [
+        "Mbufe Ụgbọ Tịpa 30T N'ìgwè",
+        "Jumbo Bag 1,000 kg (A Kụrụ Akụ / Pawụda Micronized)",
+        "Blọkụ Mabụlụ Kwarị (Mbufe Flatbed)"
+      ],
+      "applications": [
+        "Nrụpụta cement clinker na kịlịnị quicklime / hydrated lime",
+        "Ihe mgbakwunye calcium carbonate ụlọ ọrụ (penti, PVC, akwụkwọ, ọrụ ugbo)",
+        "Ihe mkpuchi mabụlụ, ala ụlọ, na nkume infrasịtrọksọ sivilụ"
+      ]
+    },
+    "aggregates": {
+      "name": "Agụrụgụ Gụranaitị, Lateraịtị & Yiri Akpọrọ Akpọ",
+      "subtitle": "Kwarị Ọrụ Sivilụ & Inye Ihe Maka Earthworks",
+      "grade": "Nkọwa Kwarị BS / NIS",
+      "moq": "Ụgbọ Tịpa 1 (Tọn Mẹtịrikị 20 – 30)",
+      "origin": "F.C.T. Abuja & Nasarawa Quarry Corridor",
+      "leadTime": "Awere 24 – 72 n'ime F.C.T. Abuja & gburugburu ya",
+      "description": "Agụrụgụ gụranaitị a nyocharala, lateraịtị ọkwa okporo ụzọ, na yiri akpọrọ akpọ osimiri a swara aswa nke mbufe Gargati na-ebuga ozugbo n'ọrụ injinịarịngị sivilụ, akwa, ogige, na saịtị okporo ụzọ.",
+      "complianceNote": "E ji ndị ụgbọ Gargati dị na Abuja kwado maka nhazi saịtị na-enweghị nkwụsị na nkwekọrịta credit/PO.",
+      "forms": [
+        "1/2\" Gụranaitị",
+        "3/4\" Gụranaitị",
+        "Ntụ Nkume",
+        "Lateraịtị Okporo Ụzọ",
+        "Yiri Akpọrọ Akpọ A Swara Aswa"
+      ],
+      "terms": [
+        "Ebe A Mfere",
+        "Ex-Works"
+      ],
+      "packagingOptions": [
+        "Ụgbọ Tịpa Hydraulic 20-Tọn / 30-Tọn (Ikwụfu Na Saịtị)",
+        "Mbufe Ụgbọ Niile Nke Ndị Nkwekọrịta N'ụbọchị",
+        "Ibunye Ihe Direct Na Kwarị Maka Mbufe Onye Azụ"
+      ],
+      "applications": [
+        "Nhazi kọnkrịtị a kwadoro (akwa, ụlọ elu, ntọala)",
+        "Asphalt, sub-base okporo ụzọ, na mmezi drainaịjị",
+        "Ọrụ sivilụ n'ogige obibi na nke ụlọ ọrụ n'akụkụ Abuja F.C.T."
+      ]
+    }
+  },
+  "specModal": {
+    "inspectTexture": "Nyochaa Ọdịdị Ihe A Na-anụbeghị Anụ",
+    "purityLabel": "ỊDỊ ỌCHA / ASEỊ",
+    "originLabel": "BELT EBE O SI",
+    "tabCommercial": "Azụmahịa & Lojistiks",
+    "tabTechnical": "Nhazi Ahụ & Kemikal",
+    "tabPackaging": "Ihe Nkwụnye & Mmbupụ",
+    "moqLabel": "Oda Mpe Mpe (MOQ)",
+    "termsLabel": "Ọnọdụ Mbufe",
+    "leadTimeLabel": "Oge Nchere Mbufe",
+    "applicationsHeading": "Ojiji Isi Nke Ụlọ Ọrụ",
+    "physicalHeading": "Nhazi Ahụ pụta ìhè",
+    "chemicalHeading": "Mpaghara Kemikal & Aseị",
+    "packagingHeading": "Ụdị Nkwụnye na Mbufe Dị",
+    "packagingDisclaimer": "A nwere ike hazie nlekọta itinye ihe na kọnteena tupu mbufe, tiketi arọ nwere nọmba, na nnyocha nlereanya site na tọọdụ partị site na ọfịs ịzụ ihe Lokogoma-Abuja anyị.",
+    "preferredFormHeading": "Rọrọ Ụdị Ị Chọrọ Maka Ndepụta Ahịa",
+    "addAndOpen": "Kponye & Meghee Dọrọ Oda",
+    "updateAndOpen": "Mepụta Ụdị & Meghee Dọrọ Oda",
+    "requestAssay": "Rịọ Ripootu Aseị",
+    "lightboxTitleSuffix": "Nnyocha Ọdịdị",
+    "resetZoom": "1.0× Seta",
+    "macroZoom": "1.75× Nnukwu Nyocha"
+  },
+  "drawer": {
+    "eyebrow": "Ọfịs Ịzụ Ahịa B2B & RFQ",
+    "titleBuilder": "Ndepụta Oda Ịzụ Ahịa",
+    "titleProforma": "Proforma Oda Gọọmentị",
+    "readyBannerTitle": "A Kwadebere RFQ — Ntụaka",
+    "readyBannerBody": "Mbunye proforma gị a haziri ahazi ozugbo na ọfịs Lokogoma-Abuja anyị site na WhatsApp, imel gọọmentị, ma ọ bụ chekwaa/pụrintị dị ka PDF gọọmentị.",
+    "proformaTag": "AFAZỌ RFQ PROFORMA",
+    "preparedFor": "A KWADEBERE MAKA",
+    "attnLabel": "Maka:",
+    "deliverySchedule": "NHAZI OGE MBUFE",
+    "targetDateLabel": "Abalị Ezubere:",
+    "toBeScheduled": "A ga-ahazi oge",
+    "validityNote": "Oge Dị Irè: Ụbọchị 14 · Dabere na Aseị Lọọtụ",
+    "colCommodity": "Ahịa Mankụmankụ",
+    "colFormTerms": "Ụdị / Ọnọdụ",
+    "colQuantity": "Ọnụ Nọmba",
+    "buyerNotesLabel": "Ihe Ndekọ Onye Azụ:",
+    "btnWhatsApp": "Siga na WhatsApp",
+    "btnEmail": "Imel",
+    "btnPrint": "Pụrintị / Chekwaa PDF Proforma",
+    "btnCopy": "Kọpịị Afazọ Oda",
+    "btnCopied": "A Kọpịịrị Afazọ RFQ",
+    "btnEditOrder": "Gbanwee Ọnụ Nọmba ma ọ bụ Nkọwa",
+    "btnClearReset": "Kpofu & Malite Ajụjụ Ọhụrụ",
+    "quickAddLabel": "+ Kponye Ahịa Mankụmankụ N'otu Oge N'oda A",
+    "moreResources": "Akụ ndị ọzọ...",
+    "emptyTitle": "Ndepụta ịzụ ahịa gị eweghị ihe ebe a ugbu a",
+    "emptySubtitle": "Rọrọ ahịa mankụmankụ ist kọwaa tọn, ọkwa, na ọnọdụ mbufe.",
+    "browseCatalog": "Nyochaa Katallọgụ Mankụmankụ",
+    "qtyLabel": "Ọnụ Nọmba A Chọrọ *",
+    "unitLabel": "Yuniti",
+    "preferredFormLabel": "Ọkwa / Ụdị A Chọrọ",
+    "preferredTermsLabel": "Ọnọdụ Mbufe A Chọrọ",
+    "buyerSectionEyebrow": "Nkọwa Onye Azụ na Lojistiks",
+    "buyerSectionTitle": "Mepụta Proforma & Mfere RFQ",
+    "fieldCompany": "Ụlọ Ọrụ / Ọgbakọ *",
+    "placeholderCompany": "Ụlọ ọrụ onye azụ a debanyere aha",
+    "fieldContact": "Mmadụ A Ga-akpọ *",
+    "placeholderContact": "Aha zuru ezu & ọkwa",
+    "fieldPhone": "Fon / WhatsApp *",
+    "placeholderPhone": "+234 809 ...",
+    "fieldEmail": "Imel Gọọmentị *",
+    "placeholderEmail": "procurement@company.com",
+    "fieldDestination": "Ebe A Ga-embuga *",
+    "destinations": [
+      "Abuja F.C.T.",
+      "Ọdụ Ụgbọ Mmiri Lagos (Apapa / Tin Can)",
+      "Port Harcourt / Ọdụ Ụgbọ Mmiri Onne",
+      "Kano",
+      "Akesị Saịtị Ndị Ọzọ"
+    ],
+    "fieldTargetDate": "Abalị Ezubere Maka Mbufe",
+    "fieldCustomAddress": "Akesị Saịtị Mbufe ma ọ bụ Ọdụ Ụgbọ Mmiri *",
+    "placeholderCustomAddress": "Gbaa ebe saịtị ziri ezi, yard ụlọ ọrụ, ma ọ bụ ọdụ mmbupụ",
+    "fieldNotes": "Ndekọ Pụrụ Iche Maka Aseị, Nkwụnye, ma ọ bụ Lojistiks",
+    "placeholderNotes": "Gbaa nkọwa SGS/Intertek aseị tupu mbufe, akpa jumbo 1MT ma ọ bụ tịpa, ma ọ bụ nhazi nnyocha...",
+    "btnSubmit": "Mfere RFQ & Mepụta Proforma Gọọmentị",
+    "btnSubmitting": "Ọ na-mepụta Proforma Gọọmentị...",
+    "btnQuickWhatsApp": "Mbufe WhatsApp N'otu Oge",
+    "btnDirectEmail": "Mbufe Imel Direct",
+    "privacyNote": "Nhazi gọọmentị direct site na",
+    "units": [
+      "Tọn Mẹtịrikị (MT)",
+      "Ụgbọ Tịpa 30T",
+      "Kọnteena 20ft",
+      "Jumbo Bag 1MT"
+    ]
+  },
+  "engineering": {
+    "eyebrow": "02 / Usoro Injinịarịngị & Owuwu",
+    "headingPart1": "Mbufe Sivilụ Arụrụ Mmanụ & ",
+    "headingAccent": "Mmezu Injinịarịngị Mba-Mankụ.",
+    "intro": "N'ofè mịpụta mankụmankụ a na-anụbeghị anụ, ngalaba injinịarịngị Abuja anyị na-eme ọrụ earthworks dị mgbagwoju anya, infrasịtrọksọ sivilụ a kwadoro, ụgbọ mbufe kwarị, na nnyocha geolọjịkal n'okpuru otu mandeti gọọmentị.",
+    "bannerBadge": "MOBILIZATION FIELD TURNKEY",
+    "bannerTitle": "Usoro Onye Mmekọ Otụ Site na Gwọrọ Mba ruo Mfere Sivilụ.",
+    "bannerBody": "Site n'ịikọta agụrụgụ kwarị anyị, igwe earthmoving, na ndị injinịa sivilụ nwere ikike, minịsitịrị na ndị mmepụta azụmahịa na-ewepụ igbu oge nke ndị na-ere ahịa dị iche iche na nsogbu mma ihe.",
+    "btnSubmitBrief": "Mfere Brief Injinịarịngị",
+    "btnViewCorridors": "Lee Corridors Inye Ihe",
+    "pauseVideo": "Kwụsị Vidiyo Saịtị",
+    "playVideo": "Kpọọ Vidiyo Saịtị",
+    "divisionLabel": "Ngalaba",
+    "requestProposal": "Rịọ Mpụta Ọrụ",
+    "capabilities": [
+      {
+        "id": "mine-development",
+        "title": "Mmepụta Saịtị Mba-Mankụ & Qgwụgwọ",
+        "subtitle": "Earthworks Open-Pit & Ọrụ Kwarị",
+        "description": "Mmeghe saịtị zuru ezu, owuwu okporo ụzọ mbufe, benching a haziri ahazi, na iwelite overburden a chịkọtara iji hụ na mịpụta mankụmankụ sịlidị dị mma na nwere nchekwa.",
+        "deliverables": [
+          "Mepụta open-pit bench & iwelite overburden",
+          "Mmepụta okporo ụzọ mbufe & drainaịjị mmiri ozuzo",
+          "Nhazi mankụmankụ, pad kụrụ akụ & njikwa stọkụpaịlụ",
+          "Nweghachi mba-mankụ & ogige nchebe saịtị"
+        ],
+        "equipmentOrMethodology": "30T–45T Hydraulic Excavators · Bulldozers · Articulated Dump Trucks"
+      },
+      {
+        "id": "civil-construction",
+        "title": "Owuwu Sivilụ & Infrasịtrọksọ",
+        "subtitle": "Infrasịtrọksọ, Ụlọ Ọrụ & Ọrụ Ogige",
+        "description": "Owuwu injinịarịngị sivilụ turnkey n'akụkụ Naịjirịa—na-eweta infrasịtrọksọ kọnkrịtị a kwadoro, usoro drainaịjị, ụlọ nchekwa ụlọ ọrụ, na infrasịtrọksọ ogige azụmahịa.",
+        "deliverables": [
+          "Akwa kọnkrịtị a kwadoro, kọlvạtị & mgbedọ nchebe",
+          "Ụlọ nchekwa ụlọ ọrụ, ntọala wejịbrịjị & shedị nhazi",
+          "Usoro okporo ụzọ ogige azụmahịa na obibi na drainaịjị",
+          "Mmezu agụrụgụ, kọnkrịtị & asphalt a nyocharala mma"
+        ],
+        "equipmentOrMethodology": "Iwu Infrasịtrọksọ BS / NIS · Nnyocha Mma QA/QC · Nlekọta Turnkey"
+      },
+      {
+        "id": "equipment-haulage",
+        "title": "Nkirịta Igwe Arụrụ Mmanụ & Mbufe",
+        "subtitle": "Ndị Ụgbọ Earthmoving & Lojistiks Mankụmankụ N'ìgwè",
+        "description": "Ibunye igwe arụrụ mmanụ nwere ndị ọkwọ ụgbọ, usoro kụrụ akụ na-agagharị agagharị, na ụgbọ mbufe mankụmankụ n'ìgwè na-ejikọta belt mba-mankụ na saịtị na ọdụ ụgbọ mmiri mmbupụ.",
+        "deliverables": [
+          "Excavators, bulldozers & wheel loaders na nkwekọrịta",
+          "Dump trucks & 30T–45T tịpa na mbufe",
+          "Mobilization pụlantị jaw/cone crushing na multi-deck screening",
+          "Corridor mbufe kọnteena & mmbupụ n'ìgwè Mba-na-Ọdụ mmiri"
+        ],
+        "equipmentOrMethodology": "Nkwado Nlekọta Mgbe Niile · Ndị Ọkwọ Ụgbọ A Zụrụ Azụ · Nsogbu GPS Waybill"
+      },
+      {
+        "id": "geological-survey",
+        "title": "Nnyocha Geolọjịkal & Nchọpụta Mankụmankụ",
+        "subtitle": "Nchọpụta Akụ, Nlereanya & Nnabata",
+        "description": "Nnyocha fịịldị teknịkal, nhazi diamond/RC core drilling, nlereanya mankụmankụ, na ọmụmụ gburugburu ebe obibi na-ebelata nsogbu ego mba-mankụ.",
+        "deliverables": [
+          "Geological mapping, trenching & nlereanya outcrop channel",
+          "Nlekọta core drilling & nchekwa core-tray",
+          "Mgbakọ akụ nke mbụ & nhazi njikwa ọkwa",
+          "Nnyocha Mmetụta Gburugburu Ebe Obibi (EIA) & ripootu nnabata"
+        ],
+        "equipmentOrMethodology": "Core Logging · Usoro Nchekwube Labụ Nọrọ Onwe Ya · Nkwado Ntinye Akwụkwọ Iwu"
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "03 / Corridors Ọrụ & Usoro Mmezu",
+    "headingPart1": "Lojistiks Mba-gaa-Saịtị & ",
+    "headingAccent": "Corridors Inye Ihe Nke Naịjirịa.",
+    "intro": "Mịpụta a haziri ahazi, njikwa wejịbrịjị, nnyocha labụ aseị, na mbufe direct n'akụkụ primary solid mineral belts nke Naịjirịa na ebe owuwu obodo.",
+    "inquireSchedule": "Jụọ Maka Nhazi Oge Lọọtụ",
+    "stagingBadge": "NCHEKWUBE ASEỊ & NHAZI MMBUPỤ",
+    "stagingCaption": "Nchekwa nlereanya core, nkwụnye akpa jumbo 1MT FIBC & ibunye na kọnteena nwere nọmba.",
+    "protocolEyebrow": "Usoro Mmezu Ịzụ Ahịa",
+    "protocolTitle": "Usoro Nnyocha Lọọtụ Ọkwa Anọ & Mbufe",
+    "btnStartOrder": "Malite Oda N'ìgwè",
+    "surveyorNotice": "Ndị nyocha nke onye azụ họpụtara (SGS, Intertek, Alfred H Knight) nwere ike ịbịa maka nlereanya n'ọfịs stọkụpaịlụ mba-mankụ ma ọ bụ yard nhazi ọdụ ụgbọ mmiri.",
+    "corridors": [
+      {
+        "id": "nasarawa-kogi-corridor",
+        "vertical": "Mankụmankụ Mpaghara & Ụlọ Ọrụ",
+        "title": "Usoro Inye Ihe Pegmatite & Mankụmankụ Igwe North-Central",
+        "corridor": "Nasarawa · Kogi · Plateau Belts",
+        "summary": "Inweta a haziri ahazi, nha, na nhazi akpa jumbo maka lithium (spodumene/lepidolite), cassiterite tin, coltan, na mankụmankụ igwe 60–65% Fe e zubere maka sịmelịta mpaghara na temịnal mmbupụ Lagos/Port Harcourt.",
+        "scopeTags": [
+          "Aseị Tupu Mbufe",
+          "Nkwụnye Akpa Jumbo 1MT",
+          "Mbufe Ọdụ Ụgbọ Mmiri"
+        ]
+      },
+      {
+        "id": "abuja-civil-supply",
+        "vertical": "Owuwu & Lojistiks Kwarị",
+        "title": "Agụrụgụ Kọnkrịtị F.C.T. Abuja & Ndị Ụgbọ Okporo Ụzọ",
+        "corridor": "Lokogoma · Lugbe · Gburugburu Abuja",
+        "summary": "Ndị ụgbọ tịpa na-agba mgbe niile na-ebuga gụranaitị 1/2\" na 3/4\", ntụ nkume, yiri akpọrọ akpọ a swara aswa, na lateraịtị okporo ụzọ ozugbo n'aka ndị nkwekọrịta okporo ụzọ, pụlantị batching, na ndị mmepụta ogige.",
+        "scopeTags": [
+          "Mbufe Saịtị 24–72h",
+          "Tịpa 30T",
+          "Tiketi Wejịbrịjị"
+        ]
+      },
+      {
+        "id": "benue-sulfides",
+        "vertical": "Azụmahịa Base Metals",
+        "title": "Nchịkọta Galena & Sphalerite Nke Benue Trough",
+        "corridor": "Benue Trough → Ọdụ Ụgbọ Mmiri Onne / Apapa",
+        "summary": "Nchịkọta kọnsenịtreeti leedi sọlụfaịdị (PbS) na zịnịkị sọlụfaịdị (ZnS) n'ìgwè nwere nkewa lọọtụ, nnyocha mmiri, na nnyocha XRF nọrọ onwe ya tupu itinye na kọnteena.",
+        "scopeTags": [
+          "55%+ Pb / 50%+ Zn",
+          "Itinye Na Kọnteena",
+          "A Kwadebere Maka Mmbupụ NEPC"
+        ]
+      },
+      {
+        "id": "turnkey-civil",
+        "vertical": "Injinịarịngị & Earthworks",
+        "title": "Nkwadebe Saịtị Zuru Ezu, Drainaịjị & Pad Ụlọ Ọrụ",
+        "corridor": "F.C.T. Abuja & Saịtị Naịjirịa Niile",
+        "summary": "Njikọ earthmoving arụrụ mmanụ, sub-base compaction, ọrụ drainaịjị kọnkrịtị a kwadoro, na inye ihe direct site na kwarị nke e mere n'okpuru otu mandeti gọọmentị.",
+        "scopeTags": [
+          "Ọgwụgwọ & Grading",
+          "Ọrụ Kọnkrịtị",
+          "Usoro Onye Mmekọ Otụ"
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "step": "01",
+        "title": "Mgbanwe Nkọwa & Oke Ọrụ",
+        "detail": "Ndị azụ na-emefe tọn ezubere, ọkwa kemikal, ebe mbufe, na Incoterms site na Ọfịs Ịzụ Ahịa anyị ma ọ bụ brief injinịarịngị."
+      },
+      {
+        "step": "02",
+        "title": "Aseị Labụ Nọrọ Onwe Ya & Nnyocha Title",
+        "detail": "A na-ewepụ nlereanya lọọtụ maka aseị labụ a kwadoro, nnyocha mmiri, na akwụkwọ ebe mankụmankụ o si tupu nkwekọrịta gọọmentị."
+      },
+      {
+        "step": "03",
+        "title": "Nhazi, Mmezi & Nkwụnye",
+        "detail": "A na-akụ mankụmankụ, na-aswa ya, ma ọ bụ na-etinye ya n'akpa jumbo 1MT FIBC nwere nọmba, akpa PP 50kg, dromụ nchebe, ma ọ bụ tịpa a haziri ahazi."
+      },
+      {
+        "step": "04",
+        "title": "Mbufe Mba-gaa-Saịtị & Mmbupụ Ọdụ Ụgbọ Mmiri",
+        "detail": "Mbufe a haziri ahazi na-ebuga ozugbo na saịtị nchepụta ọrụ n'akụkụ Naịjirịa ma ọ bụ temịnal mmbupụ a haziri na Lagos (Apapa/Tin Can) na Port Harcourt."
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "04 / Nsọpụrụ Gọọmentị Ụlọ Ọrụ & Nnabata",
+    "headingPart1": "Kụredịbịlịtị Iwu & ",
+    "headingAccent": "Dị debanye aha na Naịjirịa a nyocharala.",
+    "narrativeSuffix": "na-arụ ọrụ n'okpuru nrubeisi siri ike na gọọmentị ụlọ ọrụ Naịjirịa, nnyocha title mankụmankụ, na njikere mmbupụ—na-enye ndị na-azụ n'ụwa, ndị nkwekọrịta sivilụ, na minịsitịrị gọọmentị onye mmekọ doro anya, a nwere ike isonye.",
+    "pillars": [
+      {
+        "code": "CAC-REG",
+        "title": "A Debanyere Aha na Corporate Affairs Commission",
+        "detail": "A debanyere aha n'okpuru Companies and Allied Matters Act dị ka RC No.: 9963225."
+      },
+      {
+        "code": "MMSD-STD",
+        "title": "Njikọ na Federal Ministry of Solid Minerals",
+        "detail": "Inweta ihe kwekọrọ na kwarị nwere ikike, liisi, na usoro akwụkwọ title mankụmankụ."
+      },
+      {
+        "code": "NEPC-EXP",
+        "title": "Njikere Mmbupụ & Nchekwube Aseị Nọrọ Onwe Ya",
+        "detail": "Aseị labụ maka lọọtụ ọ bụla, nnyocha radieshọn ebe o metụtara, na nkwụnye mmbupụ."
+      }
+    ],
+    "dossierBadge": "DOSSIER ỤLỌ ỌRỤ A NYOCHARALA",
+    "dossierSubtitle": "Ụlọ Ọrụ Mba-Mankụ, Injinịarịngị & Infrasịtrọksọ Dị Irè Nke Naịjirịa",
+    "labelCac": "Ndebanye Aha CAC",
+    "labelAddress": "Akesị Isi Ọfịs",
+    "labelLines": "Ahịrị Kọntaktị Direct",
+    "labelEmail": "Imel Gọọmentị",
+    "labelVerticals": "Akwụkwọ Ọrụ Ndị Isi",
+    "verticalsShort": "Iwu Mankụmankụ · Injinịarịngị Sivilụ · Infrasịtrọksọ · Inye Ihe N'ìgwè",
+    "btnOpenRfq": "Meghee Oda N'ìgwè / RFQ",
+    "btnRequestPack": "Rịọ Akwụkwọ Nnabata"
+  },
+  "contact": {
+    "eyebrow": "05 / Ọfịs Ịzụ Ahịa, Aseị & Injinịarịngị",
+    "headingPart1": "Jikọọ Ozugbo na ",
+    "headingAccent": "Ndị Ndị Otụ Ọrụ Abuja Anyị.",
+    "intro": "Mfere ajụjụ ụlọ ọrụ maka ripootu aseị labụ, tenda injinịarịngị sivilụ, mobilization igwe arụrụ mmanụ, ma ọ bụ nhazi ọrụ off-take.",
+    "successTitle": "A Ndebere Ajụjụ & A Haziri Maka Mbufe",
+    "successBody": "Mfere ozugbo gaa ọfịs anyị site na WhatsApp ma ọ bụ imel gọọmentị gị n'okpuru maka nnyocha ngwangwa nke ndị otụ injinịarịngị & mankụmankụ Abuja anyị.",
+    "btnDispatchWhatsApp": "Mbunye site na WhatsApp",
+    "btnOpenEmail": "Meghee na Imel",
+    "btnSendAnother": "Mfere Ajụjụ Ụlọ Ọrụ Ọzọ",
+    "fieldCategory": "Ngalaba / Mpaghara Ajụjụ",
+    "inquiryTypes": [
+      "Offtake Mankụmankụ N'ìgwè",
+      "Arịrịọ Ripootu Aseị Labụ",
+      "Tenda Injinịarịngị & Owuwu",
+      "Nkirịta Igwe Arụrụ Mmanụ",
+      "Ajụjụ Ụlọ Ọrụ Niile"
+    ],
+    "fieldCompany": "Aha Ụlọ Ọrụ / Minịsitịrị *",
+    "placeholderCompany": "Aha ọgbakọ",
+    "fieldContact": "Mmadụ A Ga-akpọ *",
+    "placeholderContact": "Aha zuru ezu",
+    "fieldPhone": "Fon / WhatsApp *",
+    "placeholderPhone": "+234 809 ...",
+    "fieldEmail": "Imel Gọọmentị *",
+    "placeholderEmail": "name@organization.com",
+    "fieldSubject": "Isi Okwu *",
+    "placeholderSubject": "dị ka, Arịrịọ Ripootu Aseị Maka Mankụmankụ Lithium (Spodumene)",
+    "fieldMessage": "Oke Teknịkal / Nkọwa Ajụjụ *",
+    "placeholderMessage": "Kesaa tọn a chọrọ, ebe saịtị nchepụta ọrụ, ihe mgba nke nkọwa, ma ọ bụ oke tenda injinịarịngị...",
+    "btnSubmit": "Mfere Ajụjụ Ụlọ Ọrụ",
+    "btnSubmitting": "Ọ na-kwadebe Ajụjụ Ụlọ Ọrụ...",
+    "headOfficeBadge": "ISI ỌFỊS ỤLỌ ỌRỤ",
+    "workingHours": "Mọnụde – Furaịde · 08:00 – 17:00 WAT (Mbufe Saịtị Satọde Site na Mmekọrịta Oge)",
+    "btnOpenMaps": "Meghee na Google Maps",
+    "channelsBadge": "AHỊRỊ KỌNTAKTỊ DIRECT",
+    "primaryLineLabel": "Ọfịs Ịzụ Ahịa Ndị Isi",
+    "secondaryLineLabel": "Ahịrị Injinịarịngị & Lojistiks",
+    "emailLabel": "Imel Ụlọ Ọrụ Gọọmentị"
+  },
+  "footer": {
+    "verifiedRegistration": "Ndebanye Aha Ụlọ Ọrụ A Nyocharala",
+    "mission": "Inye mankụmankụ sịlidị Naịjirịa a kwadoro n'aseị, agụrụgụ kwarị, mbufe igwe arụrụ mmanụ, na infrasịtrọksọ injinịarịngị sivilụ site na F.C.T. Abuja gaa ndị na-azụ ahịa ụlọ ọrụ n'ụwa niile.",
+    "colPortal": "Pọtụlụ Ụlọ Ọrụ",
+    "colProcurement": "Ọfịs Ịzụ Ahịa",
+    "colHeadOffice": "Isi Ọfịs & Ahịrị Direct",
+    "linkOpenRfq": "Meghee Dọrọ Oda N'ìgwè / RFQ",
+    "linkRequestAssay": "Rịọ Ripootu Aseị Labụ",
+    "linkSubmitTender": "Mfere Tenda Injinịarịngị / Sivilụ",
+    "linkWhatsApp": "Ọfịs WhatsApp",
+    "backToTop": "Laghachi n'elu"
+  },
+  "toast": {
+    "addedSuffix": "e tinyere n'ndepụta RFQ",
+    "readySubtitle": "A kwadebere maka tọn & ọnọdụ mbufe",
+    "openRfqLabel": "Meghee Ndepụta RFQ"
+  }
+}

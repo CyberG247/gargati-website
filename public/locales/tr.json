@@ -1,0 +1,673 @@
+{
+  "switcher": {
+    "buttonLabel": "Dil",
+    "modalTitle": "Dil Tercihi",
+    "modalSubtitle": "Kurumsal portalı ve maden kataloğunu 25 Nijerya ve dünya diline çevirin.",
+    "searchPlaceholder": "Dil ara (ör. Çince, Türkçe, Arapça, Hausa, Yoruba, İgbo, Kanuri, Fulfulde...)",
+    "noMatches": "Eşleşen dil bulunamadı.",
+    "groupNigerian": "Nijerya Dilleri",
+    "groupGlobal": "Küresel Ticaret ve İhracat",
+    "groupMore": "Diğer Dünya Dilleri",
+    "instantBadge": "Anında",
+    "aiBadge": "Canlı AI",
+    "rtlBadge": "RTL",
+    "translatingStatus": "Portal içeriği çevriliyor...",
+    "errorFallback": "Canlı çeviri geçici olarak kullanılamıyor. İngilizce yedek gösteriliyor.",
+    "legalNotice": "Resmi CAC kayıt detayları, kimyasal formüller ve referans kodları İngilizce olarak orijinal haliyle kalır."
+  },
+  "nav": {
+    "topLocation": "Lokogoma District, F.C.T., Abuja · Tüm Nijerya Tedariki ve İhracat",
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda ve Uyum",
+    "catalog": "Maden Kaynakları",
+    "engineering": "Mühendislik",
+    "projects": "Projeler",
+    "contact": "İletişim",
+    "orderRfq": "Sipariş / RFQ",
+    "requestBulkQuote": "Toptan Teklif İste",
+    "openRfqList": "Açık RFQ Sipariş Listesi",
+    "callPrefix": "Ara"
+  },
+  "hero": {
+    "eyebrow": "Katı Madenler · Ağır Mühendislik · Altyapı",
+    "headlinePart1": "Hassas Katı Maden Çıkarımı ve ",
+    "headlineAccent": "Ağır Mühendislik Altyapısı",
+    "headlinePart2": " Nijerya Genelinde.",
+    "subheadlinePrefix": "Sertifikalı ham maden tedarikinden büyük ölçekli inşaat mühendisliğine kadar, ",
+    "subheadlineSuffix": ", F.C.T. Abuja'dan küresel pazarlara kadar standartlara uygun, yüksek kaliteli malzemeler ve anahtar teslim mühendislik sunar.",
+    "ctaExplore": "Maden Kaynaklarını İnceleyin",
+    "ctaContact": "Tedarik Masası ile İletişime Geçin",
+    "ctaOpenRfq": "Toptan RFQ Aç",
+    "deskEyebrow": "YÖNETİCİ MASASI",
+    "deskTitle": "Doğrudan Emtia ve İnşaat Mandatı",
+    "statStatus": "Kurumsal Statü",
+    "statPortfolio": "Maden Portföyü",
+    "statPortfolioValue": "8 Sertifikalı Kaynak",
+    "statHeadOffice": "Genel Merkez",
+    "statHeadOfficeValue": "Lokogoma, F.C.T. Abuja",
+    "statChannels": "Tedarik Kanalları",
+    "statChannelsValue": "Damperli Kamyonlar · 20ft FCL · FOB Limanlar",
+    "ctaBuildRfq": "Toptan RFQ Oluştur",
+    "trustCacTitle": "Doğrulanmış CAC Kaydı",
+    "trustAbujaTitle": "Lokogoma-Abuja Operasyonları",
+    "trustAbujaSub": "F.C.T. Genel Merkez ve Sevkiyat",
+    "trustAssayTitle": "Laboratuvar Onaylı Maden Tenörleri",
+    "trustAssaySub": "Bağımsız Laboratuvar Doğrulaması",
+    "trustLogisticsTitle": "Madenden Şantiyeye Doğrudan Lojistik",
+    "trustLogisticsSub": "Damperli Kamyon Filosu ve İhracat Terminalleri",
+    "coreVerticalsLabel": "Ana Faaliyet Alanları",
+    "verticals": [
+      "Katı Maden Madenciliği ve İşleme",
+      "İnşaat ve Ağır Mühendislik",
+      "Altyapı İnşaatı",
+      "Toptan Maden Tedariki"
+    ]
+  },
+  "catalog": {
+    "eyebrow": "01 / Katı Madenler ve Taş Ocağı Kaynakları Kataloğu",
+    "headingPart1": "Laboratuvar Analizli Kaynaklar ",
+    "headingAccent": "Küresel Sanayi ve Altyapı İçin.",
+    "intro": "Doğrulanmış teknik özellikleri inceleyin, mevcut fiziksel formları gözden geçirin ve Abuja sevkiyatı veya liman ihracatı için doğrudan çoklu maden toptan tedarik talepleri oluşturun.",
+    "requestSchedule": "Güncel Stok ve Tedarik Takvimini İste",
+    "categories": {
+      "all": "Tüm Kaynaklar",
+      "battery": "Batarya ve Kritik",
+      "precious": "Değerli Metaller",
+      "industrial": "Endüstriyel Cevherler",
+      "construction": "İnşaat ve Taş Ocağı"
+    },
+    "searchPlaceholder": "Maden, formül, kullanım alanı ara...",
+    "rfqListLabel": "RFQ Listesi",
+    "emptyTitle": "Eşleşen maden emtiası bulunamadı",
+    "emptySubtitle": "Arama filtrenizi temizlemeyi veya 8 sertifikalı Nijerya katı madeninin tamamını görüntülemeyi deneyin.",
+    "resetFilters": "Katalog Filtrelerini Sıfırla",
+    "gradeLabel": "Analiz / Tenör Aralığı",
+    "formsLabel": "Formlar",
+    "moqLabel": "MOQ",
+    "originLabel": "Menşei",
+    "termsLabel": "Teslimat Koşulları",
+    "viewFullSpecs": "Tüm Özellikleri Gör",
+    "orderQuote": "Sipariş / Teklif",
+    "inRfqOrder": "RFQ Siparişinde",
+    "footerNote": "Tüm maden teknik özellikleri partiye bağlıdır ve sevkiyat öncesinde bağımsız akredite laboratuvar analizi (SGS / Intertek / Alfred H Knight seçenekleri mevcuttur) ile doğrulanır.",
+    "assembleMultiOrder": "Çoklu Maden Siparişi Oluştur"
+  },
+  "minerals": {
+    "lithium": {
+      "name": "Lityum Cevheri",
+      "subtitle": "Spodumen ve Lepidolit",
+      "grade": "4.5% – 6.2% Li₂O",
+      "moq": "30 Metrik Ton / 1 Damperli Kamyon",
+      "origin": "Nasarawa, Kogi ve Kwara Pegmatit Kuşağı, Nijerya",
+      "leadTime": "Parti onayından itibaren 7 – 14 iş günü",
+      "description": "Orta Nijerya pegmatit oluşumlarından çıkarılan, lityum karbonat ve hidroksit rafinasyonu için alıcının tane boyutu ve kimyasal eşiklerine göre sınıflandırılıp hazırlanan sert kaya spodumen ve lepidolit lityum hammaddesi.",
+      "complianceNote": "Maden menşei izlenebilirliği, bağımsız sevkiyat öncesi analiz sertifikaları ve NEPC uyumlu ihracat belgeleri ile tedarik edilir.",
+      "forms": [
+        "Tuvön Parça",
+        "Kırılmış (0–50mm)",
+        "Konsantre"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Şantiye Teslimi",
+        "FOB Lagos"
+      ],
+      "packagingOptions": [
+        "1.000 kg Ağır Hizmet Dokuma Big Bag (FIBC)",
+        "50 kg Çift Katlı PP İhracat Çuvalı",
+        "Dökme Damperli Kamyon Sevkiyatı (Yurtiçi Teslimat)"
+      ],
+      "applications": [
+        "EV bataryası katot öncülü ve lityum kimyasal rafinasyonu",
+        "Teknik seramikler ve ısıya dayanıklı borosilikat cam",
+        "Endüstriyel yağlayıcılar ve özel metalurjik eriticiler"
+      ]
+    },
+    "gold": {
+      "name": "Altın Cevheri ve Alüvyon Konsantreleri",
+      "subtitle": "Laboratuvar Onaylı Değerli Metal Hammaddesi",
+      "grade": "Analiz Onaylı (Laboratuvar Doğrulamalı)",
+      "moq": "1 Metrik Ton · Parti Analizine Bağlı",
+      "origin": "Kuzey-Orta ve Kuzey-Batı Şist Kuşağı, Nijerya",
+      "leadTime": "Planlanan güvenli parti tahsisine göre",
+      "description": "Sıkı gözetim zinciri protokolleri altında işlenen, ticari mutabakattan önce yangın analizi geri kazanım raporları doğrulanan birincil altın içeren kuvars damar cevheri ve yerçekimi ile konsantre edilmiş alüvyon hammaddesi.",
+      "complianceNote": "Kesinlikle doğrulanmış Nijerya madencilik ruhsatı, gözetim zinciri kayıtları ve sertifikalı bağımsız yangın analizi raporları altında ticareti yapılır.",
+      "forms": [
+        "Ham Kuvars Cevheri",
+        "Alüvyon Konsantresi",
+        "Gravite Konsantresi"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Güvenlikli Eskort / Kasadan Teslimat"
+      ],
+      "packagingOptions": [
+        "Mühürlü Çelik Güvenlik Varilleri",
+        "Numaralı Ağır Hizmet Güvenlik Torbaları",
+        "Bağımsız Yangın Analizi İçin Doğrulanmış Numune Bölme"
+      ],
+      "applications": [
+        "Ruhsatlı metalurjik altın rafinasyonu ve külçe geri kazanımı",
+        "Gravite ve hidrometalurjik işleme tesisleri",
+        "Kurumsal değerli metal rezerv tedarik zincirleri"
+      ]
+    },
+    "tin": {
+      "name": "Kalay Cevheri",
+      "subtitle": "Kassiterit Konsantresi (SnO₂)",
+      "grade": "65% – 72% Sn",
+      "moq": "30 Metrik Ton / 1 × 20ft Konteyner",
+      "origin": "Jos Platosu ve Kuzey-Orta Kalay Kuşağı, Nijerya",
+      "leadTime": "Konteyner partisi başına 7 – 12 iş günü",
+      "description": "Nijerya'nın tarihi Jos Platosu maden kuşağından çıkarılan, uluslararası eritme tesisi saflık toleranslarını karşılamak için yıkanmış ve elektromanyetik olarak ayrıştırılmış yüksek özgül ağırlıklı alüvyon ve sert kaya kassiterit konsantresi.",
+      "complianceNote": "Konteyner dolumunda XRF/yaş kimya kalay analizi ve ihracat radyasyon muafiyet belgeleri ile teslim edilir.",
+      "forms": [
+        "Alüvyon Konsantresi",
+        "Kırılmış Sert Kaya",
+        "Yıkanmış İnce Malzeme"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Şantiye Teslimi",
+        "FOB Lagos"
+      ],
+      "packagingOptions": [
+        "50 kg Çift Dokuma Polipropilen Çuval (20 MT / 20ft FCL)",
+        "1.000 kg İhracat FIBC Big Bag",
+        "Mühürlü Çelik Variller (Yüksek Tenörlü Konsantre)"
+      ],
+      "applications": [
+        "Birincil kalay eritme ve kurşunsuz elektronik lehim üretimi",
+        "Teneke kutu gıda sınıfı çelik kaplama ve kimyasal stabilizatörler",
+        "Bronz, babbitt yatak metali ve özel endüstriyel alaşımlar"
+      ]
+    },
+    "coltan": {
+      "name": "Kolumbit ve Tantalit (Koltan)",
+      "subtitle": "Yüksek Ta₂O₅ / Nb₂O₅ Oranlı Konsantreler",
+      "grade": "Yüksek Ta₂O₅ / Nb₂O₅ Analizi",
+      "moq": "1 × 20ft Konteyner (20 MT) / İncelemeye Bağlı Hava Kargo Partisi",
+      "origin": "Kuzey-Orta Pegmatit Kuşağı, Nijerya",
+      "leadTime": "Gümrükleme dahil 10 – 18 iş günü",
+      "description": "Elektronik kapasitör üretimi, süper alaşımlar ve havacılık metalurjisi için işlenmiş, titiz radyasyon taraması ve elementel XRF/ICP analizleri eşliğinde sunulan yüksek yoğunluklu kolumbit-tantalit konsantreleri.",
+      "complianceNote": "Uluslararası taşıyıcı ve alıcı kurallarını karşılamak için her sevkiyat zorunlu radyolojik taramadan ve bağımsız laboratuvar doğrulamasından geçer.",
+      "forms": [
+        "Konsantre",
+        "Kırılmış Cevher",
+        "Tuvön Parça"
+      ],
+      "terms": [
+        "Ex-Works",
+        "FOB Lagos",
+        "CIF Talebi"
+      ],
+      "packagingOptions": [
+        "50 kg Astarlı Çelik Varil / Çift PP Çuval",
+        "1.000 kg Paletli FIBC Big Bag",
+        "Mühürlü İhracat Konteynerleri"
+      ],
+      "applications": [
+        "Yarı iletkenler ve 5G donanımları için tantal elektrolitik kapasitörler",
+        "Jet türbinleri ve havacılık yapıları için nikel-niyobyum süper alaşımları",
+        "Yüksek mukavemetli mikro alaşımlı yapı çeliği üretimi"
+      ]
+    },
+    "lead-zinc": {
+      "name": "Kurşun ve Çinko Cevheri",
+      "subtitle": "Galen ve Sferalit Sülfür Konsantreleri",
+      "grade": "55%+ Pb / 50%+ Zn",
+      "moq": "30 Metrik Ton / 1 Damperli Kamyon",
+      "origin": "Benue Çöküntüsü Maden Koridoru, Nijerya",
+      "leadTime": "7 – 14 iş günü",
+      "description": "Nijerya'nın verimli Benue Çöküntüsü kuşağından temin edilen, eritme tesisleri, galvanizli çelik fabrikaları ve endüstriyel batarya üretimi için ayrıştırılmış yüksek tenörlü galen (kurşun sülfür) ve sferalit (çinko sülfür) cevherleri.",
+      "complianceNote": "Talep üzerine kurşun veya çinko baskınlığına göre ayrı ayrı sınıflandırılır, tam kantar ve yükleme öncesi analiz sertifikaları ile verilir.",
+      "forms": [
+        "Konsantre",
+        "Kırılmış Cevher",
+        "Tuvön Parça"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Şantiye Teslimi",
+        "FOB Lagos",
+        "FOB Port Harcourt"
+      ],
+      "packagingOptions": [
+        "1.000 kg İhracat Big Bag (FIBC)",
+        "50 kg Ağır Hizmet PP Çuval",
+        "Dökme 30T Damperli Kamyon Taşımacılığı (Yurtiçi)"
+      ],
+      "applications": [
+        "Endüstriyel kurşun-asit aküler ve radyasyon zırhlaması",
+        "Yapısal çelik koruması için sıcak daldırma çinko galvanizleme",
+        "Döküm alaşımları, pirinç metalurjisi ve çinko oksit kimyasalları"
+      ]
+    },
+    "iron": {
+      "name": "Demir Cevheri",
+      "subtitle": "Hematit ve Magnetit",
+      "grade": "60% – 65% Fe",
+      "moq": "30 Metrik Ton / 1 Damperli Kamyon",
+      "origin": "Kogi ve Niger Demir Cevheri Kuşağı, Nijerya",
+      "leadTime": "5 – 10 iş günü",
+      "description": "Yüksek fırın parça cevheri veya sinter tozu şeklinde kalibre edilmiş, yerli dökümhaneler, çimento fırınları ve ihracat çelik üretimi için tutarlı Fe tenörleri ve düşük zararlı empürite sunan yoğun hematit ve magnetit demir cevheri.",
+      "complianceNote": "Sertifikalı taş ocağı kantar fişleri ve laboratuvar Fe/gang elementer analizi ile tedarik edilir.",
+      "forms": [
+        "Kırılmış Parça Cevher (10–50mm)",
+        "İnce Malzeme (0–10mm)",
+        "Ham Cevher"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Şantiye Teslimi",
+        "FOB Port Harcourt"
+      ],
+      "packagingOptions": [
+        "Dökme 30T / 45T Körüklü Damperli Kamyonlar",
+        "1.000 kg / 1.500 kg Big Bag FIBC İhracat Torbaları",
+        "Konteynerli Dökme veya Dökme Yük Liman Saha İstifleme"
+      ],
+      "applications": [
+        "Entegre çelik üretimi, doğrudan indirgeme (DRI) ve haddehaneler",
+        "Portland çimentosu klinkeri demir düzeltici katkı maddesi",
+        "Ağır agrega balastı ve yüksek yoğunluklu beton ağırlıklandırması"
+      ]
+    },
+    "limestone": {
+      "name": "Kireçtaşı ve Mermer Agregaları",
+      "subtitle": "Yüksek Kalsiyum Karbonatlı Taş",
+      "grade": "> 92% CaCO₃",
+      "moq": "30 Metrik Ton / 1 Damperli Kamyon",
+      "origin": "F.C.T. / Kogi / Edo Kireçtaşı Kuşağı, Nijerya",
+      "leadTime": "3 – 7 iş günü",
+      "description": "Klinker çimento üretimi, sönmüş kireç üretimi, baca gazı kükürt giderme ve prestijli ticari taş kaplama için çıkarılan yüksek saflıkta tortul kireçtaşı ve mimari mermer blokları.",
+      "complianceNote": "Abuja ve ülke genelindeki çimento fabrikalarının continuous beslenmesi ve ticari bina müteahhitleri için özel olarak tasarlanmış dökme sevkiyat programları.",
+      "forms": [
+        "Kırma Agrega",
+        "Ebatlı Bloklar",
+        "Öğütülmüş Toz (CaCO₃)"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Şantiye Teslimi",
+        "FOB Lagos"
+      ],
+      "packagingOptions": [
+        "Dökme 30T Damperli Kamyon Teslimatı",
+        "1.000 kg Big Bag (Kırılmış / Mikronize Toz)",
+        "Ham Taş Ocağı Mermer Blokları (Sal Kasa Nakliye)"
+      ],
+      "applications": [
+        "Çimento klinker üretimi ve sönmemiş / sönmüş kireç fırınları",
+        "Kalsiyum karbonat endüstriyel dolgusu (boya, PVC, kağıt, tarım)",
+        "Mimari mermer kaplama, döşeme ve altyapı taşı"
+      ]
+    },
+    "aggregates": {
+      "name": "Granit Agregaları, Laterit ve Dere Kumu",
+      "subtitle": "İnşaat İşleri Taş Ocağı ve Hafriyat Tedariki",
+      "grade": "BS / NIS Taş Ocağı Spesifikasyonu",
+      "moq": "1 Damperli Kamyon (20 – 30 Metrik Ton)",
+      "origin": "F.C.T. Abuja ve Nasarawa Taş Ocağı Koridoru",
+      "leadTime": "F.C.T. Abuja ve çevresinde 24 – 72 saat",
+      "description": "Doğrudan Gargati nakliye filosu tarafından inşaat mühendisliği, köprü, konut projesi ve yol şantiyelerine sevk edilen elenmiş magmatik kırma granit agregaları, sıkıştırılmış derece yol lateriti ve yıkanmış dere kumu.",
+      "complianceNote": "Kesintisiz çoklu kamyon şantiye programları ve müteahhit kredi/kabul süreçleri için Gargati'nin aktif Abuja filosu tarafından desteklenmektedir.",
+      "forms": [
+        "1/2\" Granit",
+        "3/4\" Granit",
+        "Taş Tozu",
+        "Yol Temel Lateriti",
+        "Yıkanmış Dere Kumu"
+      ],
+      "terms": [
+        "Şantiye Teslimi",
+        "Ex-Works"
+      ],
+      "packagingOptions": [
+        "20 Tonluk / 30 Tonluk Hidrolik Damperli Kamyonlar (Şantiyeye Boşaltma)",
+        "Programlı Günlük Çoklu Kamyon Müteahhit Sevkiyatı",
+        "Müşteri Nakliyesi İçin Taş Ocağından Doğrudan Yükleme"
+      ],
+      "applications": [
+        "Yapısal beton santrali karışımları (köprüler, gökdelenler, temeller)",
+        "Asfalt aşınma tabakası, karayolu alt temeli ve drenaj stabilizasyonu",
+        "Abuja F.C.T. genelindeki konut ve sanayi sitesi altyapı işleri"
+      ]
+    }
+  },
+  "specModal": {
+    "inspectTexture": "Ham Dokuyu İnceleyin",
+    "purityLabel": "SAFLIK / ANALİZ",
+    "originLabel": "MENŞEİ KUŞAĞI",
+    "tabCommercial": "Ticari ve Lojistik",
+    "tabTechnical": "Fiziksel ve Kimyasal",
+    "tabPackaging": "Paketleme ve İhracat",
+    "moqLabel": "Minimum Sipariş (MOQ)",
+    "termsLabel": "Teslimat Koşulları",
+    "leadTimeLabel": "Sevkiyat Teslim Süresi",
+    "applicationsHeading": "Birincil Endüstriyel Uygulamalar",
+    "physicalHeading": "Fiziksel Parametreler",
+    "chemicalHeading": "Kimyasal ve Analiz Aralığı",
+    "packagingHeading": "Mevcut Paketleme ve Nakliye Formatları",
+    "packagingDisclaimer": "Yükleme öncesi konteyner dolum gözetimi, seri numaralı tartı fişleri ve üçüncü taraf şahit numune alma işlemleri Lokogoma-Abuja satın alma masamız aracılığıyla ayarlanabilir.",
+    "preferredFormHeading": "Teklif İçin Tercih Edilen Formu Seçin",
+    "addAndOpen": "Ekle ve Sipariş Çekmecesini Aç",
+    "updateAndOpen": "Formu Güncelle ve Sipariş Çekmecesini Aç",
+    "requestAssay": "Analiz Raporu İste",
+    "lightboxTitleSuffix": "Doku İncelemesi",
+    "resetZoom": "1.0× Sıfırla",
+    "macroZoom": "1.75× Makro Yakınlaştırma"
+  },
+  "drawer": {
+    "eyebrow": "B2B Satın Alma ve RFQ Masası",
+    "titleBuilder": "Satın Alma Sipariş Listesi",
+    "titleProforma": "Resmi Sipariş Proforması",
+    "readyBannerTitle": "RFQ Hazırlandı — Referans",
+    "readyBannerBody": "Hazırlanan proformanızı WhatsApp, resmi e-posta aracılığıyla doğrudan Lokogoma-Abuja masamıza gönderin veya resmi PDF olarak kaydedin/yazdırın.",
+    "proformaTag": "PROFORMA RFQ ÖZETİ",
+    "preparedFor": "HAZIRLANAN MÜŞTERİ",
+    "attnLabel": "Dikkatine:",
+    "deliverySchedule": "TESLİMAT PROGRAMI",
+    "targetDateLabel": "Hedef Tarih:",
+    "toBeScheduled": "Planlanacak",
+    "validityNote": "Geçerlilik: 14 Gün · Parti Analizine Bağlıdır",
+    "colCommodity": "Emtia",
+    "colFormTerms": "Form / Koşullar",
+    "colQuantity": "Miktar",
+    "buyerNotesLabel": "Alıcı Notları:",
+    "btnWhatsApp": "WhatsApp ile Gönder",
+    "btnEmail": "E-posta",
+    "btnPrint": "PDF Proformayı Yazdır / Kaydet",
+    "btnCopy": "Sipariş Özetini Kopyala",
+    "btnCopied": "RFQ Özeti Kopyalandı",
+    "btnEditOrder": "Miktarları veya Detayları Düzenle",
+    "btnClearReset": "Temizle ve Yeni Talebe Başla",
+    "quickAddLabel": "+ Bu Siparişe Hızlı Emtia Ekle",
+    "moreResources": "Daha fazla kaynak...",
+    "emptyTitle": "Satın alma listeniz şu anda boş",
+    "emptySubtitle": "Tonaj, tenör ve teslimat koşullarını yapılandırmak için yukarıdan herhangi bir emtia seçin veya tüm kataloğa göz atın.",
+    "browseCatalog": "Maden Kataloğuna Göz Atın",
+    "qtyLabel": "Gerekli Miktar *",
+    "unitLabel": "Birim",
+    "preferredFormLabel": "Tercih Edilen Tenör / Form",
+    "preferredTermsLabel": "Tercih Edilen Teslimat Koşulları",
+    "buyerSectionEyebrow": "Alıcı ve Lojistik Detayları",
+    "buyerSectionTitle": "Proforma Oluştur ve RFQ Gönder",
+    "fieldCompany": "Şirket / Kurum *",
+    "placeholderCompany": "Kayıtlı alıcı firma",
+    "fieldContact": "İletişim Kişisi *",
+    "placeholderContact": "Ad Soyad ve Ünvan",
+    "fieldPhone": "Telefon / WhatsApp *",
+    "placeholderPhone": "+234 809 ...",
+    "fieldEmail": "Resmi E-posta *",
+    "placeholderEmail": "satinalma@sirket.com",
+    "fieldDestination": "Teslimat Varış Yeri *",
+    "destinations": [
+      "Abuja F.C.T.",
+      "Lagos Port (Apapa / Tin Can)",
+      "Port Harcourt / Onne Port",
+      "Kano",
+      "Özel Şantiye Adresi"
+    ],
+    "fieldTargetDate": "Hedef Teslimat Tarihi",
+    "fieldCustomAddress": "Özel Teslimat Şantiyesi veya Liman Adresi *",
+    "placeholderCustomAddress": "Tam şantiye konumunu, sanayi sahasını veya ihracat limanını girin",
+    "fieldNotes": "Özel Analiz, Paketleme veya Lojistik Notları",
+    "placeholderNotes": "Gerekli SGS/Intertek yükleme öncesi analizini, 1MT big bag veya dökme damper durumunu ya da denetim programını belirtin...",
+    "btnSubmit": "RFQ Gönder ve Resmi Proforma Oluştur",
+    "btnSubmitting": "Resmi Proforma Oluşturuluyor...",
+    "btnQuickWhatsApp": "Hızlı WhatsApp Gönderimi",
+    "btnDirectEmail": "Doğrudan E-posta Gönderimi",
+    "privacyNote": "Doğrudan kurumsal işlem yürüten:",
+    "units": [
+      "Metrik Ton (MT)",
+      "30T Damperli Kamyon",
+      "20ft Konteyner",
+      "1MT Big Bag"
+    ]
+  },
+  "engineering": {
+    "eyebrow": "02 / Mühendislik ve İnşaat Kapasiteleri",
+    "headingPart1": "Ağır Altyapı Teslimatı ve ",
+    "headingAccent": "Maden Mühendisliği Uygulaması.",
+    "intro": "Ham maden çıkarımının ötesinde, Abuja mühendislik bölümümüz tek bir sorumlu kurumsal yetki altında karmaşık toprak işleri, güçlendirilmiş altyapı yapıları, taş ocağı nakliye filoları ve jeolojik arama işlerini yürütmektedir.",
+    "bannerBadge": "ANAHTAR TESLİM SAHA MOBİLİZASYONU",
+    "bannerTitle": "Açık Ocak Kazısından İnşaat Teslimine Kadar Tek Ortak Sorumluluğu.",
+    "bannerBody": "Bakanlıklar ve ticari geliştiriciler, taş ocağı agregalarımızı, toprak hareketli ekipmanlarımızı ve lisanslı inşaat mühendislerimizi entegre ederek tedarikçi gecikmelerini ve malzeme kalitesi darboğazlarını ortadan kaldırır.",
+    "btnSubmitBrief": "Mühendislik Özeti Gönder",
+    "btnViewCorridors": "Tedarik Koridorlarını Görüntüle",
+    "pauseVideo": "Saha Görüntüsünü Duraklat",
+    "playVideo": "Saha Görüntüsünü Oynat",
+    "divisionLabel": "Bölüm",
+    "requestProposal": "Teklif İste",
+    "capabilities": [
+      {
+        "id": "mine-development",
+        "title": "Maden Sahası Geliştirme ve Kazı",
+        "subtitle": "Açık Ocak Hafriyat ve Taş Ocağı Operasyonları",
+        "description": "Güvenli ve yüksek verimli katı maden çıkarımı için tasarlanmış uçtan uca saha açma, nakliye yolu oluşturma, sistematik basamaklandırma ve kontrollü örtü kazısı.",
+        "deliverables": [
+          "Açık ocak basamak tasarımı ve dekapaj (örtü kazısı)",
+          "Nakliye erişim yolu tesviyesi ve yağmur suyu drenajı",
+          "Birincil cevher ayıklama, kırma sahaları ve stok yönetimi",
+          "Kademeli ocak rehabilitasyonu ve saha güvenlik çiti"
+        ],
+        "equipmentOrMethodology": "30T–45T Hidrolik Ekskavatörler · Dozerler · Körüklü Damperli Kamyonlar"
+      },
+      {
+        "id": "civil-construction",
+        "title": "İnşaat ve Yapısal İnşaat",
+        "subtitle": "Altyapı, Sanayi ve Konut Proje İşleri",
+        "description": "Nijerya genelinde anahtar teslim inşaat mühendisliği—betonarme yapılar, drenaj ağları, endüstriyel depolar ve ticari konut altyapısı sunmaktadır.",
+        "deliverables": [
+          "Betonarme köprüler, menfezler ve istinat duvarları",
+          "Endüstriyel depolar, kantar temelleri ve işleme hangarları",
+          "Ticari ve konut sitesi yol ağları ve yağmur suyu drenajları",
+          "Kalite testleri yapılmış agrega, beton ve asfalt kaplama uygulaması"
+        ],
+        "equipmentOrMethodology": "BS / NIS Yapısal Standartları · QA/QC Malzeme Testi · Anahtar Teslim Süpervizörlük"
+      },
+      {
+        "id": "equipment-haulage",
+        "title": "Ağır Ekipman Kiralama ve Nakliye",
+        "subtitle": "Hafriyat Filosu ve Toptan Maden Lojistiği",
+        "description": "Uzak madencilik kuşaklarını şantiyelere ve ihracat limanlarına bağlayan operatörlü ağır iş makinelerinin, mobil kırma hatlarının ve dökme maden nakliye kamyonlarının güvenilir bir şekilde konuşlandırılması.",
+        "deliverables": [
+          "Sözleşmeli paletli ekskavatörler, dozerler ve yükleyiciler",
+          "Körüklü damperli kamyonlar ve 30T–45T damperli nakliye filoları",
+          "Mobil çeneli/konik kırma ve çok katlı eleme tesisi mobilizasyonu",
+          "Madenden limana konteynerli ve dökme ihracat kamyonu koridorları"
+        ],
+        "equipmentOrMethodology": "Önleyici Bakım Desteği · Eğitimli Operatörler · GPS İrsaliye Takibi"
+      },
+      {
+        "id": "geological-survey",
+        "title": "Jeolojik Etüt ve Maden Arama",
+        "subtitle": "Kaynak Sınırlandırması, Numune Alma ve Uyum",
+        "description": "Madencilik yatırımlarının riskini azaltan teknik saha değerlendirmesi, karotlu/RC sondaj koordinasyonu, temsilci cevher numunesi alma ve çevresel karot çalışmaları.",
+        "deliverables": [
+          "Jeolojik haritalama, hendek açma ve şerit numune alma",
+          "Karotlu sondaj denetimi ve karot sandığı arşivlemesi",
+          "Ön kaynak tahmini ve tenör kontrol planlaması",
+          "Çevresel Etki Değerlendirmesi (ÇED) ve uyum raporlaması"
+        ],
+        "equipmentOrMethodology": "Karot Loglama · Bağımsız Laboratuvar Gözetim Zinciri · Resmi Başvuru Desteği"
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "03 / Operasyonel Koridorlar ve Uygulama İş Akışı",
+    "headingPart1": "Madenden Şantiyeye Lojistik ve ",
+    "headingAccent": "Nijerya Tedarik Koridorları.",
+    "intro": "Nijerya'nın birincil katı maden kuşakları ve kentsel inşaat merkezleri arasında koordineli çıkarım, kantar kontrolü, laboratuvar analiz doğrulaması ve doğrudan nakliye.",
+    "inquireSchedule": "Parti Takvimini Sorun",
+    "stagingBadge": "ANALİZ GÖZETİMİ VE İHRACAT İSTİFLEME",
+    "stagingCaption": "Karot numune arşivleme, 1MT FIBC big bag paketleme ve seri numaralı konteyner yükleme.",
+    "protocolEyebrow": "Tedarik Uygulama Protokolü",
+    "protocolTitle": "Dört Aşamalı Parti Doğrulama ve Teslimat Akışı",
+    "btnStartOrder": "Toptan Sipariş Başlat",
+    "surveyorNotice": "Alıcı tarafından atanan gözetmenler (SGS, Intertek, Alfred H Knight) maden stok sahasında veya liman istif sahalarında şahit numune alma için memnuniyetle karşılanır.",
+    "corridors": [
+      {
+        "id": "nasarawa-kogi-corridor",
+        "vertical": "Kritik ve Endüstriyel Madenler",
+        "title": "Kuzey-Orta Pegmatit ve Demir Cevheri Tedarik Zinciri",
+        "corridor": "Nasarawa · Kogi · Plateau Belts",
+        "summary": "Yerli eritme tesisleri ve Lagos/Port Harcourt ihracat terminallerine gidecek lityum (spodumen/lepidolit), kassiterit kalay, koltan ve 60–65% Fe demir cevheri partileri için koordineli tedarik, boyutlandırma ve big bag istifleme.",
+        "scopeTags": [
+          "Sevkiyat Öncesi Analiz",
+          "1MT Big Bag Paketleme",
+          "Liman Nakliyesi"
+        ]
+      },
+      {
+        "id": "abuja-civil-supply",
+        "vertical": "İnşaat ve Taş Ocağı Lojistiği",
+        "title": "F.C.T. Abuja Beton Agregaları ve Yol Temel Filosu",
+        "corridor": "Lokogoma · Lugbe · Abuja Environs",
+        "summary": "1/2\" ve 3/4\" granit, taş tozu, yıkanmış dere kumu ve sıkıştırılmış derece lateriti doğrudan karayolu müteahhitlerine, beton santrallerine ve konut geliştiricilerine teslim eden yüksek frekanslı damperli kamyon filosu.",
+        "scopeTags": [
+          "24–72 Saat Şantiye Sevkiyatı",
+          "30T Damperli Kamyonlar",
+          "Kantar Fişleri"
+        ]
+      },
+      {
+        "id": "benue-sulfides",
+        "vertical": "Temel Metal Alımı",
+        "title": "Benue Çöküntüsü Galen ve Sferalit Konsolidasyonu",
+        "corridor": "Benue Trough → Onne / Apapa Ports",
+        "summary": "Konteyner dolumundan önce parti ayrıştırma, nem izleme ve bağımsız XRF denetimi ile kurşun sülfür (PbS) ve çinko sülfür (ZnS) konsantrelerinin yapılandırılmış dökme konsolidasyonu.",
+        "scopeTags": [
+          "55%+ Pb / 50%+ Zn",
+          "Konteyner Yükleme",
+          "NEPC İhracata Hazır"
+        ]
+      },
+      {
+        "id": "turnkey-civil",
+        "vertical": "Mühendislik ve Hafriyat",
+        "title": "Entegre Saha Hazırlığı, Drenaj ve Sanayi Sahaları",
+        "corridor": "F.C.T. Abuja & Pan-Nigeria Sites",
+        "summary": "Tek bir sorumlu kurumsal yetki altında yürütülen birleşik ağır hafriyat, alt temel sıkıştırma, betonarme drenaj işleri ve taş ocağından doğrudan malzeme tedariki.",
+        "scopeTags": [
+          "Kazı ve Tesviye",
+          "Beton İşleri",
+          "Tek Noktadan Sorumluluk"
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "step": "01",
+        "title": "Spesifikasyon ve Kapsam Hizalaması",
+        "detail": "Alıcılar hedef tonajı, kimyasal tenör eşiklerini, teslimat varış yerini ve Incoterms şartlarını Satın Alma Masamız veya mühendislik özeti aracılığıyla sunar."
+      },
+      {
+        "step": "02",
+        "title": "Bağımsız Laboratuvar Analizi ve Ruhsat Kontrolü",
+        "detail": "Resmi taahhütten önce akredite laboratuvar analizi, nem doğrulaması ve maden menşei belgelendirmesi için parti numuneleri alınır."
+      },
+      {
+        "step": "03",
+        "title": "İşleme, Kalibrasyon ve Paketleme",
+        "detail": "Cevherler kırılır, yıkanır veya seri numaralı 1MT FIBC big bag'lere, 50kg PP çuvallara, güvenlik varillerine veya kalibre edilmiş damperli kamyon yüklerine paketlenir."
+      },
+      {
+        "step": "04",
+        "title": "Madenden Şantiyeye ve Liman İhracat Sevkiyatı",
+        "detail": "Koordineli nakliye, Nijerya genelindeki proje sahalarına veya Lagos (Apapa/Tin Can) ve Port Harcourt'taki ihracat terminallerine doğrudan teslimat sağlar."
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "04 / Kurumsal Yönetim ve Uyum",
+    "headingPart1": "Mevzuat Güvenilirliği ve ",
+    "headingAccent": "Doğrulanmış Nijerya Şirket Kaydı.",
+    "narrativeSuffix": " uluslararası alıcılara, inşaat müteahhitlerine ve devlet bakanlıklarına şeffaf, izlenebilir bir muhatap sunarak Nijerya kurumsal yönetimine, maden ruhsatı doğrulamasına ve ihracat hazırlığına sıkı bir şekilde bağlı kalarak faaliyet gösterir.",
+    "pillars": [
+      {
+        "code": "CAC-REG",
+        "title": "Corporate Affairs Commission Incorporated",
+        "detail": "Registered under the Companies and Allied Matters Act as RC No.: 9963225."
+      },
+      {
+        "code": "MMSD-STD",
+        "title": "Federal Katı Madenler Bakanlığı Hizalaması",
+        "detail": "Ruhsatlı taş ocağı, kiralama ve maden ruhsatı belgelendirme protokolleri ile uyumlu tedarik."
+      },
+      {
+        "code": "NEPC-EXP",
+        "title": "İhracata Hazırlık ve Bağımsız Analiz Gözetimi",
+        "detail": "Partiye özel laboratuvar analizi, uygun durumlarda radyasyon taraması ve ihracat paketlemesi."
+      }
+    ],
+    "dossierBadge": "DOĞRULANMIŞ KURUMSAL DOSYA",
+    "dossierSubtitle": "Aktif Nijerya Madencilik, Mühendislik ve Altyapı İşletmesi",
+    "labelCac": "CAC Kaydı",
+    "labelAddress": "Genel Merkez Adresi",
+    "labelLines": "Doğrudan Hatlar",
+    "labelEmail": "Resmi E-posta",
+    "labelVerticals": "Ana Faaliyet Alanları",
+    "verticalsShort": "Madencilik · İnşaat Mühendisliği · Altyapı · Toptan Tedarik",
+    "btnOpenRfq": "Toptan Sipariş / RFQ Aç",
+    "btnRequestPack": "Uyum Paketini İste"
+  },
+  "contact": {
+    "eyebrow": "05 / Satın Alma, Analiz ve Mühendislik Masası",
+    "headingPart1": "Abuja Operasyon Ekibimizle ",
+    "headingAccent": "Doğrudan İletişime Geçin.",
+    "intro": "Laboratuvar analiz raporları, inşaat mühendisliği ihaleleri, ağır ekipman mobilizasyonu veya alım takvimleri için kurumsal bir talep gönderin.",
+    "successTitle": "Talep Kaydedildi ve Sevkiyat İçin Biçimlendirildi",
+    "successBody": "Abuja mühendislik ve emtia ekibimiz tarafından öncelikli olarak incelenmesi için aşağıdaki WhatsApp veya resmi e-posta istemciniz aracılığıyla masamıza hemen gönderin.",
+    "btnDispatchWhatsApp": "WhatsApp ile Gönder",
+    "btnOpenEmail": "E-postada Aç",
+    "btnSendAnother": "Başka Bir Kurumsal Talep Gönder",
+    "fieldCategory": "Talep Departmanı / Kategorisi",
+    "inquiryTypes": [
+      "Toptan Maden Alımı",
+      "Laboratuvar Analiz Raporu Talebi",
+      "Mühendislik ve İnşaat İhalesi",
+      "Ağır Ekipman Kiralama",
+      "Genel Kurumsal Talep"
+    ],
+    "fieldCompany": "Şirket / Bakanlık Adı *",
+    "placeholderCompany": "Kurum adı",
+    "fieldContact": "İletişim Kişisi *",
+    "placeholderContact": "Ad Soyad",
+    "fieldPhone": "Telefon / WhatsApp *",
+    "placeholderPhone": "+234 809 ...",
+    "fieldEmail": "Resmi E-posta *",
+    "placeholderEmail": "isim@kurum.com",
+    "fieldSubject": "Konu *",
+    "placeholderSubject": "ör., Lityum Cevheri (Spodumen) İçin Analiz Raporu Talebi",
+    "fieldMessage": "Teknik Kapsam / Talep Detayları *",
+    "placeholderMessage": "Gerekli tonajı, proje sahası konumunu, teknik özellik hedeflerini veya mühendislik ihalesi kapsamını belirtin...",
+    "btnSubmit": "Kurumsal Talebi Gönder",
+    "btnSubmitting": "Kurumsal Talep Hazırlanıyor...",
+    "headOfficeBadge": "KURUMSAL GENEL MERKEZ",
+    "workingHours": "Pazartesi – Cuma · 08:00 – 17:00 WAT (Cumartesi Saha Sevkiyatı Randevu İle)",
+    "btnOpenMaps": "Google Maps'te Aç",
+    "channelsBadge": "DOĞRUDAN YÖNETİCİ KANALLARI",
+    "primaryLineLabel": "Birincil Satın Alma Masası",
+    "secondaryLineLabel": "Mühendislik ve Lojistik Hattı",
+    "emailLabel": "Resmi Kurumsal E-posta"
+  },
+  "footer": {
+    "verifiedRegistration": "Doğrulanmış Kurumsal Kayıt",
+    "mission": "Laboratuvar onaylı Nijerya katı madenlerini, taş ocağı agregalarını, ağır ekipman nakliyesini ve inşaat mühendisliği altyapısını F.C.T. Abuja'dan dünya çapındaki endüstriyel alıcılara ulaştırıyoruz.",
+    "colPortal": "Kurumsal Portal",
+    "colProcurement": "Satın Alma Masası",
+    "colHeadOffice": "Genel Merkez ve Doğrudan Hatlar",
+    "linkOpenRfq": "Toptan Sipariş / RFQ Çekmecesini Aç",
+    "linkRequestAssay": "Laboratuvar Analiz Raporu İste",
+    "linkSubmitTender": "Mühendislik / İnşaat İhalesi Gönder",
+    "linkWhatsApp": "WhatsApp Masası",
+    "backToTop": "Yukarı dön"
+  },
+  "toast": {
+    "addedSuffix": "RFQ listesine eklendi",
+    "readySubtitle": "Tonaj ve teslimat koşulları için hazır",
+    "openRfqLabel": "RFQ Listesini Aç"
+  }
+}

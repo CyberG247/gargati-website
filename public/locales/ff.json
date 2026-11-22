@@ -1,0 +1,673 @@
+{
+  "switcher": {
+    "buttonLabel": "Ɗemngal",
+    "modalTitle": "Suɓol Ɗemngal",
+    "modalSubtitle": "Waylutu portal gollorde & deftere kaaye marmar e ɗemɗe 25 ɗe Naajeeriya e duuniyaaru.",
+    "searchPlaceholder": "Ɗaɓɓitu ɗemngal (e.g. Sinsina, Turkeere, Aarabiire, Hawsare, Yorubare, Igbore, Kanuri, Fulfulde...)",
+    "noMatches": "Alaa ɗemngal hawritungal yiytaa.",
+    "groupNigerian": "Ɗemɗe Naajeeriya",
+    "groupGlobal": "Njulaaku & Export Duuniyaaru",
+    "groupMore": "Ɗemɗe Duuniyaaru Goɗɗe",
+    "instantBadge": "Jaawngal",
+    "aiBadge": "AI Yaawi",
+    "rtlBadge": "RTL",
+    "translatingStatus": "Ɗon wayloo binndi portal...",
+    "errorFallback": "Waylaade yaawi heɓataako joni. Emin hollitol binndi Inghilisere.",
+    "legalNotice": "Binndital CAC laamu, formulas kemikal, e lamboji heftirdam majjum ɗon lutta e Inghilisere."
+  },
+  "nav": {
+    "topLocation": "Lokogoma District, F.C.T., Abuja · Dokkal nder Naajeeriya & Export",
+    "home": "Dammugal",
+    "about": "Fiiji Amin & Dookaaji",
+    "catalog": "Kaaye Marmar",
+    "engineering": "Injinariŋ",
+    "projects": "Kuugal",
+    "contact": "Jokkondiral",
+    "orderRfq": "Ɗaɓɓol / RFQ",
+    "requestBulkQuote": "Ɗaɓɓitu Coodgu Mawngu",
+    "openRfqList": "Maɓɓitu Maŋgasiin RFQ",
+    "callPrefix": "Noddu"
+  },
+  "hero": {
+    "eyebrow": "Kaaye Marmar · Injinariŋ Mawɗo · Cuuɗi e Laabi",
+    "headlinePart1": "Bokkilgol Kaaye Marmar Hakkiilo & ",
+    "headlineAccent": "Injinariŋ e Mahdi Mawndi",
+    "headlinePart2": " nder Naajeeriya Fuu.",
+    "subheadlinePrefix": "Gila e ƴettugol kaaye lesdi tabitinaaɗe haa e mahngo laabi e ponti mawɗi, ",
+    "subheadlineSuffix": " ɗon tottire geɗe mbooɗɗe e golle injinariŋ heblanaaɗe gila F.C.T. Abuja haa luumooji duuniyaaru.",
+    "ctaExplore": "Yi'u Kaaye Marmar",
+    "ctaContact": "Jokkondiru e Tabitinooɓe Coodgu",
+    "ctaOpenRfq": "Maɓɓitu RFQ Coodgu Mawngu",
+    "deskEyebrow": "OFIS MAWƊO",
+    "deskTitle": "Kuugal Kaaye Marmar & Mahdi Dereke",
+    "statStatus": "Darnde Kampani",
+    "statPortfolio": "Limto Kaaye Marmar",
+    "statPortfolioValue": "Kaaye Tabitinaaɗe 8",
+    "statHeadOffice": "Wuro Offis Mawɗo",
+    "statHeadOfficeValue": "Lokogoma, F.C.T. Abuja",
+    "statChannels": "Laabi Dawaadgol",
+    "statChannelsValue": "Motaaji Tippers · 20ft FCL · Woorooje Export FOB",
+    "ctaBuildRfq": "Mah RFQ Coodgu Mawngu",
+    "trustCacTitle": "Fiɓnde Binndital CAC",
+    "trustAbujaTitle": "Golle Lokogoma-Abuja",
+    "trustAbujaSub": "Ofis Mawɗo & Neldugol F.C.T.",
+    "trustAssayTitle": "Bate Tabitinaaɗe Laboratori",
+    "trustAssaySub": "Fiɓnde Laboratori Ɓataŋkeere",
+    "trustLogisticsTitle": "Njillu Bayeeji haa Nokku Kuugal",
+    "trustLogisticsSub": "Konu Tippers & Tashiji Export",
+    "coreVerticalsLabel": "Golle Mawɗe",
+    "verticals": [
+      "Asgol e Feewnugol Kaaye Marmar",
+      "Injinariŋ Mahdi e Kuugolaaji Mawɗi",
+      "Mahngo Laabi e Cuuɗi",
+      "Dokkal Kaaye Marmar no Heewi"
+    ]
+  },
+  "catalog": {
+    "eyebrow": "01 / Deftere Kaaye Marmar e Kuugal Bayeeji",
+    "headingPart1": "Geɗe Tabitinaaɗe Laboratori Yahrata e ",
+    "headingAccent": "Industri e Mahdi Duuniyaaru.",
+    "intro": "Ƴeewto bate tabitinaaɗe, ƴeewto no geɗe ɗen ngoodiri, nden moobtu ɗaɓɓitaande coodgu kaaye marmar keewɗe ngam neldugol gila Abuja walla export har woorooje.",
+    "requestSchedule": "Ɗaɓɓitu Limto Geɗe Ɗe Ngoodi Jonia",
+    "categories": {
+      "all": "Kaaye Marmar Fuu",
+      "battery": "Batteri e Geɗe Caɗtuɗe",
+      "precious": "Jamɗe Mawɗe",
+      "industrial": "Sareji Industri",
+      "construction": "Mahdi e Bayeeji"
+    },
+    "searchPlaceholder": "Ɗaɓɓitu kaaye, formula, kuutorgal...",
+    "rfqListLabel": "Limto RFQ",
+    "emptyTitle": "Alaa kaaye marmar hawritiiɗe e ɗaɓɓitaande ma",
+    "emptySubtitle": "Mitu ko ɗaɓɓitotoɗaa walla ƴeewtu kaaye marmar Naajeeriya tabitinaaɗe ɗe 8 fuu.",
+    "resetFilters": "Wartiru Suɓooji Deftere",
+    "gradeLabel": "Bate Laboratori / Moƴƴere",
+    "formsLabel": "Sifaaji",
+    "moqLabel": "MOQ (Tokkosal Ɗaɓɓitaangal)",
+    "originLabel": "Asli Nokku",
+    "termsLabel": "Sarɗiiji",
+    "viewFullSpecs": "Yi'u Bate Fuu",
+    "orderQuote": "Ɗaɓɓol / Coodgu",
+    "inRfqOrder": "Ɗon nder RFQ · Ɗaɓɓol",
+    "footerNote": "Bate kaaye marmar fuu e ɗon teenaa e jarribo laboratori heɓanɗo seedamfaagu (SGS / Intertek / Alfred H Knight) ko adii neldude.",
+    "assembleMultiOrder": "Moobtu Ɗaɓɓol Kaaye Keewɗe"
+  },
+  "minerals": {
+    "lithium": {
+      "name": "Sare Lithium",
+      "subtitle": "Spodumene & Lepidolite",
+      "grade": "4.5% – 6.2% Li₂O",
+      "moq": "30 Metric Tons / Mota Tipper 1",
+      "origin": "Nasarawa, Kogi & Kwara Pegmatite Belt, Naajeeriya",
+      "leadTime": "Balɗe golle 7 – 14 gila njiɓɗe tabitinaa",
+      "description": "Kaaye Spodumene e Lepidolite lithium ƴettaaɗe e nokkuuje pegmatite nder caka Naajeeriya, suɓaaɗe e heblanaa e sifaaji e ɗaɓɓitaande soodoowo ngam waɗugo lithium carbonate e hydroxide.",
+      "complianceNote": "Ɗon waddaa e seedamfaagu asli nokku, jarribo laboratori ko adii lelnugol, e ɗereji export dow dookaaji NEPC.",
+      "forms": [
+        "Kaaye Mawɗe",
+        "Tewaaɗe (0–50mm)",
+        "Feewnaaɗe"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Yottinaa Nokku Kuugal",
+        "FOB Lagos"
+      ],
+      "packagingOptions": [
+        "Mba’uuji Mawɗi FIBC 1,000 kg",
+        "Buhuuhaaji PP Export 50 kg",
+        "Neldugol e Motaaji Tippers (Nder Leysdi)"
+      ],
+      "applications": [
+        "Waɗugo batteri EV & feewnugol kemikal lithium",
+        "Geɗe seramik & alenaaji borosilicate dogooji hiite",
+        "Neebam gollorde e geɗe jamɗe caɗtuɗe"
+      ]
+    },
+    "gold": {
+      "name": "Sare Kange & Alluvial Concentrates",
+      "subtitle": "Kaaye Kange Tabitinaaɗe e Laboratori",
+      "grade": "Tabitinaanga e Laboratori (Assay-Certified)",
+      "moq": "Metric Ton 1 · E Bate Njiɓi",
+      "origin": "Caka e Woila-Woyla Schist Belt, Naajeeriya",
+      "leadTime": "E dow sahora neldugol heblanaangal",
+      "description": "Kaaye Kange ƴettaaɗe e kaaye quartz e alluvial golliraaɗe e hakkiilo mawngo dow dookaaji kisal, e seedamfaagu jarribo yiite (fire-assay) ko adii soddiye.",
+      "complianceNote": "Ɗon soodaa tan e jeyal jamɗe Naajeeriya laawɗiingal, binndi kisal, e seedamfaagu fire assay ɓataŋkeewal.",
+      "forms": [
+        "Quartz Sare Ndiru",
+        "Alluvial Concentrate",
+        "Gravity Concentrate"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Moobte e Resorde e Hakkiilo Kisal"
+      ],
+      "packagingOptions": [
+        "Konkooji Jamɗe Uddaaɗe e Kisal Mawngal",
+        "Boosaaji Kisal Lambaaji Mawɗi",
+        "Sendol Geɗe Jarribo ngam Fire Assay Ɓataŋkeewal"
+      ],
+      "applications": [
+        "Feewnugol kange e waɗugo kaalis kange laawɗuɗo",
+        "Masaanaaji feewnitooɗe kange",
+        "Laabi dokkal kange ngam resorde mawnde"
+      ]
+    },
+    "tin": {
+      "name": "Sare Tin",
+      "subtitle": "Cassiterite Concentrate (SnO₂)",
+      "grade": "65% – 72% Sn",
+      "moq": "30 Metric Tons / Konteena 1 × 20ft",
+      "origin": "Jos Plateau & Caka-Woila Tin Belt, Naajeeriya",
+      "leadTime": "Balɗe golle 7 – 12 e konteena fuu",
+      "description": "Sare Cassiterite ɓuuɓnaande e ƴettaande e nokkuuje Jos Plateau nder Naajeeriya, lootaande e wittaande e baawɗe maagnetik ngam heɓugo laaɓal ngal industri duuniyaaru ɗaɓɓita.",
+      "complianceNote": "Ɗon waddoo e seedamfaagu XRF/wet-chemistry tin e ɗereji seedamfaagu kisal radiation so konteena ɗon haɓɓaa.",
+      "forms": [
+        "Alluvial Concentrate",
+        "Sare Tewaaɗe",
+        "Lootaaɗe Seɗɗa-Seɗɗa"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Yottinaa Nokku Kuugal",
+        "FOB Lagos"
+      ],
+      "packagingOptions": [
+        "Buhuuhaaji PP 50 kg (20 MT / 20ft FCL)",
+        "Mba’uuji Mawɗi Export FIBC 1,000 kg",
+        "Konkooji Jamɗe Uddaaɗe (Sare Laaɓnde)"
+      ],
+      "applications": [
+        "Feewnugol tin & kuutorɗe eñol elektroniks ɗe ngalaa bee",
+        "Gartugol karfe nyaamdu e kemikal kisal",
+        "Waɗugo bronze e jamɗe gollorde caɗtuɗe"
+      ]
+    },
+    "coltan": {
+      "name": "Columbite & Tantalite (Coltan)",
+      "subtitle": "Sare Bate Dogooji ɗe Ta₂O₅ / Nb₂O₅ Ratio",
+      "grade": "Bate Dogooji ɗe Ta₂O₅ / Nb₂O₅",
+      "moq": "1 × 20ft Container (20 MT) / Neldugol Bee Piirowal e Ƴeewndo",
+      "origin": "Caka-Woila Pegmatite Belt, Naajeeriya",
+      "leadTime": "Balɗe golle 10 – 18 haa e heɓol ɗereji",
+      "description": "Sare Columbite-Tantalite feewnaande ngam waɗugo capacitors elektroniks, superalloys, e injinariŋ piirooji, yahrude e ƴeewndo radiation e bate XRF/ICP.",
+      "complianceNote": "Neldugol fuu ɗon rewa e ƴeewndo radiation dookaaji e jarribo laboratori ngam huutoraade dookaaji duuniyaaru.",
+      "forms": [
+        "Concentrate (Feewnaaɗe)",
+        "Sare Tewaaɗe",
+        "Kaaye Mawɗe"
+      ],
+      "terms": [
+        "Ex-Works",
+        "FOB Lagos",
+        "Ɗaɓɓitaande CIF"
+      ],
+      "packagingOptions": [
+        "Konkooji Jamɗe 50 kg / Buhuuhaaji PP",
+        "Mba’uuji Mawɗi FIBC 1,000 kg dow Pallets",
+        "Konteenaaji Export Uddaaɗe e Kisal"
+      ],
+      "applications": [
+        "Tantalum electrolytic capacitors ngam semiconductors e 5G",
+        "Nickel-niobium superalloys ngam turbines piirooji e mahdi",
+        "Feewnugol karfe structural steel teekngal"
+      ]
+    },
+    "lead-zinc": {
+      "name": "Sare Lead & Zinc",
+      "subtitle": "Galena & Sphalerite Sulfide Concentrates",
+      "grade": "55%+ Pb / 50%+ Zn",
+      "moq": "30 Metric Tons / Mota Tipper 1",
+      "origin": "Benue Trough Mineral Corridor, Naajeeriya",
+      "leadTime": "Balɗe golle 7 – 14",
+      "description": "Sare Galena (lead sulfide) e Sphalerite (zinc sulfide) moƴƴuɗe ƴettaaɗe e nokku Benue Trough nder Naajeeriya, sendaaɗe ngam jamɗe, karfe galvanizing, e waɗugo batteriiji industri.",
+      "complianceNote": "Ɗon sendee e maŋgasiin lead walla zinc ka ɗaɓɓitaa, e seedamfaagu kilo e jarribo laboratori ko adii neldude.",
+      "forms": [
+        "Concentrate (Feewnaaɗe)",
+        "Sare Tewaaɗe",
+        "Kaaye Mawɗe"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Yottinaa Nokku Kuugal",
+        "FOB Lagos",
+        "FOB Port Harcourt"
+      ],
+      "packagingOptions": [
+        "Mba’uuji Mawɗi Export FIBC 1,000 kg",
+        "Buhuuhaaji PP Teekɗi 50 kg",
+        "Dawaadgol e Tipper Mawɗo 30T (Nder Leysdi)"
+      ],
+      "applications": [
+        "Batteriiji lead-acid industri e huuro goɗɗum ngam kisal",
+        "Zinc galvanizing ngam reenugo karfe mahdi",
+        "Alloys die-casting, brass, e kemikal zinc oxide"
+      ]
+    },
+    "iron": {
+      "name": "Sare Jamɗe (Iron Ore)",
+      "subtitle": "Hematite & Magnetite",
+      "grade": "60% – 65% Fe",
+      "moq": "30 Metric Tons / Mota Tipper 1",
+      "origin": "Kogi & Niger Iron Ore Belt, Naajeeriya",
+      "leadTime": "Balɗe golle 5 – 10",
+      "description": "Hematite e Magnetite jamɗe teekɗe heblanaaɗe blast-furnace walla sinter fines, tottiraangel bate Fe tabitinaaɗe e gangue famɗuɗo ngam suuɗi jamɗe, kilns cement, e export.",
+      "complianceNote": "Ɗon waddaa e tikitiiji kilo bayeeji tabitinaaɗe e bate laboratori dow geɗe Fe/gangue.",
+      "forms": [
+        "Kaaye Tewaaɗe (10–50mm)",
+        "Seɗɗa-Seɗɗa (0–10mm)",
+        "Sare Ndiru"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Yottinaa Nokku Kuugal",
+        "FOB Port Harcourt"
+      ],
+      "packagingOptions": [
+        "Motaaji Dumps Articulated 30T / 45T",
+        "Mba’uuji FIBC Export 1,000 kg / 1,500 kg",
+        "Kuugol Konteenaaji walla Breakbulk woorooje"
+      ],
+      "applications": [
+        "Feewnugol karfe, direct reduction (DRI), e rolling mills",
+        "Additive peewnorgol Portland cement",
+        "Heavy aggregate ballast e teddinoore concrete teekɗum"
+      ]
+    },
+    "limestone": {
+      "name": "Limestone & Aggregates Marble",
+      "subtitle": "Kaaye Carbonate Calcium Dogooji",
+      "grade": "> 92% CaCO₃",
+      "moq": "30 Metric Tons / Mota Tipper 1",
+      "origin": "F.C.T. / Kogi / Edo Limestone Belt, Naajeeriya",
+      "leadTime": "Balɗe golle 3 – 7",
+      "description": "Limestone laaɓɗo e kaaye marble mahdi ƴettaaɗe ngam feewnugol cement clinker, hydrated lime, flue-gas desulfurization, e dewal mahdi mawndi.",
+      "complianceNote": "Sahora neldugol heblanaama ngam faktoriiji cement e kamfaaniiji mahdi nder Abuja e leydi fuu.",
+      "forms": [
+        "Kaaye Tewaaɗe (Aggregates)",
+        "Batuuuji Mahdi (Dimension Blocks)",
+        "Conndi Tewaaandi (CaCO₃)"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Yottinaa Nokku Kuugal",
+        "FOB Lagos"
+      ],
+      "packagingOptions": [
+        "Yottinorde e Tipper 30T",
+        "Mba’uuji Mawɗi 1,000 kg (Tewaaɗe / Conndi)",
+        "Batuuji Marble Bayeeji (Motaaji Flatbed)"
+      ],
+      "applications": [
+        "Feewnugol cement clinker e kilns quicklime / hydrated lime",
+        "Filler industrial calcium carbonate (fainti, PVC, ɗari, ndema)",
+        "Huurooji marble mahdi, leydi, e kaaye mahdi laabi"
+      ]
+    },
+    "aggregates": {
+      "name": "Granite Aggregates, Laterite & Lesdi Ndiru (Sharp Sand)",
+      "subtitle": "Geɗe Bayeeji & Kuugal Mahdi Laabi",
+      "grade": "Dookaaji Bayeeji BS / NIS",
+      "moq": "Mota Tipper 1 (20 – 30 Metric Tons)",
+      "origin": "F.C.T. Abuja & Nasarawa Quarry Corridor",
+      "leadTime": "Waktuuji 24 – 72 nder F.C.T. Abuja e saraaji mum",
+      "description": "Kaaye granite tewaaɗe, laterite teekɗum laabi, e lesdi ndiru lootaandi neldaaɗi bee motaaji Gargati haa nokkuuji injinariŋ, ponti, cuuɗi, e laabi.",
+      "complianceNote": "Engin wallitoo e motaaji Gargati ɗi ngoni e Abuja ngam dokkal yaawngal ngal meƴƴataako ngam mahooɓe.",
+      "forms": [
+        "1/2\" Granite",
+        "3/4\" Granite",
+        "Conndi Kaaye (Stone Dust)",
+        "Laterite Laabi (Road-Base)",
+        "Lesdi Ndiru Lootaandi (Washed Sharp Sand)"
+      ],
+      "terms": [
+        "Yottinaa Nokku Kuugal",
+        "Ex-Works"
+      ],
+      "packagingOptions": [
+        "Motaaji Tipper Hydraulic 20-Ton / 30-Ton (Lorkugo Nokku)",
+        "Sahora Neldugol Motaaji Keewɗe e Balɗe Ngam Mahooɓe",
+        "Looding e Bayeeji Direkt ngam Motaaji Coodoowo"
+      ],
+      "applications": [
+        "Waɗugo concrete teekɗum ngam mahdi (ponti, cuuɗi toowɗi, ɗaɗi)",
+        "Asphalt laabi, les sub-base laabi, e feewnugol ilooji ndiyam",
+        "Golle mahdi cuuɗi e babal gollorde nder F.C.T. Abuja"
+      ]
+    }
+  },
+  "specModal": {
+    "inspectTexture": "Ƴeewtu No Yaasi Maggal Wa’i",
+    "purityLabel": "LAAƁAL / BATE LABORATORI",
+    "originLabel": "NOKKU ASLI",
+    "tabCommercial": "Njulaaku & Dawaadgol",
+    "tabTechnical": "Sifaaji & Bate Kemikal",
+    "tabPackaging": "Mba’uuji & Export",
+    "moqLabel": "Tokkosal Ɗaɓɓitaangal (MOQ)",
+    "termsLabel": "Sarɗiiji Yottinorde",
+    "leadTimeLabel": "Waktu Neldugol",
+    "applicationsHeading": "Kuutorɗe Mawɗe nder Industri",
+    "physicalHeading": "Sifaaji Yaasi",
+    "chemicalHeading": "Bate Kemikal & Laboratori",
+    "packagingHeading": "Mba’uuji e Motaaji Dawaadgol",
+    "packagingDisclaimer": "Ƴeewndo looding konteena ko adii neldugol, ɗereji kilo lambaaji, e wosooɓe ɓataŋkeeɓe ɗon keɓoo e desk coodgu amin nder Lokogoma-Abuja.",
+    "preferredFormHeading": "Suɓu Sifa Kaaye Ngal Yiɗɗaa ngam Coodgu",
+    "addAndOpen": "Ɓeydu & Maɓɓitu Maŋgasiin Ɗaɓɓol",
+    "updateAndOpen": "Hesɗitin Sifa & Maɓɓitu Maŋgasiin Ɗaɓɓol",
+    "requestAssay": "Ɗaɓɓitu Rapport Laboratori",
+    "lightboxTitleSuffix": "Ƴeewndo Sifa Yaasi",
+    "resetZoom": "1.0× Wartir",
+    "macroZoom": "1.75× Mawnin Hakkiilo"
+  },
+  "drawer": {
+    "eyebrow": "Desk Coodi B2B & RFQ",
+    "titleBuilder": "Limto Ɗaɓɓol Coodgu",
+    "titleProforma": "Proforma Ɗaɓɓol Laawɗungol",
+    "readyBannerTitle": "RFQ Heblama — Lamba Heftirdam",
+    "readyBannerBody": "Neldu proforma ma direkt haa desk amin nder Lokogoma-Abuja bee WhatsApp, email laawɗuɗo, walla resu/wurtin ɗum no PDF laawɗuɗo.",
+    "proformaTag": "MANNGU PROFORMA RFQ",
+    "preparedFor": "HEBLANAAMA",
+    "attnLabel": "Haa e:",
+    "deliverySchedule": "SAHORA YOTTINORDE",
+    "targetDateLabel": "Ñalnde Yiɗaa:",
+    "toBeScheduled": "Ena lelanaa waktu",
+    "validityNote": "Balɗe Njiimaandi: Balɗe 14 · Bate Laboratori e Njiɓe",
+    "colCommodity": "Kaaye Marmar",
+    "colFormTerms": "Sifa / Sarɗiiji",
+    "colQuantity": "Manngu",
+    "buyerNotesLabel": "Binndi Coodoowo:",
+    "btnWhatsApp": "Neldu bee WhatsApp",
+    "btnEmail": "Email",
+    "btnCopied": "RFQs Manngu Koopaaɗo",
+    "btnPrint": "Wurtin / Resu PDF Proforma",
+    "btnCopy": "Kooftu Manngu Ɗaɓɓol",
+    "btnEditOrder": "Waylu Manngu walla Bate",
+    "btnClearReset": "Momtu & Fuɗɗu Ɗaɓɓol Hesal",
+    "quickAddLabel": "+ Yaaw-Ɓeydu Kaaye e Ɗaɓɓol Ngol",
+    "moreResources": "Kaaye goɗɗe...",
+    "emptyTitle": "Limto coodgu ma ɗon meere joni",
+    "emptySubtitle": "Suɓu kaaye marmar dow walla ƴeewtu deftere fuu ngam heblugo manngu tons, grade, e sarɗiiji yottinorde.",
+    "browseCatalog": "Ƴeewtu Deftere Kaaye Marmar",
+    "qtyLabel": "Manngu Ɗaɓɓitaangal *",
+    "unitLabel": "Etorgal",
+    "preferredFormLabel": "Moƴƴere / Sifa Yiɗaaɗo",
+    "preferredTermsLabel": "Sarɗiiji Yottinorde Yiɗaaɗe",
+    "buyerSectionEyebrow": "Bate Coodoowo & Dawaadgol",
+    "buyerSectionTitle": "Waɗu Proforma & Neldu RFQ",
+    "fieldCompany": "Kampani / Gollorde *",
+    "placeholderCompany": "Innde kampani coodoowo laawɗuɗo",
+    "fieldContact": "Neɗɗo Jokkondiral *",
+    "placeholderContact": "Innde fuu & darnde",
+    "fieldPhone": "Lamba Talafun / WhatsApp *",
+    "placeholderPhone": "+234 809 ...",
+    "fieldEmail": "Email Laawɗuɗo *",
+    "placeholderEmail": "procurement@company.com",
+    "fieldDestination": "Nokku Yottinorde *",
+    "destinations": [
+      "Abuja F.C.T.",
+      "Lagos Port (Apapa / Tin Can)",
+      "Port Harcourt / Onne Port",
+      "Kano",
+      "Innde Nokku Kuugal Haa Suɓaa"
+    ],
+    "fieldTargetDate": "Ñalnde Yottinorde Yiɗaa",
+    "fieldCustomAddress": "Innde Nokku Kuugal walla Woorooje Yottinorde *",
+    "placeholderCustomAddress": "Winndu nokku kuugal direkt, babal gollorde, walla woorooje export",
+    "fieldNotes": "Binndi Keertiiɗi dow Laboratori, Mba’uuji, walla Dawaadgol",
+    "placeholderNotes": "Winndu lab SGS/Intertek ngal ɗaɓɓitaa, mba’uuji FIBC 1MT vs tippers meere, walla sahora ƴeewndo...",
+    "btnSubmit": "Neldu RFQ & Waɗu Proforma Laawɗuɗo",
+    "btnSubmitting": "Ɗon waɗa Proforma Laawɗuɗo...",
+    "btnQuickWhatsApp": "Neldugol Yaawngol bee WhatsApp",
+    "btnDirectEmail": "Neldugol Direkt bee Email",
+    "privacyNote": "Gollorde laawɗunde e juuɗe",
+    "units": [
+      "Metric Tons (MT)",
+      "Motaaji Tipper 30T",
+      "Konteenaaji 20ft",
+      "Mba’uuji FIBC 1MT"
+    ]
+  },
+  "engineering": {
+    "eyebrow": "02 / Baawɗe Injinariŋ e Mahdi",
+    "headingPart1": "Yottinorde Mahdi Mawndi & ",
+    "headingAccent": "Kuugal Injinariŋ Bayeeji.",
+    "intro": "Ko ɓuri ƴettugol kaaye marmar nɗirɗe, fedde amin injinariŋ nder Abuja ɗon huwo kuugal leydi mawngal, mahdi concrete teekɗum, motaaji dawaadgol bayeeji, e ƴeewndo leydi les njiimaandi gollorde wootere.",
+    "bannerBadge": "HEBLANEN KUUGAL NOKKU KUUGAL",
+    "bannerTitle": "Gollodal Wootal gila Asgol Bayeeji haa e Yottinorde Mahdi.",
+    "bannerBody": "Bee hawtugo kaaye bayeeji amin, motaaji marsooji leydi, e injinienɓe mahdi laawɗinaaɓe, ministeer e mahooɓe mawɓe ɗon ɗoofta leeltal gollodiiɓe keewɓe e caɗele moƴƴere geɗe mahdi.",
+    "btnSubmitBrief": "Neldu Binndol Injinariŋ",
+    "btnViewCorridors": "Yi'u Laabi Dawaadgol",
+    "pauseVideo": "Darnee Widiyo Nokku Kuugal",
+    "playVideo": "Tara Widiyo Nokku Kuugal",
+    "divisionLabel": "Tabaqa",
+    "requestProposal": "Ɗaɓɓitu Derewol Kuugal",
+    "capabilities": [
+      {
+        "id": "mine-development",
+        "title": "Heblannde e Asgol Bayeeji Kaaye",
+        "subtitle": "Golle Leydi Bayeeji Oopen & Bayeeji Kaaye",
+        "description": "Udditgol nokku kuugal fuu, waɗugo laabi motaaji, benciiji laaɓɗi, e ƴettugol lesdi dow ngam kisal e heɓol kaaye marmar keewɗum.",
+        "deliverables": [
+          "Seefngo benci bayeeji & ittol lesdi yaasi",
+          "Bate laabi dawaadgol & ilooji ndiyam toɓo",
+          "Babal suɓngo kaaye, tewre & mooborde",
+          "Huubaangal kisal nokku kuugal & reenugo bayeeji"
+        ],
+        "equipmentOrMethodology": "30T–45T Excavators Hydraulic · Bulldozers · Motaaji Dumps Articulated"
+      },
+      {
+        "id": "civil-construction",
+        "title": "Mahdi Civil & Injinariŋ Structural",
+        "subtitle": "Mahdi Laabi, Industri & Cuuɗi Mawɗi",
+        "description": "Mahdi injinariŋ haa Naajeeriya fuu—yottinorde concrete teekɗum, ilooji ndiyam, defterduji industri, e laabi cuuɗi mawɗi.",
+        "deliverables": [
+          "Ponti concrete teekɗi, culverts & kokke reenorɗe",
+          "Defte gollorde, ɗaɗi kilooji motaaji & suuɗi feewnorde",
+          "Laabi cuuɗi njulaaku e ilooji ndiyam",
+          "Mahdi concrete e asphalt meƴƴinaaɗi laboratori"
+        ],
+        "equipmentOrMethodology": "Dookaaji Structural BS / NIS · Jarribo QA/QC · Hakkiilo Kuugal Fuu"
+      },
+      {
+        "id": "equipment-haulage",
+        "title": "Geñol Motaaji Mawɗi & Dawaadgol",
+        "subtitle": "Motaaji Marsooji Leydi & Dawaadgol Kaaye Marmar",
+        "description": "Neldugol motaaji mawɗi golliraaɗi, laabi tewre yaawɗi, e motaaji dawaadgol kaaye marmar ngam jokkondirgo bayeeji e woorooje export.",
+        "deliverables": [
+          "Excavators, bulldozers & wheel loaders dow kontrak",
+          "Motaaji dumps articulated & tippers 30T–45T ngam dawaadgol",
+          "Masaanaaji tewre jaw/cone & tankiiji sifting bayeeji",
+          "Laabi dawaadgol konteenaaji gila bayeeji haa woorooje export"
+        ],
+        "equipmentOrMethodology": "Wallitoore Ƴeewndo Balɗe Fuu · Gollotooɓe Heblooɓe · Jarribo GPS Waybill"
+      },
+      {
+        "id": "geological-survey",
+        "title": "Ƴeewndo Leydi (Geology) e Asgol Kaaye",
+        "subtitle": "Keertagol Bate Kaaye, Jarribo & Dookaaji",
+        "description": "Ƴeewndo nokku kuugal ɓataŋkeewo, asgol diamond/RC core drilling, ƴettugol jarribo kaaye, e ƴeewndo nokkuuje ɗe ustata hatere marsooɓe kaaye.",
+        "deliverables": [
+          "Hate geology, asgol baɗe & jarribo kaaye yaasi",
+          "Hakkiilo e resogol ko asaa e core drilling",
+          "Bate diidaaɗe dow kaaye ngoodaaɗe & moƴƴere majje",
+          "Rapport Ƴeewndo Nokku (EIA) & dookaaji laamu"
+        ],
+        "equipmentOrMethodology": "Core Logging · Kisal Jarribo Laboratori Ɓataŋkeewal · Wallitoore Ɗereji Laamu"
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "03 / Laabi Golle & Sahora Yottinorde",
+    "headingPart1": "Dawaadgol gila Bayeeji haa Nokku Kuugal & ",
+    "headingAccent": "Laabi Dokkal Naajeeriya.",
+    "intro": "Asgol leydi heblanaangal, hakkiilo kilooji motaaji, jarribo laboratori tabitinaaɗo, e dawaadgol direkt nder laabi kaaye marmar Naajeeriya e gure mahdi mawɗe.",
+    "inquireSchedule": "Ɗaɓɓitu Sahora Njiɓe Kaaye",
+    "stagingBadge": "KISAL LABORATORI & HEBLANNDE EXPORT",
+    "stagingCaption": "Resogol jarribo kaaye, baagol FIBC 1MT & looding konteenaaji bee lambaaji.",
+    "protocolEyebrow": "Laawol Gollal Coodgu",
+    "protocolTitle": "Laabi Nay ɗe Tabitingol Njiɓe e Yottinorde",
+    "btnStartOrder": "Fuɗɗu Ɗaɓɓol Coodgu Mawngu",
+    "surveyorNotice": "Ƴeewotooɓe coodoowo suɓii (SGS, Intertek, Alfred H Knight) ɗon jaɓɓee ngam heɗaade jarribo e bayeeji walla e woorooje export.",
+    "corridors": [
+      {
+        "id": "nasarawa-kogi-corridor",
+        "vertical": "Kaaye Marmar Caɗtuɗe & Industri",
+        "title": "Laawol Dokkal Pegmatite & Iron Ore nder Caka-Woila",
+        "corridor": "Nasarawa · Kogi · Plateau Belts",
+        "summary": "Moobte, seefngo, e heblannde FIBC 1MT ngam lithium (spodumene/lepidolite), tin cassiterite, coltan, e 60–65% Fe iron ore ngam faktoriiji nder leydi e export Lagos/Port Harcourt.",
+        "scopeTags": [
+          "Jarribo Ko Adii Neldugol",
+          "Baagol FIBC 1MT",
+          "Dawaadgol Haa Woorooje"
+        ]
+      },
+      {
+        "id": "abuja-civil-supply",
+        "vertical": "Mahdi & Dawaadgol Bayeeji",
+        "title": "Motaaji Aggregates Concrete & Road-Base F.C.T. Abuja",
+        "corridor": "Lokogoma · Lugbe · Saraaji Abuja",
+        "summary": "Motaaji tippers jawɗi ɗon yottina 1/2\" e 3/4\" granite, conndi kaaye, lesdi ndiru lootaandi, e laterite teekɗum haa e mahooɓe laabi, faktoriiji concrete, e cuuɗi mawɗi.",
+        "scopeTags": [
+          "Yottinorde Waktuuji 24–72h",
+          "Tippers 30T",
+          "Tikitiiji Kilo Motaaji"
+        ]
+      },
+      {
+        "id": "benue-sulfides",
+        "vertical": "Jamɗe Galena e Sphalerite",
+        "title": "Moobte Galena & Sphalerite nder Benue Trough",
+        "corridor": "Benue Trough → Woorooje Onne / Apapa",
+        "summary": "Moobte jamɗe lead sulfide (PbS) e zinc sulfide (ZnS) e sendol njiɓe, ƴeewndo ndiyam, e jarribo XRF ɓataŋkeewal ko adii loowgol e konteenaaji.",
+        "scopeTags": [
+          "55%+ Pb / 50%+ Zn",
+          "Loowgol Konteenaaji",
+          "Heblii ngam Export NEPC"
+        ]
+      },
+      {
+        "id": "turnkey-civil",
+        "vertical": "Injinariŋ & Kuugal Leydi",
+        "title": "Heblannde Nokku Kuugal, Ilooji Ndiyam & Babal Industri Hawtaangal",
+        "corridor": "F.C.T. Abuja & Nokkuuji Naajeeriya Fuu",
+        "summary": "Hawtugol marsugol leydi teekɗum, maɓɓugol les sub-base, ilooji ndiyam concrete teekɗum, e dokkal geɗe bayeeji les njiimaandi kampani gollotoodo wooto.",
+        "scopeTags": [
+          "Asgol & Seefngo Leydi",
+          "Golle Concrete",
+          "Fiɓnde Gollorde Wootere"
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "step": "01",
+        "title": "Fahmitingol Sifaaji e Manngu",
+        "detail": "Soodooɓe ɗon nelda manngu tons yiɗaaɗo, bate lab, nokku yottinorde, e Incoterms laawol Desk Coodgu amin walla binndol injinariŋ."
+      },
+      {
+        "step": "02",
+        "title": "Jarribo Laboratori & Ƴeewndo Ɗereji Laamu",
+        "detail": "Geɗe jarribo ɗon ƴettaa ngam bate laboratori heɓanɗo seedamfaagu, ƴeewndo ndiyam, e ɗereji asli nokku ko adii fiɓnde njiɓol."
+      },
+      {
+        "step": "03",
+        "title": "Feewnugol, Tewre & Baagol",
+        "detail": "Kaaye ɗen ɗon tewaa, lootoo, walla mba’ee e mba’uuji FIBC 1MT lambaaji, buhuuhaaji PP 50kg, konkooji kisal, walla motaaji tippers."
+      },
+      {
+        "step": "04",
+        "title": "Dawaadgol Bayeeji haa Nokku Kuugal & Export Woorooje",
+        "detail": "Dawaadgol heblanaangal ɗon yottina direkt haa nokku kuugal nder Naajeeriya walla haa woorooje export nder Lagos (Apapa/Tin Can) e Port Harcourt."
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "04 / Ardol Gollorde & Dookaaji Laamu",
+    "headingPart1": "Nuɗɗinaandi Dookaaji e ",
+    "headingAccent": "Binndital Naajeeriya Tabitinaangal.",
+    "narrativeSuffix": " ɗon huwo e ɗooftagol dookaaji gollorde Naajeeriya, tabitingol dookaaji kaaye marmar, e heblannde export—hollude soodooɓe duuniyaaru, mahooɓe laabi, e ministeereeji laamu gollodiiɗo laaɓɗo.",
+    "pillars": [
+      {
+        "code": "CAC-REG",
+        "title": "Winndaama e Corporate Affairs Commission",
+        "detail": "Winndaama les Dookaaji Companies and Allied Matters Act e lamba RC No.: 9963225."
+      },
+      {
+        "code": "MMSD-STD",
+        "title": "Ɗooftagol Ministeer Federal ɗun Kaaye Marmar",
+        "detail": "Asgol kaaye ɗon rewa e dookaaji bayeeji laawɗinaaɗi, lease, e ɗereji kaaye marmar."
+      },
+      {
+        "code": "NEPC-EXP",
+        "title": "Heblannde Export & Kisal Jarribo Laboratori",
+        "detail": "Jarribo laboratori e njiɓe fuu, ƴeewndo radiation to ɗum ɗon ɗaɓɓee, e mba’uuji export."
+      }
+    ],
+    "dossierBadge": "DEREJI GOLLORDE TABITINAAƊI",
+    "dossierSubtitle": "Kampani Gollotooɗo Asgol Kaaye, Injinariŋ & Mahdi nder Naajeeriya",
+    "labelCac": "Binndital CAC",
+    "labelAddress": "Wuro Ofis Mawɗo",
+    "labelLines": "Lambaaji Talafun Direkt",
+    "labelEmail": "Email Laawɗuɗo",
+    "labelVerticals": "Golle Mawɗe",
+    "verticalsShort": "Asgol Kaaye · Injinariŋ Mahdi · Cuuɗi e Laabi · Dokkal Mawngal",
+    "btnOpenRfq": "Maɓɓitu RFQ / Ɗaɓɓol Mawngu",
+    "btnRequestPack": "Ɗaɓɓitu Dereji Ɗooftagol Dookaaji"
+  },
+  "contact": {
+    "eyebrow": "05 / Desk Coodgu, Laboratori & Injinariŋ",
+    "headingPart1": "Jokkondiru Direkt e ",
+    "headingAccent": "Fedde Golle Amin nder Abuja.",
+    "intro": "Neldu ɗaɓɓitaande kampani ngam rapportaji laboratori, kontraaji injinariŋ mahdi, geñol motaaji mawɗi, walla sahoriiji dawaadgol.",
+    "successTitle": "Ɗaɓɓitaande Ma Winndaama & Heblama ngam Neldugol",
+    "successBody": "Neldu ɗon-ɗon haa desk amin bee WhatsApp walla email ma ngam fedde amin injinariŋ & kaaye marmar nder Abuja ƴeewtoo ɗum bee ɓural.",
+    "btnDispatchWhatsApp": "Neldu bee WhatsApp",
+    "btnOpenEmail": "Maɓɓitu nder Email",
+    "btnSendAnother": "Neldu Ɗaɓɓitaande Kampani Goɗɗum",
+    "fieldCategory": "Tabaqa Ɗaɓɓitaande / Ofis",
+    "inquiryTypes": [
+      "Ɗaɓɓol Kaaye Marmar Mawngu",
+      "Ɗaɓɓol Rapport Laboratori",
+      "Tenda Injinariŋ & Mahdi",
+      "Geñol Motaaji Mawɗi",
+      "Ɗaɓɓitaande Gollorde Meere"
+    ],
+    "fieldCompany": "Innde Kampani / Ministeer *",
+    "placeholderCompany": "Innde gollorde",
+    "fieldContact": "Neɗɗo Jokkondiral *",
+    "placeholderContact": "Innde fuu",
+    "fieldPhone": "Lamba Talafun / WhatsApp *",
+    "placeholderPhone": "+234 809 ...",
+    "fieldEmail": "Email Laawɗuɗo *",
+    "placeholderEmail": "name@organization.com",
+    "fieldSubject": "Tiitooru *",
+    "placeholderSubject": "e.g., Ɗaɓɓol Rapport Laboratori ngam Sare Lithium (Spodumene)",
+    "fieldMessage": "Bate Kuugal / Bate Ɗaɓɓitaande *",
+    "placeholderMessage": "Winndu manngu tons yiɗaaɗo, nokku kuugal, bate moƴƴere, walla bate tenda injinariŋ...",
+    "btnSubmit": "Neldu Ɗaɓɓitaande Kampani",
+    "btnSubmitting": "Ɗon Heblana Ɗaɓɓitaande Kampani...",
+    "headOfficeBadge": "OFIS MAWƊO GOLLORDE",
+    "workingHours": "Altine – Mande · 08:00 – 17:00 WAT (Asweere Neldugol Nokku Kuugal e Sahora)",
+    "btnOpenMaps": "Maɓɓitu nder Google Maps",
+    "channelsBadge": "LAABI MAWƊI DIREKT",
+    "primaryLineLabel": "Desk Coodi Mawɗo",
+    "secondaryLineLabel": "Lamba Injinariŋ & Dawaadgol",
+    "emailLabel": "Email Gollorde Laawɗuɗo"
+  },
+  "footer": {
+    "verifiedRegistration": "Binndital Gollorde Tabitinaangal",
+    "mission": "Yottinorde kaaye marmar Naajeeriya tabitinaaɗi laboratori, kaaye aggregates bayeeji, dawaadgol motaaji mawɗi, e mahdi injinariŋ gila F.C.T. Abuja haa soodooɓe industri duuniyaaru fuu.",
+    "colPortal": "Portal Gollorde",
+    "colProcurement": "Desk Coodi",
+    "colHeadOffice": "Ofis Mawɗo & Lambaaji Direkt",
+    "linkOpenRfq": "Maɓɓitu Maŋgasiin RFQ / Ɗaɓɓol Mawngu",
+    "linkRequestAssay": "Ɗaɓɓitu Rapport Laboratori",
+    "linkSubmitTender": "Neldu Tenda Injinariŋ / Mahdi",
+    "linkWhatsApp": "Desk WhatsApp",
+    "backToTop": "Wartu dow"
+  },
+  "toast": {
+    "addedSuffix": "ɓeydaama e limto RFQ",
+    "readySubtitle": "Heblii ngam manngu tons & sarɗiiji yottinorde",
+    "openRfqLabel": "Maɓɓitu Limto RFQ"
+  }
+}

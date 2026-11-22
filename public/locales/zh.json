@@ -1,0 +1,673 @@
+{
+  "switcher": {
+    "buttonLabel": "语言",
+    "modalTitle": "语言偏好",
+    "modalSubtitle": "将企业门户和矿物目录翻译成25种尼日利亚及全球语言。",
+    "searchPlaceholder": "搜索语言（例如：中文、土耳其语、阿拉伯语、豪萨语、约鲁巴语、伊博语、卡努里语、富拉尼语...）",
+    "noMatches": "未找到匹配的语言。",
+    "groupNigerian": "尼日利亚本地语言",
+    "groupGlobal": "全球贸易与出口",
+    "groupMore": "更多世界语言",
+    "instantBadge": "即时",
+    "aiBadge": "实时 AI",
+    "rtlBadge": "RTL",
+    "translatingStatus": "正在翻译门户内容...",
+    "errorFallback": "实时翻译暂时不可用。显示英文备用内容。",
+    "legalNotice": "官方 CAC 注册信息、化学式和参考代码保持英文原文。"
+  },
+  "nav": {
+    "topLocation": "Lokogoma District, F.C.T., Abuja · 全尼日利亚及出口供应",
+    "home": "首页",
+    "about": "关于我们与合规性",
+    "catalog": "矿产资源",
+    "engineering": "工程服务",
+    "projects": "项目案例",
+    "contact": "联系我们",
+    "orderRfq": "订购 / 询价 (RFQ)",
+    "requestBulkQuote": "申请大宗报价",
+    "openRfqList": "打开 RFQ 订单列表",
+    "callPrefix": "电话联系"
+  },
+  "hero": {
+    "eyebrow": "固体矿产 · 重型工程 · 基础设施",
+    "headlinePart1": "精密固体矿产开采与 ",
+    "headlineAccent": "重型工程基础设施建设",
+    "headlinePart2": " 覆盖尼日利亚全境。",
+    "subheadlinePrefix": "从经认证的原矿采购到大规模土木工程建设，",
+    "subheadlineSuffix": " 从 F.C.T. Abuja 到全球市场提供合规、高品位的材料和交钥匙工程。",
+    "ctaExplore": "探索矿产资源",
+    "ctaContact": "联系采购部",
+    "ctaOpenRfq": "发起大宗 RFQ",
+    "deskEyebrow": "管理层工作台",
+    "deskTitle": "直营大宗商品与土木工程授权",
+    "statStatus": "企业状态",
+    "statPortfolio": "矿产投资组合",
+    "statPortfolioValue": "8 种认证资源",
+    "statHeadOffice": "总部",
+    "statHeadOfficeValue": "Lokogoma, F.C.T. Abuja",
+    "statChannels": "供应渠道",
+    "statChannelsValue": "自卸车 · 20尺整柜 (FCL) · FOB 港口",
+    "ctaBuildRfq": "构建大宗 RFQ",
+    "trustCacTitle": "经过验证的 CAC 注册",
+    "trustAbujaTitle": "Lokogoma-Abuja 运营中心",
+    "trustAbujaSub": "F.C.T. 总部与调度中心",
+    "trustAssayTitle": "化验认证矿石品位",
+    "trustAssaySub": "独立实验室验证",
+    "trustLogisticsTitle": "矿山直达工地物流",
+    "trustLogisticsSub": "自卸车队与出口码头",
+    "coreVerticalsLabel": "核心业务板块",
+    "verticals": [
+      "固体矿产开采与加工",
+      "土木与重型工程",
+      "基础设施建设",
+      "大宗矿产供应"
+    ]
+  },
+  "catalog": {
+    "eyebrow": "01 / 固体矿产与采石场资源目录",
+    "headingPart1": "经化验背书的资源，服务于 ",
+    "headingAccent": "全球工业与基础设施。",
+    "intro": "查阅经验证的规格指标，查看现有的物理形态，并直接为 Abuja 发货或港口出口组装多矿种大宗采购咨询。",
+    "requestSchedule": "获取当前供货计划表",
+    "categories": {
+      "all": "所有资源",
+      "battery": "电池与关键矿产",
+      "precious": "贵金属",
+      "industrial": "工业矿石",
+      "construction": "建筑与采石场"
+    },
+    "searchPlaceholder": "搜索矿物、化学式、用途...",
+    "rfqListLabel": "RFQ 列表",
+    "emptyTitle": "未找到匹配的矿产商品",
+    "emptySubtitle": "请尝试清除搜索筛选条件，或查看所有 8 种经认证的尼日利亚固体矿产。",
+    "resetFilters": "重置目录筛选",
+    "gradeLabel": "化验 / 品位范围",
+    "formsLabel": "形态",
+    "moqLabel": "最小订货量 (MOQ)",
+    "originLabel": "产地",
+    "termsLabel": "条款",
+    "viewFullSpecs": "查看完整规格",
+    "orderQuote": "订购 / 询价",
+    "inRfqOrder": "已加入 RFQ · 订单",
+    "footerNote": "所有矿产规格均视批次而定，并在发货前通过独立的具备资质的实验室化验（可选 SGS / Intertek / Alfred H Knight）进行验证。",
+    "assembleMultiOrder": "组装多矿种订单"
+  },
+  "minerals": {
+    "lithium": {
+      "name": "锂矿石",
+      "subtitle": "锂辉石与锂云母",
+      "grade": "4.5% – 6.2% Li₂O",
+      "moq": "30 公吨 / 1 辆自卸卡车",
+      "origin": "尼日利亚 Nasarawa、Kogi 和 Kwara 伟晶岩带",
+      "leadTime": "批次确认后 7 – 14 个工作日",
+      "description": "源自尼日利亚中部伟晶岩地层的硬岩锂辉石和锂云母锂原料，经过分选和加工，达到买方对碳酸锂和氢氧化锂精炼所需的粒度和化学指标要求。",
+      "complianceNote": "附带矿山产地可追溯性文件、独立出运前化验证书以及符合 NEPC 要求的出口文件。",
+      "forms": [
+        "原矿块",
+        "破碎料 (0–50mm)",
+        "精矿"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Delivered Site",
+        "FOB Lagos"
+      ],
+      "packagingOptions": [
+        "1,000 kg 重型编织集装袋 (FIBC)",
+        "50 kg 双层内衬 PP 出口袋",
+        "散装自卸车发运（国内运输）"
+      ],
+      "applications": [
+        "电动汽车电池正极前驱体及锂化学品精炼",
+        "特种陶瓷及耐热硼硅酸盐玻璃",
+        "工业润滑剂及特种冶金熔剂"
+      ]
+    },
+    "gold": {
+      "name": "金矿石与砂金精矿",
+      "subtitle": "经化验认证的贵金属原料",
+      "grade": "化验认证（实验室验证）",
+      "moq": "1 公吨 · 视批次化验而定",
+      "origin": "尼日利亚中北部及西北部片岩带",
+      "leadTime": "按计划的安全批次分配",
+      "description": "在严格的托管链协议下处理原生含金石英脉矿石和重选砂金原料，商业结算前均经过火法试金回收率报告验证。",
+      "complianceNote": "严格按照经过验证的尼日利亚矿业权、托管链记录和经认证的独立火法试金报告进行交易。",
+      "forms": [
+        "原石英矿",
+        "砂金精矿",
+        "重选精矿"
+      ],
+      "terms": [
+        "Ex-Works",
+        "安全押运 / 金库提货"
+      ],
+      "packagingOptions": [
+        "防篡改密封钢制安保桶",
+        "带编号的重型安保袋",
+        "用于独立火法试金的验证缩分样品"
+      ],
+      "applications": [
+        "持牌冶金黄金精炼与金锭回收",
+        "重选及湿法冶金加工厂",
+        "机构贵金属储备供应链"
+      ]
+    },
+    "tin": {
+      "name": "锡矿石",
+      "subtitle": "锡石精矿 (SnO₂)",
+      "grade": "65% – 72% Sn",
+      "moq": "30 公吨 / 1 × 20尺集装箱",
+      "origin": "尼日利亚 Jos 高原及中北部锡矿带",
+      "leadTime": "每集装箱批次 7 – 12 个工作日",
+      "description": "开采自尼日利亚历史悠久的 Jos 高原矿带的高比重砂矿及硬岩锡石精矿，经洗选和电磁选矿，以符合国际冶炼厂的纯度公差要求。",
+      "complianceNote": "集装箱装柜时提供 XRF/湿法化学锡化验及出口辐射通关文件。",
+      "forms": [
+        "砂金精矿",
+        "硬岩破碎料",
+        "水洗细矿"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Delivered Site",
+        "FOB Lagos"
+      ],
+      "packagingOptions": [
+        "50 kg 双层编织聚丙烯袋 (20 MT / 20尺 FCL)",
+        "1,000 kg 出口 FIBC 集装袋",
+        "密封钢桶（高品位精矿）"
+      ],
+      "applications": [
+        "初级锡冶炼及无铅电子焊料制造",
+        "马口铁食品级镀锡钢板及化学稳定剂",
+        "青铜、巴氏合金轴承及特种工业合金"
+      ]
+    },
+    "coltan": {
+      "name": "铌铁矿与钽铁矿 (Coltan)",
+      "subtitle": "高 Ta₂O₅ / Nb₂O₅ 比率精矿",
+      "grade": "高 Ta₂O₅ / Nb₂O₅ 化验品位",
+      "moq": "1 × 20尺集装箱 (20 MT) / 空运批次待议",
+      "origin": "尼日利亚中北部伟晶岩带",
+      "leadTime": "10 – 18 个工作日（含清关时间）",
+      "description": "高密度铌钽铁矿精矿，专为电子电容器制造、高温合金和航空航天冶金加工，附有严格的辐射筛选和元素 XRF/ICP 化验报告。",
+      "complianceNote": "每批货物均经过强制性放射性筛选和独立实验室验证，以符合国际承运人和买方的规定。",
+      "forms": [
+        "精矿",
+        "破碎矿石",
+        "原矿块"
+      ],
+      "terms": [
+        "Ex-Works",
+        "FOB Lagos",
+        "CIF 询价"
+      ],
+      "packagingOptions": [
+        "50 kg 内衬钢桶 / 双层 PP 袋",
+        "1,000 kg 托盘化 FIBC 集装袋",
+        "防篡改密封出口集装箱"
+      ],
+      "applications": [
+        "半导体及 5G 硬件用钽电解电容器",
+        "喷气发动机涡轮及航空结构件用镍铌高温合金",
+        "高强度微合金结构钢生产"
+      ]
+    },
+    "lead-zinc": {
+      "name": "铅锌矿石",
+      "subtitle": "方铅矿与闪锌矿硫化精矿",
+      "grade": "55%+ Pb / 50%+ Zn",
+      "moq": "30 公吨 / 1 辆自卸卡车",
+      "origin": "尼日利亚 Benue 槽谷矿产走廊",
+      "leadTime": "7 – 14 个工作日",
+      "description": "开采自尼日利亚丰富的 Benue 槽谷带的高品位方铅矿（PbS）和闪锌矿（ZnS）矿石，经分选后用于冶炼、钢厂镀锌和工业电池制造。",
+      "complianceNote": "可应要求按铅或锌的主导含量单独分选，附带完整的地磅和出运前化验证书。",
+      "forms": [
+        "精矿",
+        "破碎矿石",
+        "原矿块"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Delivered Site",
+        "FOB Lagos",
+        "FOB Port Harcourt"
+      ],
+      "packagingOptions": [
+        "1,000 kg 出口集装袋 (FIBC)",
+        "50 kg 重型 PP 袋",
+        "散装 30T 自卸车运输（内陆）"
+      ],
+      "applications": [
+        "工业铅酸蓄电池及辐射防护屏障",
+        "结构钢防腐用热镀锌",
+        "压铸合金、黄铜冶金及氧化锌化学品"
+      ]
+    },
+    "iron": {
+      "name": "铁矿石",
+      "subtitle": "赤铁矿与磁铁矿",
+      "grade": "60% – 65% Fe",
+      "moq": "30 公吨 / 1 辆自卸卡车",
+      "origin": "尼日利亚 Kogi 和 Niger 铁矿带",
+      "leadTime": "5 – 10 个工作日",
+      "description": "高密度赤铁矿和磁铁矿铁矿石，分级为高炉块矿或烧结粉矿，具有稳定的 Fe 品位和极低的有害脉石，适用于国内铸造厂、水泥窑和出口炼钢。",
+      "complianceNote": "附带经认证的采石场地磅单及实验室 Fe/脉石元素分析明细。",
+      "forms": [
+        "破碎块矿 (10–50mm)",
+        "粉矿 (0–10mm)",
+        "原矿石"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Delivered Site",
+        "FOB Port Harcourt"
+      ],
+      "packagingOptions": [
+        "散装 30T / 45T 铰接式自卸卡车",
+        "1,000 kg / 1,500 kg 集装袋 FIBC 出口包",
+        "散装集装箱或散货港口集港"
+      ],
+      "applications": [
+        "长流程炼钢、直接还原铁 (DRI) 及轧钢厂",
+        "波特兰水泥熟料校正用铁质添加剂",
+        "重型骨料配重及高密度混凝土配重"
+      ]
+    },
+    "limestone": {
+      "name": "石灰石与大理石骨料",
+      "subtitle": "高钙碳酸盐石材",
+      "grade": "> 92% CaCO₃",
+      "moq": "30 公吨 / 1 辆自卸卡车",
+      "origin": "尼日利亚 F.C.T. / Kogi / Edo 石灰石带",
+      "leadTime": "3 – 7 个工作日",
+      "description": "开采的高纯度沉积石灰石和建筑大理石块，用于熟料水泥制造、消石灰生产、烟气脱硫及高档商业石材饰面。",
+      "complianceNote": "为 Abuja 及全国的水泥厂连续供料和商业建筑承包商量身定制的大宗供货计划。",
+      "forms": [
+        "破碎骨料",
+        "规格块石",
+        "研磨粉末 (CaCO₃)"
+      ],
+      "terms": [
+        "Ex-Works",
+        "Delivered Site",
+        "FOB Lagos"
+      ],
+      "packagingOptions": [
+        "散装 30T 自卸卡车运输",
+        "1,000 kg 集装袋（破碎料 / 超细粉末）",
+        "采石场原大理石块（平板车运输）"
+      ],
+      "applications": [
+        "水泥熟料制造及生石灰 / 消石灰窑",
+        "碳酸钙工业填料（涂料、PVC、造纸、农业）",
+        "建筑大理石干挂外墙、地板及土木基础设施石材"
+      ]
+    },
+    "aggregates": {
+      "name": "花岗岩骨料、红土及粗砂",
+      "subtitle": "土木工程采石场及土方工程供应",
+      "grade": "BS / NIS 采石场规格",
+      "moq": "1 辆自卸卡车 (20 – 30 公吨)",
+      "origin": "F.C.T. Abuja 及 Nasarawa 采石走廊",
+      "leadTime": "F.C.T. Abuja 及周边地区 24 – 72 小时",
+      "description": "筛分火成岩破碎花岗岩骨料、压实级公路红土和水洗河粗砂，由 Gargati 运输车队直接运送至土木工程、桥梁、地产和道路施工现场。",
+      "complianceNote": "由 Gargati 在 Abuja 活跃的车队提供保障，确保多车现场调度不中断，并满足承包商信用/采购订单履约要求。",
+      "forms": [
+        "1/2\" 花岗岩",
+        "3/4\" 花岗岩",
+        "石粉",
+        "路基红土",
+        "水洗粗砂"
+      ],
+      "terms": [
+        "Delivered Site",
+        "Ex-Works"
+      ],
+      "packagingOptions": [
+        "20吨 / 30吨液压自卸卡车（工地卸货）",
+        "按计划每日多车承包商发货",
+        "采石场直接装车供客户自提"
+      ],
+      "applications": [
+        "结构钢筋混凝土配料（桥梁、高层建筑、基础）",
+        "沥青面层、公路路面基层及排水固结",
+        "Abuja F.C.T. 住宅及工业园区土木工程"
+      ]
+    }
+  },
+  "specModal": {
+    "inspectTexture": "检查原矿纹理",
+    "purityLabel": "纯度 / 化验",
+    "originLabel": "产地带",
+    "tabCommercial": "商业与物流",
+    "tabTechnical": "物理与化学",
+    "tabPackaging": "包装与出口",
+    "moqLabel": "最小订购量 (MOQ)",
+    "termsLabel": "交货条款",
+    "leadTimeLabel": "发货周期",
+    "applicationsHeading": "主要工业应用",
+    "physicalHeading": "物理参数",
+    "chemicalHeading": "化学与化验指标范围",
+    "packagingHeading": "可选包装与运输形式",
+    "packagingDisclaimer": "装运前集装箱装柜监督、序列化重量单及第三方见证采样可通过我们的 Lokogoma-Abuja 采购台进行安排。",
+    "preferredFormHeading": "选择报价偏好形态",
+    "addAndOpen": "添加并打开订单抽屉",
+    "updateAndOpen": "更新形态并打开订单抽屉",
+    "requestAssay": "索取化验报告",
+    "lightboxTitleSuffix": "纹理检查",
+    "resetZoom": "1.0× 重置",
+    "macroZoom": "1.75× 宏观缩放"
+  },
+  "drawer": {
+    "eyebrow": "B2B 采购与 RFQ 服务台",
+    "titleBuilder": "采购订单列表",
+    "titleProforma": "官方形式发票 (Proforma)",
+    "readyBannerTitle": "RFQ 已就绪 — 参考号",
+    "readyBannerBody": "通过 WhatsApp、官方电子邮件将结构化的形式发票直接发送至我们的 Lokogoma-Abuja 服务台，或保存/打印为官方 PDF。",
+    "proformaTag": "形式发票 RFQ 摘要",
+    "preparedFor": "客户名称",
+    "attnLabel": "接收人：",
+    "deliverySchedule": "交货时间表",
+    "targetDateLabel": "目标日期：",
+    "toBeScheduled": "待安排",
+    "validityNote": "有效期：14 天 · 视批次化验而定",
+    "colCommodity": "商品",
+    "colFormTerms": "形态 / 条款",
+    "colQuantity": "数量",
+    "buyerNotesLabel": "买方备注：",
+    "btnWhatsApp": "通过 WhatsApp 发送",
+    "btnEmail": "发送电子邮件",
+    "btnPrint": "打印 / 保存 PDF 形式发票",
+    "btnCopy": "复制订单摘要",
+    "btnCopied": "已复制 RFQ 摘要",
+    "btnEditOrder": "编辑数量或明细",
+    "btnClearReset": "清空并发起新询价",
+    "quickAddLabel": "+ 快速添加商品至此订单",
+    "moreResources": "更多资源...",
+    "emptyTitle": "您的采购列表目前为空",
+    "emptySubtitle": "请在上方选择任意商品或浏览完整目录，以配置吨位、品位和交货条款。",
+    "browseCatalog": "浏览矿产目录",
+    "qtyLabel": "需求数量 *",
+    "unitLabel": "单位",
+    "preferredFormLabel": "偏好品位 / 形态",
+    "preferredTermsLabel": "偏好交货条款",
+    "buyerSectionEyebrow": "买方及物流明细",
+    "buyerSectionTitle": "生成形式发票并发送 RFQ",
+    "fieldCompany": "公司 / 机构名称 *",
+    "placeholderCompany": "注册买方实体",
+    "fieldContact": "联系人 *",
+    "placeholderContact": "全名与头衔",
+    "fieldPhone": "电话 / WhatsApp *",
+    "placeholderPhone": "+234 809 ...",
+    "fieldEmail": "官方电子邮件 *",
+    "placeholderEmail": "procurement@company.com",
+    "fieldDestination": "交货目的地 *",
+    "destinations": [
+      "Abuja F.C.T.",
+      "Lagos 港 (Apapa / Tin Can)",
+      "Port Harcourt / Onne 港",
+      "Kano",
+      "自定义工地地址"
+    ],
+    "fieldTargetDate": "目标交货日期",
+    "fieldCustomAddress": "自定义交货工地或港口地址 *",
+    "placeholderCustomAddress": "输入确切的工地位置、工业园区或出口港口",
+    "fieldNotes": "特殊化验、包装或物流备注",
+    "placeholderNotes": "说明所需的 SGS/Intertek 出运前化验、1MT 集装袋或散装自卸车，或检验日程安排...",
+    "btnSubmit": "提交 RFQ 并生成官方形式发票",
+    "btnSubmitting": "正在生成官方形式发票...",
+    "btnQuickWhatsApp": "快速 WhatsApp 发送",
+    "btnDirectEmail": "直接邮件发送",
+    "privacyNote": "企业直接处理部门：",
+    "units": [
+      "公吨 (MT)",
+      "30T 自卸卡车",
+      "20尺集装箱",
+      "1MT 集装袋"
+    ]
+  },
+  "engineering": {
+    "eyebrow": "02 / 工程与施工能力",
+    "headingPart1": "重型土木交付与 ",
+    "headingAccent": "矿山工程执行。",
+    "intro": "除了原矿开采外，我们位于 Abuja 的工程部门还在统一的企业授权下执行复杂的土方工程、钢筋混凝土结构、采石场运输车队和地质勘探。",
+    "bannerBadge": "交钥匙现场动员",
+    "bannerTitle": "从矿坑开挖到土木交验的单一合作伙伴问责制。",
+    "bannerBody": "通过整合我们的采石场骨料、土方设备和持牌土木工程师，政府部委和商业开发商消除了多供应商延误和材料质量瓶颈。",
+    "btnSubmitBrief": "提交工程简报",
+    "btnViewCorridors": "查看供应走廊",
+    "pauseVideo": "暂停现场视频",
+    "playVideo": "播放现场视频",
+    "divisionLabel": "部门",
+    "requestProposal": "索取建议书",
+    "capabilities": [
+      {
+        "id": "mine-development",
+        "title": "矿山场地开发与开挖",
+        "subtitle": "露天土方工程与采石场作业",
+        "description": "端到端的场地开辟、运输道路修建、系统化台阶开采和控制性剥离，旨在实现安全、高回收率的固体矿产开采。",
+        "deliverables": [
+          "露天台阶设计与表土剥离",
+          "矿山运输道路平整与雨水排水",
+          "原矿分选、破碎场地及堆场管理",
+          "渐进式矿坑复垦与场地安全围栏"
+        ],
+        "equipmentOrMethodology": "30T–45T 液压挖掘机 · 推土机 · 铰接式自卸卡车"
+      },
+      {
+        "id": "civil-construction",
+        "title": "土木与结构施工",
+        "subtitle": "基础设施、工业与地产工程",
+        "description": "覆盖尼日利亚全境的交钥匙土木工程建设——交付钢筋混凝土结构、排水网络、工业仓库和商业园区基础设施。",
+        "deliverables": [
+          "钢筋混凝土桥梁、涵洞与挡土墙",
+          "工业仓库、地磅基础与加工车间",
+          "商业与住宅园区道路网及雨水渠",
+          "经过质量检测的骨料、混凝土与沥青路面施工"
+        ],
+        "equipmentOrMethodology": "BS / NIS 结构标准 · QA/QC 材料检测 · 交钥匙监督"
+      },
+      {
+        "id": "equipment-haulage",
+        "title": "重型设备租赁与运输",
+        "subtitle": "土方车队与大宗矿产物流",
+        "description": "可靠部署带操作员的重型机械、移动式破碎线和大宗矿产运输卡车，连接偏远矿区至工程现场及出口海港。",
+        "deliverables": [
+          "合同履约履带式挖掘机、推土机及轮式装载机",
+          "铰接式自卸车及 30T–45T 自卸运输车队",
+          "移动式鄂式/圆锥式破碎及多层筛分设备动员",
+          "矿山至港口集装箱及散货出口卡车运输走廊"
+        ],
+        "equipmentOrMethodology": "预防性维护支持 · 经验丰富的操作员 · GPS 运单追踪"
+      },
+      {
+        "id": "geological-survey",
+        "title": "地质调查与矿产勘探",
+        "subtitle": "资源圈定、采样与合规性",
+        "description": "技术野外评估、金刚石/RC钻探协调、代表性矿石采样和环境基线研究，降低矿业投资风险。",
+        "deliverables": [
+          "地质填图、槽探及出露刻槽采样",
+          "钻孔取芯监督及编录芯盒归档",
+          "初步资源量估算及品位控制规划",
+          "环境影响评估 (EIA) 及合规性申报"
+        ],
+        "equipmentOrMethodology": "岩芯编录 · 独立实验室托管链 · 监管备案支持"
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "03 / 运营走廊与执行流程",
+    "headingPart1": "矿山至现场物流与 ",
+    "headingAccent": "尼日利亚供应走廊。",
+    "intro": "跨越尼日利亚主要固体矿产带和城市建设枢纽的协调开采、地磅控制、实验室化验验证和直接运输。",
+    "inquireSchedule": "查询批次计划",
+    "stagingBadge": "化验托管与出口集港",
+    "stagingCaption": "岩芯样品归档、1MT FIBC 集装袋打包及序列化集装箱装载。",
+    "protocolEyebrow": "采购执行协议",
+    "protocolTitle": "四阶段批次验证与交付流程",
+    "btnStartOrder": "开始大宗订购",
+    "surveyorNotice": "欢迎买方指定的检验机构（SGS、Intertek、Alfred H Knight）在矿山堆场或港口集港区进行见证采样。",
+    "corridors": [
+      {
+        "id": "nasarawa-kogi-corridor",
+        "vertical": "关键与工业矿产",
+        "title": "中北部伟晶岩与铁矿石供应链",
+        "corridor": "Nasarawa · Kogi · Plateau 矿带",
+        "summary": "为面向国内冶炼厂和 Lagos/Port Harcourt 出口码头的锂矿（锂辉石/锂云母）、锡石锡矿、铌钽铁矿及 60–65% Fe 铁矿石批次提供协调采购、粒度分级和集装袋集港服务。",
+        "scopeTags": [
+          "装船前化验",
+          "1MT 集装袋包装",
+          "港口运输"
+        ]
+      },
+      {
+        "id": "abuja-civil-supply",
+        "vertical": "建筑与采石场物流",
+        "title": "F.C.T. Abuja 混凝土骨料与路基车队",
+        "corridor": "Lokogoma · Lugbe · Abuja 周边",
+        "summary": "高频自卸车队直接向公路承包商、搅拌站和地产开发商交付 1/2\" 和 3/4\" 花岗岩、石粉、水洗粗砂及压实级红土。",
+        "scopeTags": [
+          "24–72小时现场调度",
+          "30T 自卸车",
+          "地磅单"
+        ]
+      },
+      {
+        "id": "benue-sulfides",
+        "vertical": "贱金属包销",
+        "title": "Benue 槽谷方铅矿与闪锌矿整合",
+        "corridor": "Benue 槽谷 → Onne / Apapa 港",
+        "summary": "PbS 和 ZnS 精矿的结构化大宗整合，在集装箱装柜前进行批次隔离、水分监测和独立 XRF 检验。",
+        "scopeTags": [
+          "55%+ Pb / 50%+ Zn",
+          "集装箱装柜",
+          "NEPC 出口就绪"
+        ]
+      },
+      {
+        "id": "turnkey-civil",
+        "vertical": "工程与土方",
+        "title": "一体化场地平整、排水及工业场地垫层",
+        "corridor": "F.C.T. Abuja 及尼日利亚各地项目现场",
+        "summary": "在单一具备问责制的企业授权下执行重型土方移动、路基压实、钢筋混凝土排水工程以及采石场直供材料。",
+        "scopeTags": [
+          "开挖与平整",
+          "混凝土工程",
+          "单一要点问责"
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "step": "01",
+        "title": "规格与范围对接",
+        "detail": "买方通过我们的采购台或工程简报提交目标吨位、化学品位门槛、交货目的地和 Incoterms。"
+      },
+      {
+        "step": "02",
+        "title": "独立实验室化验与权属核查",
+        "detail": "在正式承诺之前，抽取批次样品进行资质实验室化验、水分验证和矿产产地文件核查。"
+      },
+      {
+        "step": "03",
+        "title": "加工、校准与包装",
+        "detail": "矿石经过破碎、洗选，或装入序列化的 1MT FIBC 集装袋、50kg PP 袋、安保桶或校准后的自卸车卡车。"
+      },
+      {
+        "step": "04",
+        "title": "矿山至现场及港口出口发运",
+        "detail": "协调运输直接交付至尼日利亚各地的项目现场，或发送至 Lagos (Apapa/Tin Can) 和 Port Harcourt 的集港出口码头。"
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "04 / 企业治理与合规性",
+    "headingPart1": "监管信誉与 ",
+    "headingAccent": "经验证的尼日利亚注册。",
+    "narrativeSuffix": " 严格遵循尼日利亚企业治理、矿业权核查和出口就绪标准进行运营——为国际包销商、土木承包商和政府部委提供透明、可追溯的交易交易对手。",
+    "pillars": [
+      {
+        "code": "CAC-REG",
+        "title": "企业事务委员会 (CAC) 注册成立",
+        "detail": "根据《公司及联网事宜法案》注册成立，RC No.: 9963225。"
+      },
+      {
+        "code": "MMSD-STD",
+        "title": "联邦固体矿产发展部标准对接",
+        "detail": "采购符合持牌采石场、租赁权和矿业权权属文件协议。"
+      },
+      {
+        "code": "NEPC-EXP",
+        "title": "出口就绪与独立化验托管",
+        "detail": "特定批次实验室化验、辐射筛选（如适用）及出口包装。"
+      }
+    ],
+    "dossierBadge": "经验证的企业卷宗",
+    "dossierSubtitle": "活跃的尼日利亚矿业、工程与基础设施企业",
+    "labelCac": "CAC 注册信息",
+    "labelAddress": "总部地址",
+    "labelLines": "直连电话",
+    "labelEmail": "官方电子邮件",
+    "labelVerticals": "核心业务板块",
+    "verticalsShort": "矿业 · 土木工程 · 基础设施 · 大宗供应",
+    "btnOpenRfq": "打开大宗订单 / RFQ",
+    "btnRequestPack": "索取合规材料包"
+  },
+  "contact": {
+    "eyebrow": "05 / 采购、化验与工程服务台",
+    "headingPart1": "直接联系我们的 ",
+    "headingAccent": "Abuja 运营团队。",
+    "intro": "提交企业咨询，以获取实验室化验报告、土木工程招标、重型设备动员或包销时间表。",
+    "successTitle": "咨询已记录并已格式化等待发送",
+    "successBody": "通过 WhatsApp 或下方您的官方电子邮件客户端立即发送给我们的服务台，以便我们的 Abuja 工程和大宗商品团队优先复核。",
+    "btnDispatchWhatsApp": "通过 WhatsApp 发送",
+    "btnOpenEmail": "在电子邮件中打开",
+    "btnSendAnother": "提交另一条企业咨询",
+    "fieldCategory": "咨询部门 / 类别",
+    "inquiryTypes": [
+      "大宗矿产包销",
+      "实验室化验报告索取",
+      "工程与施工招标",
+      "重型设备租赁",
+      "一般企业咨询"
+    ],
+    "fieldCompany": "公司 / 部委名称 *",
+    "placeholderCompany": "机构名称",
+    "fieldContact": "联系人 *",
+    "placeholderContact": "全名",
+    "fieldPhone": "电话 / WhatsApp *",
+    "placeholderPhone": "+234 809 ...",
+    "fieldEmail": "官方电子邮件 *",
+    "placeholderEmail": "name@organization.com",
+    "fieldSubject": "主题 *",
+    "placeholderSubject": "例如：锂矿石（锂辉石）化验报告索取",
+    "fieldMessage": "技术范围 / 咨询明细 *",
+    "placeholderMessage": "说明所需的吨位、项目现场位置、规格目标或工程招标范围...",
+    "btnSubmit": "提交企业咨询",
+    "btnSubmitting": "正在准备企业咨询...",
+    "headOfficeBadge": "企业总部",
+    "workingHours": "星期一 – 星期五 · 08:00 – 17:00 WAT（星期六现场发货需预约）",
+    "btnOpenMaps": "在 Google 地图中打开",
+    "channelsBadge": "高管直连渠道",
+    "primaryLineLabel": "主采购台",
+    "secondaryLineLabel": "工程与物流专线",
+    "emailLabel": "官方企业电子邮件"
+  },
+  "footer": {
+    "verifiedRegistration": "经验证的企业注册",
+    "mission": "从 F.C.T. Abuja 向全球工业买家提供经化验认证的尼日利亚固体矿产、采石场骨料、重型设备运输和土木工程基础设施。",
+    "colPortal": "企业门户",
+    "colProcurement": "采购服务台",
+    "colHeadOffice": "总部与直连电话",
+    "linkOpenRfq": "打开大宗订单 / RFQ 抽屉",
+    "linkRequestAssay": "索取实验室化验报告",
+    "linkSubmitTender": "提交工程 / 土木招标",
+    "linkWhatsApp": "WhatsApp 服务台",
+    "backToTop": "返回页首"
+  },
+  "toast": {
+    "addedSuffix": "已添加至 RFQ 列表",
+    "readySubtitle": "已就绪，可选择吨位与交货条款",
+    "openRfqLabel": "打开 RFQ 列表"
+  }
+}
