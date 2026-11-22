@@ -1,6 +1,10 @@
 import { COMPANY } from "@/lib/company"
 import { minerals } from "@/lib/minerals"
-import type { InquiryRequestPayload, OrderRequestPayload } from "@/lib/validation"
+import type {
+  InquiryRequestPayload,
+  OrderLineInput,
+  OrderRequestPayload,
+} from "@/lib/validation"
 
 export function generateReferenceCode(prefix: "GME" | "GME-INQ" = "GME"): string {
   const year = new Date().getFullYear()
@@ -73,6 +77,33 @@ export function formatInquiryBrief(inquiry: InquiryRequestPayload, reference?: s
 
 export function buildWhatsAppOrderUrl(text: string): string {
   return `https://wa.me/${COMPANY.whatsappNumber}?text=${encodeURIComponent(text)}`
+}
+
+export function buildGeneralWhatsAppUrl(items: OrderLineInput[] = []): string {
+  if (items.length === 0) {
+    const greeting = [
+      `Hello ${COMPANY.legalName} (${COMPANY.rcNumber}),`,
+      "",
+      "I am visiting your corporate portal and would like to inquire about solid mineral procurement, assay specifications, or civil engineering services.",
+    ].join("\n")
+    return buildWhatsAppOrderUrl(greeting)
+  }
+
+  const mineralLookup = new Map(minerals.map((item) => [item.id, item]))
+  const selectedLines = items.map((line, idx) => {
+    const mineral = mineralLookup.get(line.mineralId)
+    const name = mineral ? `${mineral.name} (${mineral.formula})` : line.mineralId
+    return `${idx + 1}. ${name} — ${line.quantity} ${line.unit} (${line.form} · ${line.deliveryTerm})`
+  })
+
+  const message = [
+    `Hello ${COMPANY.legalName} (${COMPANY.rcNumber}),`,
+    "",
+    "I have selected the following mineral items on your portal and would like pricing and dispatch details:",
+    ...selectedLines,
+  ].join("\n")
+
+  return buildWhatsAppOrderUrl(message)
 }
 
 export function buildMailtoOrderUrl(subject: string, text: string): string {

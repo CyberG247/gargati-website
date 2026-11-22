@@ -5,6 +5,7 @@ import { AnimatePresence, motion, useReducedMotion } from "framer-motion"
 import { ArrowRight, CheckCircle2, X } from "lucide-react"
 import { ComplianceAndContact, type InquiryPrefill } from "@/components/compliance-and-contact"
 import { EngineeringServices } from "@/components/engineering-services"
+import { FloatingWhatsAppButton } from "@/components/floating-whatsapp-button"
 import { Footer } from "@/components/footer"
 import { Hero } from "@/components/hero"
 import { MineralCatalog } from "@/components/mineral-catalog"
@@ -258,6 +259,11 @@ function PortalContent() {
           </motion.div>
         )}
       </AnimatePresence>
+
+      <FloatingWhatsAppButton
+        items={cartItems}
+        hidden={drawerOpen || Boolean(activeSpecMineral) || Boolean(toast)}
+      />
     </div>
   )
 }
